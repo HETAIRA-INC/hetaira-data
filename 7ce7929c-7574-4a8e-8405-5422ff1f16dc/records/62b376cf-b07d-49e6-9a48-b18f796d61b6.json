@@ -1,0 +1,27 @@
+{
+  "uuid": "62b376cf-b07d-49e6-9a48-b18f796d61b6",
+  "status": "ACTIVE",
+  "id": "EROS-GN-0114",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [],
+  "title": "PUMPCHELLA: SUMMER REMIX",
+  "description": "DJ Nichole is here to keep you focused, steady, and perfectly on rhythm. 💋\nThis Pumpchella remix is all about surrendering to the beat and staying in that loop as long as you can. Let go. Follow my voice. Stay with me.",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4M",
+  "author": "Goddess Nichole",
+  "artist": "Goddess Nichole",
+  "releaseDate": "2026-10-03",
+  "tone": [],
+  "cover": "covers/62b376cf-b07d-49e6-9a48-b18f796d61b6.png",
+  "file": "audio/62b376cf-b07d-49e6-9a48-b18f796d61b6.mp3",
+  "url": "https://goddessnichole.com/pumpchella-summer-remix/",
+  "changelog": [
+    {
+      "date": "2026-10-03 13:01:36",
+      "variant": "ORIGINAL",
+      "note": "Protocol created"
+    }
+  ]
+}

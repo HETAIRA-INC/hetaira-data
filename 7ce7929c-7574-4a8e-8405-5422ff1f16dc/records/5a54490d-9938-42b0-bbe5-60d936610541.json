@@ -1,0 +1,27 @@
+{
+  "uuid": "5a54490d-9938-42b0-bbe5-60d936610541",
+  "status": "ACTIVE",
+  "id": "EROS-GN-154",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [],
+  "title": "NicholeZen: Daily Yoga & Stretch",
+  "description": "",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4M",
+  "author": "Goddess Nichole",
+  "artist": "Goddess Nichole",
+  "releaseDate": "2026-10-03",
+  "tone": [],
+  "cover": "covers/5a54490d-9938-42b0-bbe5-60d936610541.png",
+  "file": "audio/5a54490d-9938-42b0-bbe5-60d936610541.mp3",
+  "url": "https://goddessnichole.com/nicholezen-daily-yoga-stretch/",
+  "changelog": [
+    {
+      "date": "2026-10-03 21:19:23",
+      "variant": "ORIGINAL",
+      "note": "Protocol created"
+    }
+  ]
+}

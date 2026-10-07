@@ -1,0 +1,1061 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HETAIRA.EROS // DOSSIER HUD</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;800;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #060308;
+      --card-bg: rgba(18, 9, 21, 0.92);
+      --card-sub: rgba(30, 14, 34, 0.65);
+      --neon-pink: #ff007f;
+      --crimson-lust: #ff003c;
+      --blush-glow: #ff4d8d;
+      --cyber-cyan: #00f0ff;
+      --gold-tier: #fcee0a;
+      --text-main: #f8fafc;
+      --text-muted: #a68c9a;
+      --border-pink: rgba(255, 0, 127, 0.35);
+      --border-cyan: rgba(0, 240, 255, 0.35);
+      --font-display: 'Orbitron', monospace, sans-serif;
+      --font-body: 'Rajdhani', sans-serif;
+      --font-mono: 'Share Tech Mono', monospace;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: var(--bg);
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(255, 0, 127, 0.08) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(0, 240, 255, 0.06) 0%, transparent 40%),
+        linear-gradient(rgba(255, 255, 255, 0.015) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.015) 1px, transparent 1px);
+      background-size: 100% 100%, 100% 100%, 30px 30px, 30px 30px;
+      color: var(--text-main);
+      font-family: var(--font-body);
+      min-height: 100vh;
+      padding: 2.5rem 1.25rem;
+      position: relative;
+    }
+
+    /* Scanline overlay */
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background: repeating-linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15) 1px, transparent 1px, transparent 2px);
+      opacity: 0.7;
+      z-index: 999;
+    }
+
+    .detail-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      background: var(--card-bg);
+      border: 1px solid var(--border-pink);
+      box-shadow: 0 0 50px rgba(255, 0, 127, 0.18), inset 0 0 20px rgba(255, 0, 127, 0.05);
+      padding: 2.5rem;
+      backdrop-filter: blur(25px);
+      position: relative;
+      clip-path: polygon(0 0, calc(100% - 25px) 0, 100% 25px, 100% 100%, 25px 100%, 0 calc(100% - 25px));
+    }
+
+    /* Top HUD Action Bar */
+    .hud-topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px solid rgba(255, 0, 127, 0.2);
+      padding-bottom: 1.25rem;
+      margin-bottom: 2rem;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    .back-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--font-display);
+      font-size: 0.8rem;
+      color: var(--blush-glow);
+      text-decoration: none;
+      letter-spacing: 2px;
+      transition: all 0.2s ease;
+      background: rgba(255, 0, 127, 0.08);
+      border: 1px solid var(--border-pink);
+      padding: 6px 14px;
+    }
+
+    .back-btn:hover {
+      color: #fff;
+      background: var(--neon-pink);
+      box-shadow: 0 0 15px var(--neon-pink);
+      transform: translateX(-3px);
+    }
+
+    .hud-status-badge {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      letter-spacing: 1.5px;
+      color: var(--cyber-cyan);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      background: #00ff66;
+      border-radius: 50%;
+      box-shadow: 0 0 10px #00ff66;
+      animation: pulse 1.6s infinite ease-in-out;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 0.4; transform: scale(0.9); }
+      50% { opacity: 1; transform: scale(1.15); }
+    }
+
+    /* Main Grid Layout */
+    .hud-grid {
+      display: grid;
+      grid-template-columns: 380px 1fr;
+      gap: 2.5rem;
+    }
+
+    @media (max-width: 950px) {
+      .hud-grid { grid-template-columns: 1fr; }
+      .detail-container { padding: 1.5rem; }
+    }
+
+    /* Left Column: Media & Player */
+    .media-col {
+      display: flex;
+      flex-direction: column;
+      gap: 1.25rem;
+    }
+
+    .cover-frame {
+      width: 100%;
+      height: 380px;
+      background: #120715;
+      border: 1px solid var(--neon-pink);
+      box-shadow: 0 0 25px rgba(255, 0, 127, 0.25);
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .cover-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.4s ease;
+    }
+
+    .cover-frame:hover .cover-img {
+      transform: scale(1.03);
+    }
+
+    .tier-overlay {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: rgba(0, 0, 0, 0.85);
+      border: 1px solid var(--gold-tier);
+      color: var(--gold-tier);
+      font-family: var(--font-display);
+      font-size: 0.7rem;
+      padding: 3px 8px;
+      letter-spacing: 1.5px;
+      z-index: 2;
+    }
+
+    /* Cyber Audio Console */
+    .audio-console {
+      background: var(--card-sub);
+      border: 1px solid var(--border-pink);
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.9rem;
+      position: relative;
+    }
+
+    .equalizer-canvas {
+      width: 100%;
+      height: 52px;
+      background: rgba(0, 0, 0, 0.6);
+      border: 1px solid rgba(255, 0, 127, 0.2);
+    }
+
+    .scrubber-wrap {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      color: var(--cyber-cyan);
+    }
+
+    .cyber-range {
+      flex-grow: 1;
+      height: 5px;
+      accent-color: var(--neon-pink);
+      cursor: pointer;
+    }
+
+    .audio-controls-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .playback-group {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .cyber-btn {
+      background: rgba(255, 0, 127, 0.1);
+      border: 1px solid var(--border-pink);
+      color: var(--blush-glow);
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      padding: 6px 10px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+
+    .cyber-btn:hover {
+      background: var(--neon-pink);
+      color: #fff;
+      box-shadow: 0 0 10px var(--neon-pink);
+    }
+
+    .cyber-btn.active {
+      background: var(--neon-pink);
+      color: #fff;
+    }
+
+    .play-btn {
+      background: linear-gradient(90deg, var(--crimson-lust), var(--neon-pink));
+      border: none;
+      color: #fff;
+      font-family: var(--font-display);
+      font-size: 0.85rem;
+      padding: 8px 18px;
+      letter-spacing: 2px;
+      cursor: pointer;
+      clip-path: polygon(8px 0, 100% 0, calc(100% - 8px) 100%, 0 100%);
+      transition: all 0.2s ease;
+    }
+
+    .play-btn:hover {
+      box-shadow: 0 0 18px var(--neon-pink);
+      transform: translateY(-1px);
+    }
+
+    .volume-wrap {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .volume-slider {
+      width: 70px;
+      accent-color: var(--cyber-cyan);
+      cursor: pointer;
+    }
+
+    /* Right Column: Dossier Information */
+    .info-col {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .uuid-tag-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.5rem;
+      background: rgba(0, 240, 255, 0.05);
+      border-left: 2px solid var(--cyber-cyan);
+      padding: 6px 10px;
+    }
+
+    .uuid-tag {
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      color: var(--cyber-cyan);
+    }
+
+    .copy-btn {
+      background: transparent;
+      border: 1px solid var(--border-cyan);
+      color: var(--cyber-cyan);
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      padding: 2px 8px;
+      cursor: pointer;
+      letter-spacing: 1px;
+      transition: all 0.2s;
+    }
+
+    .copy-btn:hover {
+      background: var(--cyber-cyan);
+      color: #000;
+    }
+
+    .title {
+      font-family: var(--font-display);
+      font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.15;
+      margin-top: 0.4rem;
+      margin-bottom: 0.4rem;
+      text-shadow: 0 0 20px rgba(255, 0, 127, 0.4);
+    }
+
+    .protocol-tag-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .primary-tag {
+      font-family: var(--font-display);
+      font-size: 0.85rem;
+      color: var(--blush-glow);
+      letter-spacing: 2px;
+    }
+
+    .variant-badge-active {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      padding: 2px 8px;
+      background: rgba(255, 0, 127, 0.15);
+      border: 1px solid var(--neon-pink);
+      color: #fff;
+    }
+
+    /* Variants Section Box */
+    .variants-card {
+      background: rgba(255, 0, 127, 0.04);
+      border: 1px solid rgba(255, 0, 127, 0.25);
+      padding: 1rem 1.25rem;
+      margin-bottom: 1.8rem;
+      position: relative;
+    }
+
+    .variants-card::before {
+      content: "FORKED PROTOCOL VARIANTS";
+      position: absolute;
+      top: -9px;
+      left: 14px;
+      font-family: var(--font-display);
+      font-size: 0.65rem;
+      color: var(--cyber-cyan);
+      background: var(--bg);
+      padding: 0 6px;
+      letter-spacing: 1.5px;
+    }
+
+    .variant-pill-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 4px;
+    }
+
+    .variant-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(18, 9, 21, 0.8);
+      border: 1px solid var(--border-pink);
+      padding: 8px 14px;
+      color: var(--text-main);
+      text-decoration: none;
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      transition: all 0.25s ease;
+      cursor: pointer;
+    }
+
+    .variant-pill:hover {
+      border-color: var(--cyber-cyan);
+      box-shadow: 0 0 12px rgba(0, 240, 255, 0.3);
+      color: #fff;
+      transform: translateY(-2px);
+    }
+
+    .variant-pill.is-active {
+      background: linear-gradient(135deg, rgba(255, 0, 127, 0.2), rgba(0, 240, 255, 0.15));
+      border-color: var(--neon-pink);
+      box-shadow: 0 0 15px rgba(255, 0, 127, 0.35);
+      color: #fff;
+    }
+
+    .variant-pill-tag {
+      font-family: var(--font-display);
+      font-size: 0.7rem;
+      background: var(--crimson-lust);
+      color: #fff;
+      padding: 2px 6px;
+    }
+
+    .variant-pill.is-active .variant-pill-tag {
+      background: var(--neon-pink);
+    }
+
+    /* Metadata Grid */
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+      gap: 0.85rem;
+      margin-bottom: 1.8rem;
+    }
+
+    .meta-box {
+      background: rgba(255, 0, 127, 0.03);
+      border-left: 3px solid var(--crimson-lust);
+      padding: 0.75rem 0.9rem;
+      border-top: 1px solid rgba(255, 0, 127, 0.1);
+      border-right: 1px solid rgba(255, 0, 127, 0.1);
+      border-bottom: 1px solid rgba(255, 0, 127, 0.1);
+    }
+
+    .meta-label {
+      font-family: var(--font-display);
+      font-size: 0.68rem;
+      color: var(--text-muted);
+      letter-spacing: 1px;
+      margin-bottom: 2px;
+    }
+
+    .meta-val {
+      font-family: var(--font-mono);
+      font-size: 0.95rem;
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .description-box {
+      background: rgba(0, 0, 0, 0.25);
+      border-left: 2px solid var(--border-pink);
+      padding: 1.1rem 1.25rem;
+      margin-bottom: 1.8rem;
+    }
+
+    .description {
+      font-size: 1.1rem;
+      line-height: 1.65;
+      color: #e2e8f0;
+      white-space: pre-line;
+    }
+
+    /* Tags & Triggers */
+    .section-wrap {
+      margin-bottom: 1.25rem;
+    }
+
+    .section-heading {
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      letter-spacing: 1.5px;
+      color: var(--blush-glow);
+      margin-bottom: 0.5rem;
+    }
+
+    .badge-collection {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .hud-badge-tag {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      padding: 4px 9px;
+      background: rgba(0, 240, 255, 0.08);
+      border: 1px solid var(--border-cyan);
+      color: #e2f8ff;
+    }
+
+    .hud-badge-trigger {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      padding: 4px 9px;
+      background: rgba(255, 0, 85, 0.1);
+      border: 1px solid var(--neon-pink);
+      color: #ffe6ef;
+    }
+
+    /* Changelog & Uplink Actions */
+    .changelog-card {
+      margin-top: 1.5rem;
+      border-top: 1px dashed rgba(255, 0, 127, 0.3);
+      padding-top: 1.2rem;
+    }
+
+    .changelog-row {
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+
+    .uplink-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 1rem;
+      font-family: var(--font-display);
+      font-size: 0.8rem;
+      letter-spacing: 1.5px;
+      padding: 8px 16px;
+      background: rgba(0, 240, 255, 0.08);
+      border: 1px solid var(--cyber-cyan);
+      color: var(--cyber-cyan);
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+
+    .uplink-btn:hover {
+      background: var(--cyber-cyan);
+      color: #000;
+      box-shadow: 0 0 15px var(--cyber-cyan);
+    }
+
+    /* Toast Notification */
+    #hudToast {
+      position: fixed;
+      bottom: 25px;
+      right: 25px;
+      background: #000;
+      border: 1px solid var(--cyber-cyan);
+      color: var(--cyber-cyan);
+      font-family: var(--font-mono);
+      font-size: 0.85rem;
+      padding: 10px 18px;
+      box-shadow: 0 0 15px rgba(0, 240, 255, 0.4);
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all 0.3s ease;
+      pointer-events: none;
+      z-index: 1000;
+    }
+
+    #hudToast.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+  <script src="config.js"></script>
+</head>
+<body>
+
+  <div class="detail-container" id="hudContainer">
+    <div style="text-align: center; color: var(--blush-glow); font-family: var(--font-display); padding: 4rem 0;">
+      [ INITIALIZING HETAIRA AUDIO HUD PROTOCOL... ]
+    </div>
+  </div>
+
+  <div id="hudToast">DATA COPIED TO BUFFER</div>
+
+  <script>
+    let audioInstance = null;
+    let visualizerInterval = null;
+
+    // Cache to hold master archive records
+    let cachedMasterList = null;
+
+    // Built-in Cyberpunk SVG Artwork Fallback (Guaranteed to always render)
+    const FALLBACK_SVG = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(`
+      <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+        <rect width="400" height="400" fill="#120715"/>
+        <defs>
+          <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+            <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(255,0,127,0.12)" stroke-width="1"/>
+          </pattern>
+          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#ff007f"/>
+            <stop offset="100%" stop-color="#00f0ff"/>
+          </linearGradient>
+        </defs>
+        <rect width="400" height="400" fill="url(#grid)"/>
+        <circle cx="200" cy="175" r="65" fill="none" stroke="url(#grad)" stroke-width="2" opacity="0.6"/>
+        <polygon points="200,135 235,195 165,195" fill="none" stroke="#ff007f" stroke-width="2"/>
+        <text x="200" y="275" text-anchor="middle" font-family="'Orbitron', monospace, sans-serif" font-size="13" font-weight="700" fill="#ff4d8d" letter-spacing="2">[ NO COVER ARTWORK ]</text>
+        <text x="200" y="300" text-anchor="middle" font-family="'Share Tech Mono', monospace" font-size="11" fill="#00f0ff" opacity="0.8">// SIGNAL_OFFLINE</text>
+      </svg>
+    `);
+
+    document.addEventListener('DOMContentLoaded', () => {
+      loadDossier();
+    });
+
+    window.addEventListener('popstate', () => {
+      loadDossier();
+    });
+
+    function showToast(msg) {
+      const toast = document.getElementById('hudToast');
+      toast.textContent = msg;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2500);
+    }
+
+    async function fetchMasterArchive() {
+      if (cachedMasterList) return cachedMasterList;
+      
+      const candidates = ['../7ce7929c-7574-4a8e-8405-5422ff1f16dc/summary.json', '../7ce7929c-7574-4a8e-8405-5422ff1f16dc/data.json'];
+      for (const endpoint of candidates) {
+        try {
+          const res = await fetch(endpoint);
+          if (res.ok) {
+            cachedMasterList = await res.json();
+            return cachedMasterList;
+          }
+        } catch (e) {}
+      }
+      return [];
+    }
+
+    async function loadDossier() {
+      const urlParams = new URLSearchParams(window.location.search);
+      const targetId = urlParams.get('id');
+      const container = document.getElementById('hudContainer');
+
+      if (!targetId) {
+        container.innerHTML = `
+          <div class="hud-topbar">
+            <a href="index.html" class="back-btn">&larr; RETURN TO ARCHIVE</a>
+          </div>
+          <h2 style="color:var(--crimson-lust); font-family:var(--font-display);">NO PROTOCOL UUID SPECIFIED</h2>
+        `;
+        return;
+      }
+
+      try {
+        let item = null;
+
+        try {
+          const singleRes = await fetch(`../7ce7929c-7574-4a8e-8405-5422ff1f16dc/records/${targetId}.json`);
+          if (singleRes.ok) item = await singleRes.json();
+        } catch (e) {}
+
+        const masterList = await fetchMasterArchive();
+
+        if (!item && masterList.length) {
+          item = masterList.find(i => i.uuid === targetId || i.id === targetId);
+        }
+
+        if (!item) {
+          container.innerHTML = `
+            <div class="hud-topbar">
+              <a href="index.html" class="back-btn">&larr; RETURN TO ARCHIVE</a>
+            </div>
+            <h2 style="color:var(--crimson-lust); font-family:var(--font-display);">RECORD [${targetId}] NOT FOUND IN ARCHIVES</h2>
+          `;
+          return;
+        }
+
+        let variants = [];
+        if (masterList && item.id) {
+          variants = masterList.filter(entry => entry.id === item.id);
+        }
+        
+        if (variants.length === 0) {
+          variants = [item];
+        }
+
+        renderDossier(item, variants);
+      } catch (err) {
+        console.error(err);
+        container.innerHTML = `<h2 style="color:var(--crimson-lust); font-family:var(--font-display);">TELEMETRY TRANSMISSION CORRUPTED</h2>`;
+      }
+    }
+
+    function renderDossier(item, variants) {
+      const container = document.getElementById('hudContainer');
+      const tags = Array.isArray(item.tags) ? item.tags : [];
+      const triggers = Array.isArray(item.triggers) ? item.triggers : [];
+      const tones = Array.isArray(item.tone) && item.tone.length ? item.tone.join(', ') : (item.tone || 'NEUTRAL');
+      const changelogs = Array.isArray(item.changelog) ? item.changelog : [];
+
+      // Safe URL resolution & robust fallback image chain
+      const resolveFn = window.resolveAssetUrl || (url => url);
+      const FALLBACK_ART = resolveFn('covers/fallback_cover.png', 'cover');
+      const rawCover = (item.cover && String(item.cover).trim()) ? resolveFn(item.cover, 'cover') : null;
+      const initialCover = rawCover || FALLBACK_ART;
+      const audioFile = (item.file && String(item.file).trim()) ? resolveFn(item.file , 'audio') : '';
+
+      // Variants HTML
+      let variantsHtml = '';
+      if (variants.length > 1) {
+        variantsHtml = `
+          <div class="variants-card">
+            <div class="variant-pill-grid">
+              ${variants.map(v => {
+                const isActive = v.uuid === item.uuid;
+                const vAudience = v.variant || v.audience || 'STANDARD';
+                return `
+                  <div class="variant-pill ${isActive ? 'is-active' : ''}" onclick="switchVariant('${v.uuid}')">
+                    <span class="variant-pill-tag">${vAudience}</span>
+                    <span>${v.title}</span>
+                    ${isActive ? '<span style="color:var(--cyber-cyan); font-size:0.7rem;">[ACTIVE]</span>' : ''}
+                  </div>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        `;
+      }
+
+      // Changelog HTML
+      let changelogHtml = '';
+      if (changelogs.length > 0) {
+        changelogHtml = `
+          <div class="changelog-card">
+            <div class="section-heading">// PROTOCOL REVISION LOG:</div>
+            ${changelogs.map(log => `
+              <div class="changelog-row">
+                <span style="color:var(--cyber-cyan);">${log.date}</span> &bull; 
+                <span style="color:var(--neon-pink);">[${log.variant || 'LOG'}]</span> 
+                <span>${log.note}</span>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      container.innerHTML = `
+        <div class="hud-topbar">
+          <a href="index.html" class="back-btn">&larr; TERMINATE LINK // RETURN TO ARCHIVE</a>
+          <div class="hud-status-badge">
+            <div class="status-dot"></div>
+            PROTOCOL FEED: ${item.status || 'ACTIVE'}
+          </div>
+        </div>
+        
+        <div class="hud-grid">
+          <!-- Left Column: Cover & Audio Console -->
+          <div class="media-col">
+            <div class="cover-frame">
+              <img 
+                src="${initialCover}" 
+                alt="${item.title || 'Dossier Visual'}" 
+                class="cover-img"
+                onerror="this.onerror=null; this.src='${FALLBACK_ART}';">
+              <div class="tier-overlay">${item.tier || 'FREE'}</div>
+            </div>
+
+            <!-- Functional Cyber Audio Player -->
+            <div class="audio-console">
+              <canvas id="equalizer" class="equalizer-canvas" width="340" height="52"></canvas>
+              
+              <div class="scrubber-wrap">
+                <span id="currentTime">00:00</span>
+                <input type="range" id="seekSlider" class="cyber-range" value="0" min="0" max="100" step="0.1">
+                <span id="durationTime">--:--</span>
+              </div>
+
+              <div class="audio-controls-row">
+                <div class="playback-group">
+                  <button id="skipBackBtn" class="cyber-btn" title="Rewind 10s">-10s</button>
+                  <button id="playBtn" class="play-btn">PLAY FEED</button>
+                  <button id="skipFwdBtn" class="cyber-btn" title="Fast-forward 10s">+10s</button>
+                </div>
+
+                <div class="volume-wrap">
+                  <button id="muteBtn" class="cyber-btn" title="Toggle Mute">VOL</button>
+                  <input type="range" id="volumeSlider" class="volume-slider" min="0" max="1" step="0.05" value="1">
+                </div>
+
+                <div class="playback-group">
+                  <button id="speedBtn" class="cyber-btn" title="Playback Speed">1.0x</button>
+                  <button id="loopBtn" class="cyber-btn" title="Toggle Loop">LOOP</button>
+                </div>
+              </div>
+
+              <audio id="audioSource" src="${audioFile}" preload="metadata"></audio>
+            </div>
+          </div>
+
+          <!-- Right Column: Dossier Details -->
+          <div class="info-col">
+            <div class="uuid-tag-row">
+              <span class="uuid-tag">TARGET_UUID: ${item.uuid}</span>
+              <button class="copy-btn" onclick="navigator.clipboard.writeText('${item.uuid}'); showToast('UUID COPIED TO BUFFER');">COPY UUID</button>
+            </div>
+            
+            <h1 class="title">${item.title}</h1>
+            
+            <div class="protocol-tag-row">
+              <div class="primary-tag">${item.id || 'EROS-ID'} // ${item.tag || 'AUDIO RECORD'}</div>
+              ${item.variant ? `<span class="variant-badge-active">VARIANT: ${item.variant}</span>` : ''}
+            </div>
+
+            <!-- Protocol Variants Switcher -->
+            ${variantsHtml}
+
+            <!-- Metadata Stats Grid -->
+            <div class="meta-grid">
+              <div class="meta-box">
+                <div class="meta-label">ACCESS TIER</div>
+                <div class="meta-val" style="color:var(--gold-tier);">${item.tier || 'STANDARD'}</div>
+              </div>
+              <div class="meta-box">
+                <div class="meta-label">AUDIENCE SPEC</div>
+                <div class="meta-val" style="color:var(--cyber-cyan);">${item.audience || item.variant || 'ALL'}</div>
+              </div>
+              <div class="meta-box">
+                <div class="meta-label">VOICE ARTIST</div>
+                <div class="meta-val">${item.artist || 'UNKNOWN'}</div>
+              </div>
+              <div class="meta-box">
+                <div class="meta-label">PRODUCER / AUTHOR</div>
+                <div class="meta-val">${item.author || 'UNKNOWN'}</div>
+              </div>
+              <div class="meta-box">
+                <div class="meta-label">TONAL SPECTRUM</div>
+                <div class="meta-val" style="color:var(--neon-pink);">${tones}</div>
+              </div>
+              <div class="meta-box">
+                <div class="meta-label">RELEASE DATE</div>
+                <div class="meta-val">${item.releaseDate || 'UNKNOWN'}</div>
+              </div>
+            </div>
+
+            <div class="description-box">
+              <p class="description">${item.description || 'No descriptive payload attached.'}</p>
+            </div>
+
+            ${tags.length ? `
+              <div class="section-wrap">
+                <div class="section-heading">// DESCRIPTOR TAGS:</div>
+                <div class="badge-collection">
+                  ${tags.map(t => `<span class="hud-badge-tag">#${t}</span>`).join('')}
+                </div>
+              </div>` : ''}
+
+            ${triggers.length ? `
+              <div class="section-wrap">
+                <div class="section-heading">// NEURAL / CONTENT TRIGGERS:</div>
+                <div class="badge-collection">
+                  ${triggers.map(tr => `<span class="hud-badge-trigger">&#9888; ${tr}</span>`).join('')}
+                </div>
+              </div>` : ''}
+
+            ${item.url ? `
+              <div>
+                <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="uplink-btn">
+                  <span>&#10138; ACCESS EXTERNAL SOURCE UPLINK</span>
+                </a>
+              </div>` : ''}
+
+            ${changelogHtml}
+          </div>
+        </div>
+      `;
+
+      initCyberAudio();
+    }
+
+    // Handles image load errors gracefully with multi-stage fallback
+    window.handleCoverError = function(imgElement, fileFallback, svgFallback) {
+      if (!imgElement.dataset.fallbackAttempted) {
+        imgElement.dataset.fallbackAttempted = "1";
+        imgElement.src = fileFallback;
+      } else {
+        imgElement.onerror = null;
+        imgElement.src = svgFallback;
+      }
+    };
+
+    // Fast switch variant function without full page reloads
+    window.switchVariant = function(targetUuid) {
+      const url = new URL(window.location);
+      url.searchParams.set('id', targetUuid);
+      window.history.pushState({}, '', url);
+      loadDossier();
+    };
+
+    function initCyberAudio() {
+      const audio = document.getElementById('audioSource');
+      const playBtn = document.getElementById('playBtn');
+      const seekSlider = document.getElementById('seekSlider');
+      const currentTime = document.getElementById('currentTime');
+      const durationTime = document.getElementById('durationTime');
+      const speedBtn = document.getElementById('speedBtn');
+      const loopBtn = document.getElementById('loopBtn');
+      const muteBtn = document.getElementById('muteBtn');
+      const volumeSlider = document.getElementById('volumeSlider');
+      const skipBackBtn = document.getElementById('skipBackBtn');
+      const skipFwdBtn = document.getElementById('skipFwdBtn');
+      const canvas = document.getElementById('equalizer');
+      const ctx = canvas.getContext('2d');
+
+      if (!audio) return;
+
+      // Speed control cycle
+      const speeds = [1.0, 1.25, 1.5, 2.0, 0.75];
+      let speedIdx = 0;
+
+      speedBtn.addEventListener('click', () => {
+        speedIdx = (speedIdx + 1) % speeds.length;
+        audio.playbackRate = speeds[speedIdx];
+        speedBtn.textContent = `${speeds[speedIdx]}x`;
+      });
+
+      // Loop toggle
+      loopBtn.addEventListener('click', () => {
+        audio.loop = !audio.loop;
+        loopBtn.classList.toggle('active', audio.loop);
+      });
+
+      // Skip buttons
+      skipBackBtn.addEventListener('click', () => {
+        audio.currentTime = Math.max(0, audio.currentTime - 10);
+      });
+
+      skipFwdBtn.addEventListener('click', () => {
+        audio.currentTime = Math.min(audio.duration || 0, audio.currentTime + 10);
+      });
+
+      // Volume & Mute
+      volumeSlider.addEventListener('input', (e) => {
+        audio.volume = e.target.value;
+        audio.muted = false;
+        muteBtn.textContent = audio.volume === 0 ? 'MUTED' : 'VOL';
+      });
+
+      muteBtn.addEventListener('click', () => {
+        audio.muted = !audio.muted;
+        muteBtn.textContent = audio.muted ? 'MUTED' : 'VOL';
+      });
+
+      // Play / Pause
+      playBtn.addEventListener('click', () => {
+        if (audio.paused) {
+          audio.play().then(() => {
+            playBtn.textContent = 'PAUSE FEED';
+            startVisualizer(canvas, ctx);
+          }).catch((err) => {
+            console.warn('Playback error / missing file:', err);
+            showToast('STREAM SIMULATION ACTIVE');
+            startVisualizer(canvas, ctx);
+          });
+        } else {
+          audio.pause();
+          playBtn.textContent = 'RESUME FEED';
+          stopVisualizer();
+        }
+      });
+
+      audio.addEventListener('timeupdate', () => {
+        const cur = audio.currentTime;
+        const dur = audio.duration || 100;
+        if (!isNaN(dur) && dur > 0) {
+          seekSlider.value = (cur / dur) * 100;
+        }
+        currentTime.textContent = formatTime(cur);
+      });
+
+      audio.addEventListener('loadedmetadata', () => {
+        durationTime.textContent = formatTime(audio.duration);
+      });
+
+      audio.addEventListener('ended', () => {
+        playBtn.textContent = 'PLAY FEED';
+        stopVisualizer();
+      });
+
+      seekSlider.addEventListener('input', () => {
+        const dur = audio.duration || 100;
+        audio.currentTime = (seekSlider.value / 100) * dur;
+      });
+
+      function formatTime(s) {
+        if (isNaN(s)) return '00:00';
+        const m = Math.floor(s / 60);
+        const sec = Math.floor(s % 60);
+        return `${m < 10 ? '0' : ''}${m}:${sec < 10 ? '0' : ''}${sec}`;
+      }
+
+      function startVisualizer(c, context) {
+        stopVisualizer();
+        visualizerInterval = setInterval(() => {
+          context.clearRect(0, 0, c.width, c.height);
+          const bars = 36;
+          const barWidth = c.width / bars;
+          for (let i = 0; i < bars; i++) {
+            const h = Math.random() * (c.height * 0.85) + 3;
+            const grad = context.createLinearGradient(0, c.height, 0, 0);
+            grad.addColorStop(0, '#ff007f');
+            grad.addColorStop(1, '#00f0ff');
+            context.fillStyle = grad;
+            context.fillRect(i * barWidth, c.height - h, barWidth - 2, h);
+          }
+        }, 70);
+      }
+
+      function stopVisualizer() {
+        if (visualizerInterval) clearInterval(visualizerInterval);
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+      }
+      // Handle unavailable audio
+      audio.addEventListener('error', () => {
+        console.warn('Audio unavailable:', audio.src);
+
+        // Disable player controls
+        [
+          playBtn,
+          seekSlider,
+          speedBtn,
+          loopBtn,
+          muteBtn,
+          volumeSlider,
+          skipBackBtn,
+          skipFwdBtn
+        ].forEach(btn => {
+          if (btn) btn.disabled = true;
+        });
+
+        // Update UI
+        if (playBtn) playBtn.textContent = 'FEED NOT FOUND';
+
+        // Reset time display
+        if (currentTime) currentTime.textContent = '00:00';
+        if (durationTime) durationTime.textContent = '00:00';
+
+        // Disable seeking
+        if (seekSlider) seekSlider.value = 0;
+
+        // Stop visualizer
+        stopVisualizer();
+      });
+    }
+  </script>
+</body>
+</html>

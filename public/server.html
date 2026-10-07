@@ -1,0 +1,2157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CYBER.EROS // ROOT ADMIN CONSOLE</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&family=Rajdhani:wght@500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --bg: #070408;
+      --panel-bg: rgba(18, 10, 19, 0.95);
+      --card-border: rgba(255, 0, 85, 0.35);
+      --neon-pink: #ff007f;
+      --crimson-lust: #ff003c;
+      --blush-glow: #ff4d8d;
+      --cyber-cyan: #00f0ff;
+      --gold-tier: #fcee0a;
+      --matrix-green: #00ff66;
+      --text-main: #f8fafc;
+      --text-muted: #b89ca9;
+      --font-display: 'Orbitron', monospace, sans-serif;
+      --font-body: 'Rajdhani', sans-serif;
+      --font-mono: 'Share Tech Mono', monospace;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: var(--font-body);
+      min-height: 100vh;
+      padding: 1.5rem;
+    }
+
+    .admin-container {
+      max-width: 1580px;
+      margin: 0 auto;
+    }
+
+    .top-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid rgba(255, 0, 85, 0.3);
+      padding-bottom: 1rem;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+
+    h1 {
+      font-family: var(--font-display);
+      font-size: 1.6rem;
+      color: #fff;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+    }
+    h1 span { color: var(--neon-pink); }
+
+    .nav-actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .btn-cyber {
+      background: rgba(255, 0, 85, 0.1);
+      border: 1px solid var(--neon-pink);
+      color: #fff;
+      font-family: var(--font-display);
+      font-size: 0.72rem;
+      padding: 8px 14px;
+      letter-spacing: 1.2px;
+      cursor: pointer;
+      text-transform: uppercase;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .btn-cyber:hover {
+      background: var(--neon-pink);
+      color: #fff;
+      box-shadow: 0 0 15px var(--neon-pink);
+    }
+
+    .btn-cyan {
+      border-color: var(--cyber-cyan);
+      color: var(--cyber-cyan);
+      background: rgba(0, 240, 255, 0.08);
+    }
+    .btn-cyan:hover {
+      background: var(--cyber-cyan);
+      color: #000;
+      box-shadow: 0 0 15px var(--cyber-cyan);
+    }
+
+    .btn-green {
+      border-color: var(--matrix-green);
+      color: var(--matrix-green);
+      background: rgba(0, 255, 102, 0.08);
+    }
+    .btn-green:hover {
+      background: var(--matrix-green);
+      color: #000;
+      box-shadow: 0 0 15px var(--matrix-green);
+    }
+
+    .btn-gold {
+      border-color: var(--gold-tier);
+      color: var(--gold-tier);
+      background: rgba(252, 238, 10, 0.08);
+    }
+    .btn-gold:hover {
+      background: var(--gold-tier);
+      color: #000;
+      box-shadow: 0 0 15px var(--gold-tier);
+    }
+
+    .workspace-grid {
+      display: grid;
+      grid-template-columns: 420px 1fr;
+      gap: 1.5rem;
+    }
+
+    @media (max-width: 1100px) {
+      .workspace-grid { grid-template-columns: 1fr; }
+    }
+
+    .record-panel {
+      background: var(--panel-bg);
+      border: 1px solid var(--card-border);
+      padding: 1.25rem;
+      height: calc(100vh - 120px);
+      display: flex;
+      flex-direction: column;
+      backdrop-filter: blur(10px);
+    }
+
+    .panel-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 0.8rem;
+      font-family: var(--font-display);
+      font-size: 0.8rem;
+      color: var(--cyber-cyan);
+      letter-spacing: 1px;
+    }
+
+    .record-search {
+      width: 100%;
+      background: rgba(0, 0, 0, 0.6);
+      border: 1px solid rgba(255, 0, 85, 0.3);
+      color: #fff;
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      padding: 8px 10px;
+      margin-bottom: 0.8rem;
+      outline: none;
+    }
+
+    .record-list {
+      flex-grow: 1;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      padding-right: 4px;
+    }
+
+    .record-item {
+      background: rgba(0, 0, 0, 0.45);
+      border: 1px solid rgba(255, 0, 85, 0.2);
+      padding: 10px 12px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: relative;
+    }
+
+    .record-item:hover, .record-item.active {
+      border-color: var(--neon-pink);
+      background: rgba(255, 0, 85, 0.15);
+      box-shadow: 0 0 10px rgba(255, 0, 85, 0.25);
+    }
+
+    .record-item.has-siblings {
+      border-left: 3px solid var(--cyber-cyan);
+    }
+
+    .item-info {
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      width: 86%;
+    }
+
+    .item-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      display: inline-block;
+      flex-shrink: 0;
+    }
+    .status-dot.active { background: var(--matrix-green); box-shadow: 0 0 6px var(--matrix-green); }
+    .status-dot.inactive { background: var(--crimson-lust); box-shadow: 0 0 6px var(--crimson-lust); }
+    .status-dot.maintenance { background: var(--gold-tier); box-shadow: 0 0 6px var(--gold-tier); }
+
+    .item-title {
+      font-family: var(--font-display);
+      font-size: 0.82rem;
+      color: #fff;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .item-badges {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      padding: 1px 6px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 2px;
+      color: var(--text-muted);
+      text-transform: uppercase;
+    }
+
+    .badge-variant {
+      border-color: var(--cyber-cyan);
+      color: var(--cyber-cyan);
+      background: rgba(0, 240, 255, 0.08);
+      font-weight: bold;
+    }
+
+    .badge-sibling-count {
+      border-color: var(--neon-pink);
+      color: var(--blush-glow);
+      background: rgba(255, 0, 127, 0.08);
+    }
+
+    .editor-panel {
+      background: var(--panel-bg);
+      border: 1px solid var(--card-border);
+      padding: 1.75rem;
+      backdrop-filter: blur(15px);
+      overflow-y: auto;
+      height: calc(100vh - 120px);
+    }
+
+    .variant-nav-bar {
+      background: rgba(0, 240, 255, 0.05);
+      border: 1px solid rgba(0, 240, 255, 0.3);
+      padding: 8px 12px;
+      margin-bottom: 1.25rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .variant-pills {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .pill-btn {
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      background: rgba(0, 0, 0, 0.6);
+      border: 1px solid var(--card-border);
+      color: #fff;
+      cursor: pointer;
+      text-transform: uppercase;
+      transition: all 0.2s;
+    }
+
+    .pill-btn:hover, .pill-btn.active {
+      border-color: var(--cyber-cyan);
+      background: var(--cyber-cyan);
+      color: #000;
+      font-weight: bold;
+    }
+
+    .form-section-title {
+      font-family: var(--font-display);
+      font-size: 0.85rem;
+      color: var(--blush-glow);
+      letter-spacing: 2px;
+      margin-bottom: 1.25rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 1px dashed rgba(255, 0, 85, 0.3);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .form-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.15rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .form-full { grid-column: 1 / -1; }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    label {
+      font-family: var(--font-display);
+      font-size: 0.68rem;
+      color: var(--text-muted);
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .field-hint {
+      font-family: var(--font-mono);
+      color: var(--cyber-cyan);
+      font-size: 0.65rem;
+      text-transform: none;
+    }
+
+    input, select, textarea {
+      background: rgba(0, 0, 0, 0.6);
+      border: 1px solid rgba(255, 0, 85, 0.3);
+      color: #fff;
+      font-family: var(--font-mono);
+      font-size: 0.82rem;
+      padding: 9px 11px;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    input:focus, select:focus, textarea:focus {
+      border-color: var(--neon-pink);
+      box-shadow: 0 0 10px rgba(255, 0, 85, 0.3);
+    }
+
+    textarea {
+      resize: vertical;
+      min-height: 70px;
+    }
+
+    .input-addon-group {
+      display: flex;
+      gap: 6px;
+    }
+
+    .input-addon-group input {
+      flex-grow: 1;
+    }
+
+    .btn-addon {
+      background: rgba(0, 240, 255, 0.1);
+      border: 1px solid var(--cyber-cyan);
+      color: var(--cyber-cyan);
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      padding: 0 12px;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all 0.2s;
+    }
+
+    .btn-addon:hover {
+      background: var(--cyber-cyan);
+      color: #000;
+    }
+
+    /* QUICK PILLS (CREATORS & CATEGORIES) */
+    .quick-pill-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+      margin-top: 4px;
+      max-height: 58px;
+      overflow-y: auto;
+      padding-bottom: 2px;
+    }
+
+    .quick-pill {
+      font-family: var(--font-mono);
+      font-size: 0.65rem;
+      padding: 2px 7px;
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: var(--text-muted);
+      cursor: pointer;
+      border-radius: 2px;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+    }
+
+    .quick-pill:hover, .quick-pill.active {
+      border-color: var(--cyber-cyan);
+      color: #fff;
+      background: rgba(0, 240, 255, 0.15);
+      box-shadow: 0 0 6px rgba(0, 240, 255, 0.2);
+    }
+
+    /* INTERACTIVE TAG CHIPS & VAULT */
+    .tag-chips-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      min-height: 42px;
+      padding: 8px 10px;
+      background: rgba(0, 0, 0, 0.55);
+      border: 1px solid rgba(255, 0, 85, 0.3);
+      border-radius: 2px;
+      align-items: center;
+    }
+
+    .tag-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(0, 240, 255, 0.12);
+      border: 1px solid var(--cyber-cyan);
+      color: var(--cyber-cyan);
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      border-radius: 2px;
+      text-transform: uppercase;
+    }
+
+    .tag-chip-remove {
+      cursor: pointer;
+      color: var(--crimson-lust);
+      font-weight: bold;
+      font-size: 0.82rem;
+      line-height: 1;
+      transition: color 0.15s;
+    }
+    .tag-chip-remove:hover { color: #fff; }
+
+    .tag-bank-drawer {
+      margin-top: 8px;
+      background: rgba(10, 5, 12, 0.95);
+      border: 1px solid var(--cyber-cyan);
+      box-shadow: 0 0 15px rgba(0, 240, 255, 0.15);
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      max-height: 220px;
+    }
+
+    .tag-bank-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      color: var(--cyber-cyan);
+      gap: 8px;
+    }
+
+    .tag-bank-filter {
+      padding: 3px 8px;
+      font-size: 0.72rem;
+      width: 180px;
+      background: rgba(0, 0, 0, 0.8);
+      border: 1px solid rgba(0, 240, 255, 0.4);
+      color: #fff;
+    }
+
+    .tag-bank-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      max-height: 150px;
+      overflow-y: auto;
+    }
+
+    .bank-tag-pill {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      padding: 3px 8px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      color: var(--text-muted);
+      cursor: pointer;
+      border-radius: 2px;
+      transition: all 0.15s;
+    }
+
+    .bank-tag-pill:hover {
+      border-color: var(--neon-pink);
+      color: #fff;
+    }
+
+    .bank-tag-pill.selected {
+      background: rgba(0, 240, 255, 0.2);
+      border-color: var(--cyber-cyan);
+      color: var(--cyber-cyan);
+      font-weight: bold;
+    }
+
+    .media-card {
+      background: rgba(0, 0, 0, 0.35);
+      border: 1px dashed rgba(255, 0, 85, 0.4);
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .source-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+    }
+
+    @media (max-width: 800px) {
+      .source-row { grid-template-columns: 1fr; }
+    }
+
+    .source-box {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .source-subhead {
+      font-family: var(--font-mono);
+      font-size: 0.68rem;
+      color: var(--cyber-cyan);
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+
+    .media-preview-container {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+      background: rgba(0, 0, 0, 0.4);
+      padding: 10px;
+      border: 1px solid rgba(255, 0, 85, 0.2);
+    }
+
+    .cover-thumb-preview {
+      width: 75px;
+      height: 75px;
+      object-fit: cover;
+      background: #000;
+      border: 1px solid var(--cyber-cyan);
+      border-radius: 3px;
+      display: block;
+    }
+
+    .custom-audio-player {
+      width: 100%;
+      height: 38px;
+      filter: invert(0.9) hue-rotate(270deg) contrast(1.2);
+    }
+
+    .upload-btn-label {
+      background: rgba(255, 0, 85, 0.15);
+      border: 1px solid var(--neon-pink);
+      color: #fff;
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      padding: 7px 12px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      transition: 0.2s;
+    }
+    .upload-btn-label:hover {
+      background: var(--neon-pink);
+      box-shadow: 0 0 10px var(--neon-pink);
+    }
+
+    .upload-progress {
+      font-family: var(--font-mono);
+      font-size: 0.7rem;
+      color: var(--cyber-cyan);
+    }
+
+    .log-box {
+      background: rgba(0, 0, 0, 0.55);
+      border: 1px solid rgba(255, 0, 85, 0.25);
+      padding: 8px;
+      max-height: 130px;
+      overflow-y: auto;
+      font-family: var(--font-mono);
+      font-size: 0.72rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .log-entry {
+      padding: 5px 8px;
+      border-left: 2px solid var(--neon-pink);
+      background: rgba(255, 255, 255, 0.02);
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+    }
+    .log-entry .log-text { color: #ddd; word-break: break-all; }
+    .log-entry .log-date { color: var(--cyber-cyan); white-space: nowrap; font-size: 0.65rem; }
+
+    .editor-actions {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 1.5rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid rgba(255, 0, 85, 0.3);
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .status-msg {
+      font-family: var(--font-mono);
+      font-size: 0.8rem;
+      color: var(--cyber-cyan);
+    }
+
+    /* MODAL STYLES */
+    .modal-overlay {
+      position: fixed;
+      top: 0; left: 0; width: 100vw; height: 100vh;
+      background: rgba(7, 4, 8, 0.85);
+      backdrop-filter: blur(8px);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+    }
+    .modal-box {
+      background: var(--panel-bg);
+      border: 1px solid var(--neon-pink);
+      box-shadow: 0 0 30px rgba(255, 0, 85, 0.4);
+      width: 90%;
+      max-width: 820px;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      padding: 1.5rem;
+      gap: 1rem;
+    }
+    .modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-bottom: 1px dashed var(--card-border);
+      padding-bottom: 0.6rem;
+    }
+    .modal-title {
+      font-family: var(--font-display);
+      font-size: 1rem;
+      color: var(--neon-pink);
+      letter-spacing: 1px;
+    }
+    .modal-body {
+      display: flex;
+      flex-direction: column;
+      gap: 0.8rem;
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="admin-container">
+    <div class="top-bar">
+      <div>
+        <h1>Cyber<span>.Admin</span> // Data Matrix Control</h1>
+      </div>
+      <div class="nav-actions">
+        <a href="index.html" class="btn-cyber btn-cyan">&larr; Open Archive Page</a>
+        <button type="button" class="btn-cyber btn-gold" onclick="openImportModal()">&#9881; Batch Ingest External JSON</button>
+        <button type="button" class="btn-cyber btn-green" onclick="createNewVariantOfCurrent()">+ New Variant</button>
+        <button type="button" class="btn-cyber" onclick="exportJsonFile()">Download data.json</button>
+      </div>
+    </div>
+
+    <div class="workspace-grid">
+      <!-- LEFT: Record List -->
+      <aside class="record-panel">
+        <div class="panel-header">
+          <span>PROTOCOLS (<span id="count">0</span>)</span>
+          <button class="btn-cyber" style="padding: 4px 8px;" onclick="createNewRecord()">+ NEW PROTOCOL</button>
+        </div>
+        <input type="text" id="recordFilter" class="record-search" placeholder="Search ID, title, tags, or variant..." oninput="renderRecordList()">
+        <div class="record-list" id="recordList"></div>
+      </aside>
+
+      <!-- RIGHT: Edit Form -->
+      <main class="editor-panel">
+        <div id="variantNavBar" class="variant-nav-bar" style="display:none;">
+          <div style="font-family:var(--font-mono); font-size:0.75rem; color:var(--cyber-cyan);">
+            // DETECTED VARIANTS FOR <strong id="variantNavProtocolId">EROS-01</strong>:
+          </div>
+          <div class="variant-pills" id="variantPillsContainer"></div>
+        </div>
+
+        <div class="form-section-title">
+          <span>// PROTOCOL &amp; VARIANT DOSSIER</span>
+          <span id="activeVariantBadge" class="badge badge-variant">VARIANT: ORIGINAL</span>
+        </div>
+
+        <form id="recordForm" onsubmit="saveRecord(event)">
+          <div class="form-grid">
+
+            <div class="form-group">
+              <label>UUID <span class="field-hint">Master Identity</span></label>
+              <div class="input-addon-group">
+                <input type="text" id="uuid" required readonly>
+                <button type="button" class="btn-addon" onclick="generateNewUuid()">GENERATE</button>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label>Active Status</label>
+              <select id="status">
+                <option value="ACTIVE">ACTIVE (PUBLISHED ON MAIN ARCHIVE)</option>
+                <option value="INACTIVE">INACTIVE (HIDDEN DRAFT / ARCHIVED)</option>
+                <option value="MAINTENANCE">MAINTENANCE (UNDER AUDIO REVISION)</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Protocol ID <span class="field-hint">e.g. EROS-01</span></label>
+              <input type="text" id="id" required placeholder="EROS-01" oninput="handleIdChange()">
+            </div>
+
+            <div class="form-group">
+              <label>Variant Classification</label>
+              <input type="text" id="variant" list="variantPresets" required placeholder="ORIGINAL" oninput="updateVariantBadge()">
+              <datalist id="variantPresets">
+                <option value="ORIGINAL">
+                <option value="BINAURAL 8D">
+                <option value="EXTENDED CUT">
+                <option value="WHISPER ASMR">
+                <option value="HYPNO REMIX">
+                <option value="CLEAN VOCAL">
+                <option value="DIRECTOR'S CUT">
+              </datalist>
+            </div>
+
+            <div class="form-group form-full">
+              <label>Record Title</label>
+              <input type="text" id="title" required placeholder="e.g. Synaptic Overdrive Induction">
+            </div>
+
+            <!-- MAIN TAG / CATEGORY WITH PRESETS -->
+            <div class="form-group">
+              <label>Main Tag <span class="field-hint">Select existing or type new</span></label>
+              <input type="text" id="tag" list="mainTagPresets" required placeholder="e.g. NEURAL HYPNOSIS" oninput="highlightActiveQuickPills()">
+              <datalist id="mainTagPresets"></datalist>
+              <div class="quick-pill-container" id="quickMainTags"></div>
+            </div>
+
+            <div class="form-group">
+              <label>Access Tier</label>
+              <select id="tier">
+                <option value="FREE">FREE</option>
+                <option value="PAID LEVEL 1">PAID LEVEL 1</option>
+                <option value="PAID LEVEL 2">PAID LEVEL 2</option>
+                <option value="PAID LEVEL 3">PAID LEVEL 3</option>
+              </select>
+            </div>
+
+            <!-- SUB-TAGS: INTERACTIVE CHIPS & REUSABLE LIBRARY -->
+            <div class="form-group form-full">
+              <label>
+                <span>Sub-Tags</span>
+                <span class="field-hint">Pick existing from library or type to add new</span>
+              </label>
+
+              <!-- Active Tag Chips -->
+              <div id="activeTagsContainer" class="tag-chips-wrap"></div>
+              
+              <div class="input-addon-group" style="margin-top: 4px;">
+                <input type="text" id="newSubTagInput" list="availableTagsDatalist" placeholder="Select existing or type new tag..." onkeydown="handleSubTagKeydown(event)">
+                <button type="button" class="btn-addon btn-green" onclick="addCurrentSubTagInput()">+ ADD TAG</button>
+                <button type="button" class="btn-addon btn-cyan" onclick="toggleTagBank()">&#128065; BROWSE LIBRARY (<span id="totalTagsCount">0</span>)</button>
+              </div>
+              <datalist id="availableTagsDatalist"></datalist>
+
+              <!-- Master Tag Library Drawer -->
+              <div id="tagBankContainer" class="tag-bank-drawer" style="display:none;">
+                <div class="tag-bank-header">
+                  <span>MASTER TAG VAULT (CLICK TO TOGGLE):</span>
+                  <input type="text" id="tagBankSearch" class="tag-bank-filter" placeholder="Filter library..." oninput="filterTagBank()">
+                </div>
+                <div id="tagBankList" class="tag-bank-pills"></div>
+              </div>
+            </div>
+
+            <!-- TRIGGERS (WITH DATALIST AUTOCOMPLETE) -->
+            <div class="form-group">
+              <label>Triggers (Comma Separated) <span class="field-hint">Autocomplete ready</span></label>
+              <input type="text" id="triggers" list="triggerPresets" placeholder="SLEEP, CLICK, BREATHING">
+              <datalist id="triggerPresets"></datalist>
+            </div>
+
+            <!-- TONES (WITH DATALIST AUTOCOMPLETE) -->
+            <div class="form-group">
+              <label>Tones (Comma Separated) <span class="field-hint">Autocomplete ready</span></label>
+              <input type="text" id="tone" list="tonePresets" placeholder="DOMINANT, BRATTY, SULTRY">
+              <datalist id="tonePresets"></datalist>
+            </div>
+
+            <div class="form-group">
+              <label>Audience Target</label>
+              <select id="audience">
+                <option value="F4M">F4M</option>
+                <option value="F4A">F4A</option>
+                <option value="M4F">M4F</option>
+                <option value="FF4M">FF4M</option>
+                <option value="FFMF4M">FFMF4M</option>
+                <option value="F4F">F4F</option>
+                <option value="M4M">M4M</option>
+                <option value="ANY">ANY</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label>Release Date</label>
+              <input type="date" id="releaseDate">
+            </div>
+
+            <!-- AUTHOR / PRODUCER WITH DATALIST & QUICK PILLS -->
+            <div class="form-group">
+              <label>Author / Producer <span class="field-hint">Select existing or type new</span></label>
+              <input type="text" id="author" list="authorPresets" placeholder="CipherEros" oninput="highlightActiveQuickPills()">
+              <datalist id="authorPresets"></datalist>
+              <div class="quick-pill-container" id="quickAuthors"></div>
+            </div>
+
+            <!-- VOICE ARTIST WITH DATALIST & QUICK PILLS -->
+            <div class="form-group">
+              <label>Voice Artist <span class="field-hint">Select existing or type new</span></label>
+              <input type="text" id="artist" list="artistPresets" placeholder="Vesper V" oninput="highlightActiveQuickPills()">
+              <datalist id="artistPresets"></datalist>
+              <div class="quick-pill-container" id="quickArtists"></div>
+            </div>
+
+            <!-- MEDIA 1: COVER ART -->
+            <div class="form-group form-full media-card">
+              <label>COVER ART ASSET // LOCAL UPLOAD OR REMOTE URL FETCH</label>
+              
+              <div class="input-addon-group">
+                <input type="text" id="cover" placeholder="covers/uuid.png or https://example.com/art.jpg" onchange="updateCoverPreview()">
+                <button type="button" class="btn-addon" onclick="syncCoverPath()">SYNC UUID</button>
+              </div>
+
+              <div class="source-row">
+                <div class="source-box">
+                  <span class="source-subhead">&#127760; Fetch From Web URL</span>
+                  <div class="input-addon-group">
+                    <input type="url" id="coverRemoteUrl" placeholder="https://domain.com/art.png">
+                    <button type="button" class="btn-addon" onclick="handleFetchFromUrl('cover')">FETCH &amp; SAVE</button>
+                  </div>
+                  <span id="coverFetchStatus" class="upload-progress">Saves remote image to covers/{uuid}.ext</span>
+                </div>
+
+                <div class="source-box">
+                  <span class="source-subhead">&#128190; Upload From Disk</span>
+                  <label class="upload-btn-label">
+                    <span>&#8679; CHOOSE IMAGE FILE</span>
+                    <input type="file" id="coverFileInput" accept="image/*" style="display:none;" onchange="handleFileUpload('cover')">
+                  </label>
+                  <span id="coverUploadStatus" class="upload-progress">Ready for upload</span>
+                </div>
+              </div>
+
+              <div class="media-preview-container">
+                <img id="coverPreview" class="cover-thumb-preview" src="" alt="Cover Preview" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'75\' height=\'75\'><rect width=\'100%\' height=\'100%\' fill=\'%23111\'/><text x=\'50%\' y=\'50%\' fill=\'%23555\' font-size=\'10\' dominant-baseline=\'middle\' text-anchor=\'middle\'>NO ART</text></svg>'">
+                <div style="font-family:var(--font-mono); font-size:0.7rem; color:var(--text-muted);">
+                  Cover preview matches current path or uploaded binary.<br>
+                  Target storage: <strong style="color:var(--cyber-cyan);">covers/{uuid}.ext</strong>
+                </div>
+              </div>
+            </div>
+
+            <!-- MEDIA 2: AUDIO FILE -->
+            <div class="form-group form-full media-card">
+              <label>AUDIO PROTOCOL FILE // LOCAL UPLOAD OR REMOTE URL FETCH</label>
+              
+              <div class="input-addon-group">
+                <input type="text" id="file" placeholder="audio/uuid.mp3 or https://example.com/track.mp3" onchange="updateAudioPreview()">
+                <button type="button" class="btn-addon" onclick="syncAudioPath()">SYNC UUID</button>
+              </div>
+
+              <div class="source-row">
+                <div class="source-box">
+                  <span class="source-subhead">&#127760; Fetch From Web URL</span>
+                  <div class="input-addon-group">
+                    <input type="url" id="audioRemoteUrl" placeholder="https://domain.com/sound.mp3">
+                    <button type="button" class="btn-addon" onclick="handleFetchFromUrl('audio')">FETCH &amp; SAVE</button>
+                  </div>
+                  <span id="audioFetchStatus" class="upload-progress">Saves remote audio to audio/{uuid}.ext</span>
+                </div>
+
+                <div class="source-box">
+                  <span class="source-subhead">&#128190; Upload From Disk</span>
+                  <label class="upload-btn-label">
+                    <span>&#9835; CHOOSE AUDIO FILE</span>
+                    <input type="file" id="audioFileInput" accept="audio/*" style="display:none;" onchange="handleFileUpload('audio')">
+                  </label>
+                  <span id="audioUploadStatus" class="upload-progress">Ready for upload</span>
+                </div>
+              </div>
+
+              <div class="media-preview-container" style="flex-direction:column; align-items:stretch; gap:6px;">
+                <audio id="audioPreview" class="custom-audio-player" controls preload="none">
+                  Your browser does not support audio playback.
+                </audio>
+                <div style="font-family:var(--font-mono); font-size:0.7rem; color:var(--text-muted);">
+                  Target storage: <strong style="color:var(--cyber-cyan);">audio/{uuid}.ext</strong>
+                </div>
+              </div>
+            </div>
+
+            <div class="form-group form-full">
+              <label>Protocol Synopsis / Sensory Description</label>
+              <textarea id="description" placeholder="Sensory file description..."></textarea>
+            </div>
+            
+            <div class="form-group form-full">
+              <label>Protocol Synopsis / Sensory Ref Link</label>
+              <input type="text" id="url" placeholder="https://.......">
+            </div>
+
+            <div class="form-group form-full">
+              <label>VARIANT AUDIT LOG</label>
+              <div id="changelogHistory" class="log-box"></div>
+              <div class="input-addon-group" style="margin-top:6px;">
+                <input type="text" id="newLogMessage" placeholder="Add specific variant note...">
+                <button type="button" class="btn-addon" onclick="appendCurrentLog()">LOG NOTE</button>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="editor-actions">
+            <div>
+              <button type="button" class="btn-cyber" style="border-color:var(--crimson-lust); color:var(--crimson-lust);" onclick="deleteCurrentRecord()">Delete Variant</button>
+            </div>
+            <div style="display:flex; align-items:center; gap: 1rem;">
+              <span id="statusMsg" class="status-msg"></span>
+              <button type="submit" class="btn-cyber" style="background:var(--neon-pink);">COMMIT TO DATA.JSON</button>
+            </div>
+          </div>
+        </form>
+      </main>
+    </div>
+  </div>
+
+  <!-- BATCH INGEST MODAL -->
+  <div id="importModal" class="modal-overlay">
+    <div class="modal-box">
+      <div class="modal-header">
+        <span class="modal-title">// BATCH INGEST &amp; ASSET SYNC PIPELINE</span>
+        <button type="button" class="btn-cyber" style="padding:2px 8px;" onclick="closeImportModal()">&times; CLOSE</button>
+      </div>
+      <div class="modal-body">
+        <p style="font-family:var(--font-mono); font-size:0.76rem; color:var(--text-muted);">
+          Paste external array formatted records (or drop a JSON file). The pipeline will map metadata, download remote assets, and update <strong style="color:var(--cyber-cyan);">data.json</strong>.
+        </p>
+
+        <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">
+          <div>
+            <label style="font-family:var(--font-mono); font-size:0.7rem; color:var(--cyber-cyan); margin-bottom:4px;">DEFAULT ARTIST / CREATOR</label>
+            <input type="text" id="batchDefaultArtist" value="Goddess Nichole">
+          </div>
+          <div>
+            <label style="font-family:var(--font-mono); font-size:0.7rem; color:var(--cyber-cyan); margin-bottom:4px;">DEFAULT TAG / GENRE</label>
+            <input type="text" id="batchDefaultTag" value="HYPNOSIS &amp; AUDIO">
+          </div>
+        </div>
+
+        <div style="display:grid; grid-template-columns: 1fr 1fr; gap:10px;">
+          <div>
+            <label style="font-family:var(--font-mono); font-size:0.7rem; color:var(--cyber-cyan); margin-bottom:4px;">DUPLICATE RECORD POLICY</label>
+            <select id="batchDuplicatePolicy">
+              <option value="UPDATE">UPDATE EXISTING (Upsert metadata, keep UUID)</option>
+              <option value="SKIP">SKIP EXISTING (Do not touch existing entries)</option>
+              <option value="DUPLICATE">FORCE NEW (Always create duplicates)</option>
+            </select>
+          </div>
+          <div style="display:flex; flex-direction:column; justify-content:center; gap:6px; margin-top:12px;">
+            <label style="display:flex; align-items:center; gap:6px; cursor:pointer; color:#fff; font-family:var(--font-mono); font-size:0.72rem;">
+              <input type="checkbox" id="batchDownloadMedia" checked>
+              Download remote media to ./covers and ./audio
+            </label>
+            <label style="display:flex; align-items:center; gap:6px; cursor:pointer; color:var(--text-muted); font-family:var(--font-mono); font-size:0.72rem;">
+              <input type="checkbox" id="batchForceRedownload">
+              Force re-download even if local files already exist
+            </label>
+          </div>
+        </div>
+
+        <textarea id="batchJsonInput" style="height: 170px; font-size:0.75rem;" placeholder='Paste JSON array here, e.g. [ { "id": 5391, "title": "Be Mine", "audio_url": "...", "image_url": "..." } ]'></textarea>
+
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+          <input type="file" id="batchFileInput" accept=".json" onchange="handleBatchFileSelect(event)" style="display:none;">
+          <button type="button" class="btn-cyber" onclick="document.getElementById('batchFileInput').click()">&#128194; Load JSON from file</button>
+          
+          <button type="button" class="btn-cyber btn-green" id="btnRunBatch" onclick="executeBatchIngest()">START PIPELINE INGEST &rarr;</button>
+        </div>
+
+        <div id="batchProgressBox" class="log-box" style="height: 140px; display:none;"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API_BASE = window.location.protocol === 'file:' || (window.location.port && window.location.port !== '3000')
+      ? 'http://localhost:3000'
+      : '';
+
+    let records = [];
+    let currentSelectedIndex = -1;
+    let currentChangeLog = [];
+    let currentSubTags = [];
+
+    // Master Taxonomy Registries
+    let masterTaxonomy = {
+      subTags: new Set(),
+      mainTags: new Set(),
+      authors: new Set(),
+      artists: new Set(),
+      triggers: new Set(),
+      tones: new Set()
+    };
+
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const res = await fetch(`${API_BASE}/7ce7929c-7574-4a8e-8405-5422ff1f16dc/data.json`);
+        records = await res.json();
+        normalizeRecords();
+        rebuildMasterTaxonomy();
+        renderRecordList();
+        if (records.length > 0) {
+          selectRecord(0);
+        } else {
+          createNewRecord();
+        }
+      } catch (err) {
+        showStatus('Server connection ready (Loaded blank structure)', false);
+        createNewRecord();
+      }
+    });
+
+    function normalizeRecords() {
+      records.forEach(r => {
+        if (!r.status) r.status = 'ACTIVE';
+        if (!r.variant) r.variant = r.version ? `VER-${r.version}` : 'ORIGINAL';
+        if (!Array.isArray(r.changelog)) {
+          r.changelog = r.changelog ? [{ date: r.releaseDate || new Date().toISOString(), note: String(r.changelog), variant: r.variant }] : [];
+        }
+        if (typeof r.tags === 'string') {
+          r.tags = r.tags.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
+        } else if (!Array.isArray(r.tags)) {
+          r.tags = [];
+        }
+      });
+    }
+
+    /* ========================================================
+       MASTER TAXONOMY & REGISTRY (TAGS, ARTISTS, AUTHORS)
+    ======================================================== */
+    function rebuildMasterTaxonomy() {
+      masterTaxonomy.subTags.clear();
+      masterTaxonomy.mainTags.clear();
+      masterTaxonomy.authors.clear();
+      masterTaxonomy.artists.clear();
+      masterTaxonomy.triggers.clear();
+      masterTaxonomy.tones.clear();
+
+      records.forEach(r => {
+        if (r.tag && r.tag.trim()) masterTaxonomy.mainTags.add(r.tag.trim().toUpperCase());
+        if (r.author && r.author.trim()) masterTaxonomy.authors.add(r.author.trim());
+        if (r.artist && r.artist.trim()) masterTaxonomy.artists.add(r.artist.trim());
+
+        if (Array.isArray(r.tags)) {
+          r.tags.forEach(t => { if (t && t.trim()) masterTaxonomy.subTags.add(t.trim().toUpperCase()); });
+        }
+        if (Array.isArray(r.triggers)) {
+          r.triggers.forEach(t => { if (t && t.trim()) masterTaxonomy.triggers.add(t.trim().toUpperCase()); });
+        }
+        if (Array.isArray(r.tone)) {
+          r.tone.forEach(t => { if (t && t.trim()) masterTaxonomy.tones.add(t.trim().toUpperCase()); });
+        }
+      });
+
+      renderDatalists();
+      renderQuickPills();
+      renderTagBank();
+      document.getElementById('totalTagsCount').textContent = masterTaxonomy.subTags.size;
+    }
+
+    function renderDatalists() {
+      populateDatalist('mainTagPresets', masterTaxonomy.mainTags);
+      populateDatalist('availableTagsDatalist', masterTaxonomy.subTags);
+      populateDatalist('authorPresets', masterTaxonomy.authors);
+      populateDatalist('artistPresets', masterTaxonomy.artists);
+      populateDatalist('triggerPresets', masterTaxonomy.triggers);
+      populateDatalist('tonePresets', masterTaxonomy.tones);
+    }
+
+    function populateDatalist(elementId, setCollection) {
+      const dl = document.getElementById(elementId);
+      if (!dl) return;
+      dl.innerHTML = '';
+      Array.from(setCollection).sort().forEach(val => {
+        const opt = document.createElement('option');
+        opt.value = val;
+        dl.appendChild(opt);
+      });
+    }
+
+    function renderQuickPills() {
+      // Main Tags
+      const mainTagBox = document.getElementById('quickMainTags');
+      mainTagBox.innerHTML = '';
+      Array.from(masterTaxonomy.mainTags).sort().forEach(val => {
+        const pill = document.createElement('button');
+        pill.type = 'button';
+        pill.className = 'quick-pill';
+        pill.textContent = val;
+        pill.onclick = () => {
+          document.getElementById('tag').value = val;
+          highlightActiveQuickPills();
+        };
+        mainTagBox.appendChild(pill);
+      });
+
+      // Authors
+      const authorBox = document.getElementById('quickAuthors');
+      authorBox.innerHTML = '';
+      Array.from(masterTaxonomy.authors).sort().forEach(val => {
+        const pill = document.createElement('button');
+        pill.type = 'button';
+        pill.className = 'quick-pill';
+        pill.textContent = val;
+        pill.onclick = () => {
+          document.getElementById('author').value = val;
+          highlightActiveQuickPills();
+        };
+        authorBox.appendChild(pill);
+      });
+
+      // Artists
+      const artistBox = document.getElementById('quickArtists');
+      artistBox.innerHTML = '';
+      Array.from(masterTaxonomy.artists).sort().forEach(val => {
+        const pill = document.createElement('button');
+        pill.type = 'button';
+        pill.className = 'quick-pill';
+        pill.textContent = val;
+        pill.onclick = () => {
+          document.getElementById('artist').value = val;
+          highlightActiveQuickPills();
+        };
+        artistBox.appendChild(pill);
+      });
+
+      highlightActiveQuickPills();
+    }
+
+    function highlightActiveQuickPills() {
+      const curMain = (document.getElementById('tag').value || '').trim().toUpperCase();
+      const curAuthor = (document.getElementById('author').value || '').trim();
+      const curArtist = (document.getElementById('artist').value || '').trim();
+
+      document.querySelectorAll('#quickMainTags .quick-pill').forEach(p => {
+        p.classList.toggle('active', p.textContent.toUpperCase() === curMain);
+      });
+      document.querySelectorAll('#quickAuthors .quick-pill').forEach(p => {
+        p.classList.toggle('active', p.textContent === curAuthor);
+      });
+      document.querySelectorAll('#quickArtists .quick-pill').forEach(p => {
+        p.classList.toggle('active', p.textContent === curArtist);
+      });
+    }
+
+    /* ========================================================
+       INTERACTIVE SUB-TAG MANAGER & VAULT UI
+    ======================================================== */
+    function renderSubTagChips() {
+      const container = document.getElementById('activeTagsContainer');
+      container.innerHTML = '';
+
+      if (currentSubTags.length === 0) {
+        container.innerHTML = '<span style="color:var(--text-muted); font-size:0.72rem; font-family:var(--font-mono);">No sub-tags assigned. Choose from vault or add new above.</span>';
+        return;
+      }
+
+      currentSubTags.forEach(tag => {
+        const chip = document.createElement('span');
+        chip.className = 'tag-chip';
+        chip.innerHTML = `
+          <span>${escapeHtml(tag)}</span>
+          <span class="tag-chip-remove" title="Remove Tag" onclick="removeSubTag('${escapeHtml(tag)}')">&times;</span>
+        `;
+        container.appendChild(chip);
+      });
+    }
+
+    function addCurrentSubTagInput() {
+      const input = document.getElementById('newSubTagInput');
+      const val = input.value.trim().toUpperCase();
+      if (!val) return;
+
+      if (!currentSubTags.includes(val)) {
+        currentSubTags.push(val);
+        renderSubTagChips();
+      }
+
+      // Register into global pool immediately
+      if (!masterTaxonomy.subTags.has(val)) {
+        masterTaxonomy.subTags.add(val);
+        rebuildMasterTaxonomy();
+      }
+
+      renderTagBank();
+      input.value = '';
+      input.focus();
+    }
+
+    function handleSubTagKeydown(e) {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        addCurrentSubTagInput();
+      }
+    }
+
+    function removeSubTag(tag) {
+      currentSubTags = currentSubTags.filter(t => t !== tag);
+      renderSubTagChips();
+      renderTagBank();
+    }
+
+    function toggleTagBank() {
+      const drawer = document.getElementById('tagBankContainer');
+      drawer.style.display = drawer.style.display === 'none' ? 'flex' : 'none';
+      if (drawer.style.display === 'flex') {
+        document.getElementById('tagBankSearch').focus();
+      }
+    }
+
+    function renderTagBank() {
+      const list = document.getElementById('tagBankList');
+      if (!list) return;
+      const filter = (document.getElementById('tagBankSearch')?.value || '').toLowerCase().trim();
+      list.innerHTML = '';
+
+      const sortedTags = Array.from(masterTaxonomy.subTags).sort();
+      sortedTags.forEach(tag => {
+        if (filter && !tag.toLowerCase().includes(filter)) return;
+
+        const isSelected = currentSubTags.includes(tag);
+        const pill = document.createElement('button');
+        pill.type = 'button';
+        pill.className = `bank-tag-pill ${isSelected ? 'selected' : ''}`;
+        pill.textContent = isSelected ? `✓ ${tag}` : `+ ${tag}`;
+        pill.onclick = () => {
+          if (currentSubTags.includes(tag)) {
+            removeSubTag(tag);
+          } else {
+            currentSubTags.push(tag);
+            renderSubTagChips();
+            renderTagBank();
+          }
+        };
+        list.appendChild(pill);
+      });
+    }
+
+    function filterTagBank() {
+      renderTagBank();
+    }
+
+    /* ========================================================
+       PROTOCOL ID & PREFIX SEQUENCE GENERATOR
+    ======================================================== */
+    function detectProtocolPrefix() {
+      if (!records || records.length === 0) return 'EROS-GN-';
+      let gnCount = 0;
+      let erosCount = 0;
+      records.forEach(r => {
+        if (!r.id) return;
+        const id = r.id.toUpperCase();
+        if (id.startsWith('EROS-GN-')) gnCount++;
+        else if (id.startsWith('EROS-')) erosCount++;
+      });
+      if (gnCount >= erosCount && gnCount > 0) return 'EROS-GN-';
+      if (erosCount > 0) return 'EROS-';
+      return 'EROS-GN-';
+    }
+
+    function generateNextProtocolId(extraUsedIds = null) {
+      const prefix = detectProtocolPrefix();
+      let maxNum = 0;
+      const existingIds = new Set(records.map(r => (r.id || '').toUpperCase().trim()));
+
+      if (extraUsedIds) {
+        extraUsedIds.forEach(id => existingIds.add(id.toUpperCase().trim()));
+      }
+
+      // Check all existing record IDs for the highest numeric value (regardless of variants)
+      records.forEach(r => {
+        if (!r.id) return;
+        const match = r.id.match(/(\d+)$/);
+        if (match) {
+          const num = parseInt(match[1], 10);
+          if (!isNaN(num) && num > maxNum) {
+            maxNum = num;
+          }
+        }
+      });
+
+      if (extraUsedIds) {
+        extraUsedIds.forEach(id => {
+          const match = id.match(/(\d+)$/);
+          if (match) {
+            const num = parseInt(match[1], 10);
+            if (!isNaN(num) && num > maxNum) {
+              maxNum = num;
+            }
+          }
+        });
+      }
+
+      if (maxNum === 0) {
+        maxNum = existingIds.size;
+      }
+
+      let nextNum = maxNum + 1;
+      let candidate = `${prefix}${nextNum < 10 ? '0' + nextNum : nextNum}`;
+
+      // Guarantee candidate doesn't collide with custom IDs
+      while (existingIds.has(candidate.toUpperCase())) {
+        nextNum++;
+        candidate = `${prefix}${nextNum < 10 ? '0' + nextNum : nextNum}`;
+      }
+
+      if (extraUsedIds) {
+        extraUsedIds.add(candidate);
+      }
+
+      return candidate;
+    }
+
+    /* ========================================================
+       PROTOCOL RECORD NAVIGATION & FORM OPERATIONS
+    ======================================================== */
+    function renderRecordList() {
+      const list = document.getElementById('recordList');
+      const query = document.getElementById('recordFilter').value.toLowerCase().trim();
+      document.getElementById('count').textContent = records.length;
+      list.innerHTML = '';
+
+      const idFrequency = {};
+      records.forEach(r => {
+        const id = (r.id || '').toUpperCase().trim();
+        if (id) idFrequency[id] = (idFrequency[id] || 0) + 1;
+      });
+
+      records.forEach((rec, idx) => {
+        const searchCorpus = `${rec.title} ${rec.id} ${rec.tag} ${(rec.tags||[]).join(' ')} ${rec.artist||''} ${rec.author||''} ${rec.variant || ''}`.toLowerCase();
+        if (query && !searchCorpus.includes(query)) return;
+
+        const hasSiblings = idFrequency[(rec.id || '').toUpperCase().trim()] > 1;
+        const div = document.createElement('div');
+        div.className = `record-item ${idx === currentSelectedIndex ? 'active' : ''} ${hasSiblings ? 'has-siblings' : ''}`;
+        div.onclick = () => selectRecord(idx);
+
+        const statusClass = (rec.status || 'ACTIVE').toLowerCase();
+
+        div.innerHTML = `
+          <div class="item-info">
+            <div class="item-header">
+              <span class="status-dot ${statusClass}" title="Status: ${rec.status || 'ACTIVE'}"></span>
+              <div class="item-title">${rec.title || 'Untitled Protocol'}</div>
+            </div>
+            <div class="item-badges">
+              <span class="badge">${rec.id || 'NO-ID'}</span>
+              <span class="badge badge-variant">${rec.variant || 'ORIGINAL'}</span>
+              ${hasSiblings ? `<span class="badge badge-sibling-count">${idFrequency[(rec.id||'').toUpperCase().trim()]} VARIANTS</span>` : ''}
+              <span class="badge">${rec.tier || 'FREE'}</span>
+            </div>
+          </div>
+          <span style="color:var(--blush-glow);">&rarr;</span>
+        `;
+        list.appendChild(div);
+      });
+    }
+
+    function selectRecord(index) {
+      currentSelectedIndex = index;
+      const rec = records[index];
+
+      document.getElementById('uuid').value = rec.uuid || '';
+      document.getElementById('status').value = rec.status || 'ACTIVE';
+      document.getElementById('id').value = rec.id || '';
+      document.getElementById('variant').value = rec.variant || 'ORIGINAL';
+      document.getElementById('title').value = rec.title || '';
+      document.getElementById('tag').value = rec.tag || '';
+      
+      // Load interactive sub-tags
+      currentSubTags = Array.isArray(rec.tags) ? [...rec.tags] : [];
+      renderSubTagChips();
+      renderTagBank();
+
+      document.getElementById('triggers').value = Array.isArray(rec.triggers) ? rec.triggers.join(', ') : (rec.triggers || '');
+      document.getElementById('tone').value = Array.isArray(rec.tone) ? rec.tone.join(', ') : (rec.tone || '');
+      document.getElementById('tier').value = rec.tier || 'FREE';
+      document.getElementById('audience').value = rec.audience || 'F4M';
+      document.getElementById('author').value = rec.author || '';
+      document.getElementById('artist').value = rec.artist || '';
+      document.getElementById('releaseDate').value = rec.releaseDate || '';
+      document.getElementById('cover').value = rec.cover || '';
+      document.getElementById('file').value = rec.file || '';
+      document.getElementById('description').value = rec.description || '';
+      document.getElementById('url').value = rec.url || '';
+
+      currentChangeLog = Array.isArray(rec.changelog) ? [...rec.changelog] : [];
+      renderChangeLog();
+
+      updateVariantBadge();
+      updateCoverPreview();
+      updateAudioPreview();
+      highlightActiveQuickPills();
+      renderVariantNavBar(rec.id);
+
+      renderRecordList();
+      showStatus(`Loaded: ${rec.id} [${rec.variant || 'ORIGINAL'}]`);
+    }
+
+    function updateVariantBadge() {
+      const v = document.getElementById('variant').value.trim() || 'ORIGINAL';
+      document.getElementById('activeVariantBadge').textContent = `VARIANT: ${v.toUpperCase()}`;
+    }
+
+    function handleIdChange() {
+      const id = document.getElementById('id').value.trim();
+      renderVariantNavBar(id);
+    }
+
+    function renderVariantNavBar(protocolId) {
+      const bar = document.getElementById('variantNavBar');
+      const container = document.getElementById('variantPillsContainer');
+      const idLabel = document.getElementById('variantNavProtocolId');
+
+      if (!protocolId) {
+        bar.style.display = 'none';
+        return;
+      }
+
+      const siblings = records
+        .map((rec, index) => ({ rec, index }))
+        .filter(item => item.rec.id && item.rec.id.toLowerCase() === protocolId.toLowerCase());
+
+      if (siblings.length > 1) {
+        bar.style.display = 'flex';
+        idLabel.textContent = protocolId.toUpperCase();
+        container.innerHTML = '';
+
+        siblings.forEach(({ rec, index }) => {
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = `pill-btn ${index === currentSelectedIndex ? 'active' : ''}`;
+          btn.textContent = `${rec.variant || 'ORIGINAL'}${index === currentSelectedIndex ? ' (ACTIVE)' : ''}`;
+          btn.onclick = () => selectRecord(index);
+          container.appendChild(btn);
+        });
+
+        const addBtn = document.createElement('button');
+        addBtn.type = 'button';
+        addBtn.className = 'pill-btn';
+        addBtn.style.borderColor = 'var(--matrix-green)';
+        addBtn.style.color = 'var(--matrix-green)';
+        addBtn.textContent = '+ FORK VARIANT';
+        addBtn.onclick = createNewVariantOfCurrent;
+        container.appendChild(addBtn);
+      } else {
+        bar.style.display = 'none';
+      }
+    }
+
+    function renderChangeLog() {
+      const container = document.getElementById('changelogHistory');
+      container.innerHTML = '';
+      if (!currentChangeLog || currentChangeLog.length === 0) {
+        container.innerHTML = '<div style="color:var(--text-muted); font-size:0.75rem;">No historical variant modifications logged yet.</div>';
+        return;
+      }
+
+      currentChangeLog.slice().reverse().forEach(log => {
+        const item = document.createElement('div');
+        item.className = 'log-entry';
+        item.innerHTML = `
+          <div class="log-text"><strong>[${escapeHtml(log.variant || 'VARIANT')}]</strong> ${escapeHtml(log.note || 'Modified')}</div>
+          <div class="log-date">${log.date || ''}</div>
+        `;
+        container.appendChild(item);
+      });
+    }
+
+    function appendCurrentLog() {
+      const noteInput = document.getElementById('newLogMessage');
+      const note = noteInput.value.trim();
+      if (!note) return;
+
+      const variant = document.getElementById('variant').value.trim() || 'ORIGINAL';
+      const timestamp = new Date().toISOString().replace('T', ' ').substring(0, 19);
+
+      currentChangeLog.push({ date: timestamp, variant, note });
+      renderChangeLog();
+      noteInput.value = '';
+      showStatus('Variant note appended. Click Commit to save.');
+    }
+
+    function createNewRecord() {
+      currentSelectedIndex = -1;
+      document.getElementById('recordForm').reset();
+      const newUuid = crypto.randomUUID();
+      document.getElementById('uuid').value = newUuid;
+      document.getElementById('status').value = 'ACTIVE';
+      document.getElementById('id').value = generateNextProtocolId();
+      document.getElementById('variant').value = 'ORIGINAL';
+      document.getElementById('releaseDate').value = new Date().toISOString().split('T')[0];
+      document.getElementById('artist').value = 'Goddess Nichole';
+      document.getElementById('author').value = 'Goddess Nichole';
+      document.getElementById('tag').value = 'HYPNOSIS & AUDIO';
+      
+      currentSubTags = [];
+      renderSubTagChips();
+      renderTagBank();
+
+      currentChangeLog = [{
+        date: new Date().toISOString().replace('T', ' ').substring(0, 19),
+        variant: 'ORIGINAL',
+        note: 'Protocol created'
+      }];
+      renderChangeLog();
+      syncCoverPath();
+      syncAudioPath();
+      updateCoverPreview();
+      updateAudioPreview();
+      updateVariantBadge();
+      highlightActiveQuickPills();
+      renderVariantNavBar('');
+      renderRecordList();
+      showStatus('Initialized blank protocol');
+    }
+
+    function createNewVariantOfCurrent() {
+      if (currentSelectedIndex < 0 && records.length === 0) {
+        alert('Please select or create an existing protocol first.');
+        return;
+      }
+
+      const baseRec = currentSelectedIndex >= 0 ? records[currentSelectedIndex] : records[0];
+      const newUuid = crypto.randomUUID();
+
+      const promptVariant = prompt(
+        `Enter name for new variant of ${baseRec.id} (e.g. BINAURAL 8D, EXTENDED CUT, ASMR):`,
+        'BINAURAL 8D'
+      );
+      if (!promptVariant) return;
+
+      const variantName = promptVariant.trim().toUpperCase();
+
+      document.getElementById('uuid').value = newUuid;
+      document.getElementById('variant').value = variantName;
+      document.getElementById('title').value = `${baseRec.title || 'Untitled'} (${variantName})`;
+      
+      currentSubTags = Array.isArray(baseRec.tags) ? [...baseRec.tags] : [];
+      renderSubTagChips();
+      renderTagBank();
+
+      syncCoverPath();
+      syncAudioPath();
+      updateCoverPreview();
+      updateAudioPreview();
+      updateVariantBadge();
+
+      currentChangeLog = [
+        ...(Array.isArray(baseRec.changelog) ? baseRec.changelog : []),
+        {
+          date: new Date().toISOString().replace('T', ' ').substring(0, 19),
+          variant: variantName,
+          note: `Forked variant from ${baseRec.variant || 'ORIGINAL'}`
+        }
+      ];
+      renderChangeLog();
+
+      currentSelectedIndex = -1;
+      renderVariantNavBar(document.getElementById('id').value);
+      showStatus(`New variant [${variantName}] ready. Fill assets and commit.`);
+    }
+
+    function generateNewUuid() {
+      const u = crypto.randomUUID();
+      document.getElementById('uuid').value = u;
+      syncCoverPath();
+      syncAudioPath();
+    }
+
+    function syncCoverPath() {
+      const u = document.getElementById('uuid').value;
+      if (u) {
+        document.getElementById('cover').value = `covers/${u}.png`;
+        updateCoverPreview();
+      }
+    }
+
+    function syncAudioPath() {
+      const u = document.getElementById('uuid').value;
+      if (u) {
+        document.getElementById('file').value = `audio/${u}.mp3`;
+        updateAudioPreview();
+      }
+    }
+
+    function updateCoverPreview() {
+      const path = document.getElementById('cover').value.trim();
+      const img = document.getElementById('coverPreview');
+      img.src = path ? (path.startsWith('http') ? path : `${API_BASE}/7ce7929c-7574-4a8e-8405-5422ff1f16dc/${path}`) : '';
+    }
+
+    function updateAudioPreview() {
+      const path = document.getElementById('file').value.trim();
+      const player = document.getElementById('audioPreview');
+      if (path) {
+        player.src = path.startsWith('http') ? path : `${API_BASE}/7ce7929c-7574-4a8e-8405-5422ff1f16dc/${path}`;
+      } else {
+        player.removeAttribute('src');
+      }
+    }
+
+    function fileToBase64(file) {
+      return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(reader.result);
+        reader.onerror = reject;
+        reader.readAsDataURL(file);
+      });
+    }
+
+    async function handleFileUpload(type) {
+      const uuid = document.getElementById('uuid').value;
+      if (!uuid) {
+        alert('UUID missing. Generate one before uploading.');
+        return;
+      }
+
+      const fileInput = document.getElementById(type === 'cover' ? 'coverFileInput' : 'audioFileInput');
+      const statusLabel = document.getElementById(type === 'cover' ? 'coverUploadStatus' : 'audioUploadStatus');
+      
+      if (!fileInput.files || fileInput.files.length === 0) return;
+      const file = fileInput.files[0];
+      const extension = file.name.split('.').pop().toLowerCase();
+      
+      statusLabel.textContent = `Uploading ${file.name}...`;
+      statusLabel.style.color = 'var(--gold-tier)';
+
+      try {
+        const base64Data = await fileToBase64(file);
+        const response = await fetch(`${API_BASE}/api/upload`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ type, uuid, extension, data: base64Data })
+        });
+
+        if (response.ok) {
+          const result = await response.json();
+          const savedPath = result.path;
+          
+          if (type === 'cover') {
+            document.getElementById('cover').value = savedPath;
+            updateCoverPreview();
+          } else {
+            document.getElementById('file').value = savedPath;
+            updateAudioPreview();
+          }
+
+          statusLabel.textContent = `Saved to -> ${savedPath}`;
+          statusLabel.style.color = 'var(--matrix-green)';
+          showStatus(`File uploaded & stored at ${savedPath}`);
+        } else {
+          const err = await response.json();
+          throw new Error(err.error || 'Server rejected file upload');
+        }
+      } catch (err) {
+        statusLabel.textContent = `Upload failed: ${err.message}`;
+        statusLabel.style.color = 'var(--crimson-lust)';
+      }
+    }
+
+    async function handleFetchFromUrl(type) {
+      const uuid = document.getElementById('uuid').value;
+      if (!uuid) {
+        alert('UUID missing. Generate one before fetching.');
+        return;
+      }
+
+      const urlInput = document.getElementById(type === 'cover' ? 'coverRemoteUrl' : 'audioRemoteUrl');
+      const statusLabel = document.getElementById(type === 'cover' ? 'coverFetchStatus' : 'audioFetchStatus');
+      const remoteUrl = urlInput.value.trim();
+
+      if (!remoteUrl) {
+        alert('Please paste a valid URL first.');
+        return;
+      }
+
+      statusLabel.textContent = 'Server downloading remote asset...';
+      statusLabel.style.color = 'var(--gold-tier)';
+
+      let extension = (remoteUrl.split('?')[0].split('.').pop() || (type === 'cover' ? 'jpg' : 'mp3')).toLowerCase();
+      if (extension.length > 5 || !['png', 'jpg', 'jpeg', 'webp', 'mp3', 'wav', 'flac', 'ogg', 'm4a'].includes(extension)) {
+        extension = type === 'cover' ? 'jpg' : 'mp3';
+      }
+
+      try {
+        const response = await fetch(`${API_BASE}/api/fetch-url`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ url: remoteUrl, type, uuid, extension })
+        });
+
+        if (response.ok) {
+          const result = await response.json();
+          const targetPath = result.path;
+          
+          if (type === 'cover') {
+            document.getElementById('cover').value = targetPath;
+            updateCoverPreview();
+          } else {
+            document.getElementById('file').value = targetPath;
+            updateAudioPreview();
+          }
+
+          statusLabel.textContent = `Saved to -> ${targetPath}`;
+          statusLabel.style.color = 'var(--matrix-green)';
+          showStatus(`Remote asset downloaded & saved as ${targetPath}`);
+        } else {
+          const err = await response.json();
+          throw new Error(err.details || err.error || 'Server fetch error');
+        }
+      } catch (err) {
+        statusLabel.textContent = `Fetch failed: ${err.message}`;
+        statusLabel.style.color = 'var(--crimson-lust)';
+      }
+    }
+
+    async function saveRecord(e) {
+      e.preventDefault();
+
+      const parseArray = (str) => str.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
+      const currentVariant = document.getElementById('variant').value.trim().toUpperCase() || 'ORIGINAL';
+
+      if (currentChangeLog.length === 0) {
+        currentChangeLog.push({
+          date: new Date().toISOString().replace('T', ' ').substring(0, 19),
+          variant: currentVariant,
+          note: 'Initial variant commit'
+        });
+      }
+
+      const recordObj = {
+        uuid: document.getElementById('uuid').value,
+        status: document.getElementById('status').value,
+        id: document.getElementById('id').value.trim(),
+        variant: currentVariant,
+        tag: document.getElementById('tag').value.trim().toUpperCase(),
+        tags: currentSubTags,
+        title: document.getElementById('title').value.trim(),
+        description: document.getElementById('description').value,
+        triggers: parseArray(document.getElementById('triggers').value),
+        tier: document.getElementById('tier').value,
+        audience: document.getElementById('audience').value,
+        author: document.getElementById('author').value.trim(),
+        artist: document.getElementById('artist').value.trim(),
+        releaseDate: document.getElementById('releaseDate').value,
+        tone: parseArray(document.getElementById('tone').value),
+        cover: document.getElementById('cover').value.trim(),
+        file: document.getElementById('file').value.trim(),
+        url: document.getElementById('url').value.trim(),
+        changelog: currentChangeLog
+      };
+
+      if (currentSelectedIndex >= 0) {
+        records[currentSelectedIndex] = recordObj;
+      } else {
+        records.push(recordObj);
+        currentSelectedIndex = records.length - 1;
+      }
+
+      rebuildMasterTaxonomy();
+      renderRecordList();
+      renderVariantNavBar(recordObj.id);
+      await commitToServer();
+    }
+
+    async function deleteCurrentRecord() {
+      if (currentSelectedIndex < 0) return;
+      const rec = records[currentSelectedIndex];
+      if (!confirm(`Are you sure you want to delete ${rec.id} [${rec.variant || 'ORIGINAL'}]?`)) return;
+
+      records.splice(currentSelectedIndex, 1);
+      rebuildMasterTaxonomy();
+
+      if (records.length > 0) {
+        selectRecord(0);
+      } else {
+        createNewRecord();
+      }
+      renderRecordList();
+      await commitToServer();
+    }
+
+    async function commitToServer() {
+      try {
+        const res = await fetch(`${API_BASE}/api/save`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(records, null, 2)
+        });
+
+        if (res.ok) {
+          showStatus('SYNCHRONIZED DIRECTLY TO DATA.JSON');
+        } else {
+          throw new Error('Server responded with error');
+        }
+      } catch (err) {
+        showStatus('Running statically: Use "Download data.json" to save changes', true);
+      }
+    }
+
+    function exportJsonFile() {
+      const blob = new Blob([JSON.stringify(records, null, 2)], { type: 'application/json' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'data.json';
+      a.click();
+      showStatus('Downloaded data.json snapshot');
+    }
+
+    function showStatus(msg, isWarn = false) {
+      const el = document.getElementById('statusMsg');
+      el.textContent = `// ${msg}`;
+      el.style.color = isWarn ? 'var(--gold-tier)' : 'var(--cyber-cyan)';
+    }
+
+    function escapeHtml(text) {
+      return (text || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+
+    /* ========================================================
+       BATCH INGESTION PIPELINE IMPLEMENTATION
+    ======================================================== */
+    function openImportModal() {
+      document.getElementById('importModal').style.display = 'flex';
+      document.getElementById('batchProgressBox').style.display = 'none';
+      document.getElementById('batchProgressBox').innerHTML = '';
+      document.getElementById('btnRunBatch').disabled = false;
+    }
+
+    function closeImportModal() {
+      document.getElementById('importModal').style.display = 'none';
+    }
+
+    function handleBatchFileSelect(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = (e) => {
+        document.getElementById('batchJsonInput').value = e.target.result;
+      };
+      reader.readAsText(file);
+    }
+
+    function logBatch(text, color = '#ddd') {
+      const box = document.getElementById('batchProgressBox');
+      box.style.display = 'flex';
+      const div = document.createElement('div');
+      div.className = 'log-entry';
+      div.innerHTML = `<span style="color:${color}; word-break:break-all;">${text}</span><span class="log-date">${new Date().toTimeString().split(' ')[0]}</span>`;
+      box.appendChild(div);
+      box.scrollTop = box.scrollHeight;
+    }
+
+    async function downloadAssetDirect(url, type, uuid) {
+      if (!url) return null;
+      let ext = (url.split('?')[0].split('.').pop() || (type === 'cover' ? 'jpg' : 'mp3')).toLowerCase();
+      if (ext.length > 5 || !['png', 'jpg', 'jpeg', 'webp', 'mp3', 'wav', 'ogg', 'm4a'].includes(ext)) {
+        ext = type === 'cover' ? 'jpg' : 'mp3';
+      }
+
+      try {
+        const response = await fetch(`${API_BASE}/api/fetch-url`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ url, type, uuid, extension: ext })
+        });
+        if (response.ok) {
+          const res = await response.json();
+          return res.path;
+        }
+      } catch (err) {
+        console.error('Download error:', err);
+      }
+      return null;
+    }
+
+    async function executeBatchIngest() {
+      const raw = document.getElementById('batchJsonInput').value.trim();
+      if (!raw) {
+        alert('Please paste a valid JSON array or load a file.');
+        return;
+      }
+
+      let parsed = null;
+      try {
+        parsed = JSON.parse(raw);
+        if (!Array.isArray(parsed)) {
+          throw new Error('Input must be a JSON array [ {...}, {...} ]');
+        }
+      } catch (err) {
+        alert('Invalid JSON syntax: ' + err.message);
+        return;
+      }
+
+      const shouldDownload = document.getElementById('batchDownloadMedia').checked;
+      const forceRedownload = document.getElementById('batchForceRedownload').checked;
+      const duplicatePolicy = document.getElementById('batchDuplicatePolicy').value;
+      const defaultArtist = document.getElementById('batchDefaultArtist').value.trim() || 'Goddess Nichole';
+      const defaultTag = document.getElementById('batchDefaultTag').value.trim().toUpperCase() || 'HYPNOSIS & AUDIO';
+      
+      const btn = document.getElementById('btnRunBatch');
+      btn.disabled = true;
+      logBatch(`[START] Ingesting ${parsed.length} external records (Policy: ${duplicatePolicy})...`, 'var(--cyber-cyan)');
+
+      let addedCount = 0;
+      let updatedCount = 0;
+      let skippedCount = 0;
+      const batchUsedIds = new Set();
+
+      for (let i = 0; i < parsed.length; i++) {
+        const item = parsed[i];
+        const rawId = item.id ? String(item.id).trim() : null;
+        const protocolId = rawId ? `EROS-${rawId}` : generateNextProtocolId(batchUsedIds);
+        const itemTitle = item.title || `Protocol ${protocolId}`;
+        const itemUrl = item.url || item.post_url || '';
+
+        // Find match in current records
+        let existingIndex = -1;
+        if (duplicatePolicy !== 'DUPLICATE') {
+          existingIndex = records.findIndex(r => {
+            const matchId = (r.id || '').toUpperCase() === protocolId.toUpperCase() || (r.id || '') === rawId;
+            const matchPostUrl = itemUrl && r.changelog && r.changelog.some(c => c.note && c.note.includes(itemUrl));
+            const matchTitle = (r.title || '').trim().toLowerCase() === itemTitle.trim().toLowerCase();
+            return matchId || matchPostUrl || matchTitle;
+          });
+        }
+
+        // Handle SKIP policy
+        if (existingIndex >= 0 && duplicatePolicy === 'SKIP') {
+          logBatch(`[SKIP] Record already exists: ${protocolId} ("${itemTitle}")`, 'var(--text-muted)');
+          skippedCount++;
+          continue;
+        }
+
+        const isUpdating = existingIndex >= 0;
+        const targetUuid = isUpdating ? records[existingIndex].uuid : crypto.randomUUID();
+
+        logBatch(`[${i + 1}/${parsed.length}] ${isUpdating ? 'Updating' : 'Creating'} "${itemTitle}" (${protocolId})...`);
+
+        let coverPath = isUpdating ? records[existingIndex].cover : (item.image_url || '');
+        let filePath = isUpdating ? records[existingIndex].file : (item.audio_url || '');
+
+        // 1. Check Cover Download
+        const needsCoverDownload = shouldDownload && item.image_url && (
+          forceRedownload ||
+          !coverPath ||
+          !coverPath.startsWith('covers/')
+        );
+
+        if (needsCoverDownload) {
+          logBatch(`&rarr; Fetching cover from: ${item.image_url}`, 'var(--gold-tier)');
+          const savedCover = await downloadAssetDirect(item.image_url, 'cover', targetUuid);
+          if (savedCover) {
+            coverPath = savedCover;
+            logBatch(`&check; Cover saved: ${savedCover}`, 'var(--matrix-green)');
+          } else {
+            coverPath = item.image_url;
+            logBatch(`&cross; Cover download failed, kept remote link`, 'var(--crimson-lust)');
+          }
+        }
+
+        // 2. Check Audio Download
+        const needsAudioDownload = shouldDownload && item.audio_url && (
+          forceRedownload ||
+          !filePath ||
+          !filePath.startsWith('audio/')
+        );
+
+        if (needsAudioDownload) {
+          logBatch(`&rarr; Fetching audio from: ${item.audio_url}`, 'var(--gold-tier)');
+          const savedAudio = await downloadAssetDirect(item.audio_url, 'audio', targetUuid);
+          if (savedAudio) {
+            filePath = savedAudio;
+            logBatch(`&check; Audio saved: ${savedAudio}`, 'var(--matrix-green)');
+          } else {
+            filePath = item.audio_url;
+            logBatch(`&cross; Audio download failed, kept remote link`, 'var(--crimson-lust)');
+          }
+        }
+
+        // Determine Audience
+        let audience = 'F4M';
+        const scanText = `${item.title} ${item.tags || ''} ${item.description || ''} ${itemUrl}`.toUpperCase();
+        if (scanText.includes('F4M')) audience = 'F4M';
+        else if (scanText.includes('M4F')) audience = 'M4F';
+        else if (scanText.includes('F4F')) audience = 'F4F';
+        else if (scanText.includes('M4M')) audience = 'M4M';
+        else if (scanText.includes('F4A')) audience = 'ANY';
+
+        // Date
+        let releaseDate = new Date().toISOString().split('T')[0];
+        if (item.date) {
+          releaseDate = item.date.split('T')[0];
+        }
+
+        // Description
+        let desc = item.description || (isUpdating ? records[existingIndex].description : '');
+        if (item.tags && item.tags.length > 30 && !desc) {
+          desc = item.tags;
+        }
+
+        // Tags
+        let tagsArray = isUpdating && records[existingIndex].tags?.length ? records[existingIndex].tags : [];
+        if (item.tags && typeof item.tags === 'string' && item.tags.includes(',')) {
+          tagsArray = item.tags.split(',').map(s => s.trim().toUpperCase()).filter(Boolean);
+        }
+
+        if (isUpdating) {
+          const existing = records[existingIndex];
+          existing.title = itemTitle;
+          existing.releaseDate = releaseDate || existing.releaseDate;
+          existing.cover = coverPath;
+          if (filePath) existing.file = filePath;
+          if (desc) existing.description = desc;
+          if (tagsArray.length) existing.tags = tagsArray;
+
+          if (!existing.changelog) existing.changelog = [];
+          existing.changelog.push({
+            date: new Date().toISOString().replace('T', ' ').substring(0, 19),
+            variant: existing.variant || 'ORIGINAL',
+            note: `Re-synchronized via batch importer`
+          });
+
+          updatedCount++;
+        } else {
+          const newRecord = {
+            uuid: targetUuid,
+            status: 'ACTIVE',
+            id: protocolId,
+            variant: 'ORIGINAL',
+            tag: defaultTag,
+            tags: tagsArray,
+            title: itemTitle,
+            description: desc,
+            triggers: [],
+            tier: 'FREE',
+            audience: audience,
+            author: defaultArtist,
+            artist: defaultArtist,
+            releaseDate: releaseDate,
+            tone: [],
+            cover: coverPath,
+            file: filePath,
+            url: itemUrl,
+            changelog: [{
+              date: new Date().toISOString().replace('T', ' ').substring(0, 19),
+              variant: 'ORIGINAL',
+              note: `Imported from ${itemUrl || 'External Source'}`
+            }]
+          };
+
+          records.push(newRecord);
+          addedCount++;
+        }
+      }
+
+      logBatch(`[SAVING] Writing data to data.json...`, 'var(--cyber-cyan)');
+      rebuildMasterTaxonomy();
+      await commitToServer();
+
+      renderRecordList();
+      if (records.length > 0) selectRecord(0);
+
+      logBatch(`&check; Ingest Complete! Created: ${addedCount}, Updated: ${updatedCount}, Skipped: ${skippedCount}`, 'var(--matrix-green)');
+      btn.disabled = false;
+      showStatus(`Ingest done (Added: ${addedCount}, Updated: ${updatedCount}, Skipped: ${skippedCount})`);
+    }
+  </script>
+</body>
+</html>

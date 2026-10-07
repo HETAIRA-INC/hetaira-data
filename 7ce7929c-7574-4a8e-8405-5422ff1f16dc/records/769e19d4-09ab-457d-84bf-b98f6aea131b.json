@@ -1,0 +1,29 @@
+{
+  "uuid": "769e19d4-09ab-457d-84bf-b98f6aea131b",
+  "status": "ACTIVE",
+  "id": "EROS-GN-165",
+  "variant": "ORIGINAL",
+  "tag": "LOOP",
+  "tags": [
+    "BACKGROUND LOOP"
+  ],
+  "title": "Nichole-Fi",
+  "description": "",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4M",
+  "author": "Goddess Nichole",
+  "artist": "Goddess Nichole",
+  "releaseDate": "2026-10-03",
+  "tone": [],
+  "cover": "covers/769e19d4-09ab-457d-84bf-b98f6aea131b.png",
+  "file": "audio/769e19d4-09ab-457d-84bf-b98f6aea131b.mp3",
+  "url": "https://goddessnichole.com/nichole-fi-background-loop/",
+  "changelog": [
+    {
+      "date": "2026-10-03 21:40:32",
+      "variant": "ORIGINAL",
+      "note": "Protocol created"
+    }
+  ]
+}
