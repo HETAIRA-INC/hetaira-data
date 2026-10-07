@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "beep",
+    "label": "BEEP",
+    "aliases": [],
+    "count": 11
+  },
+  {
+    "slug": "bell",
+    "label": "BELL",
+    "aliases": [],
+    "count": 1
+  },
+  {
+    "slug": "blank",
+    "label": "BLANK",
+    "aliases": [],
+    "count": 4
+  },
+  {
+    "slug": "clench",
+    "label": "CLENCH",
+    "aliases": [],
+    "count": 3
+  },
+  {
+    "slug": "click",
+    "label": "CLICK",
+    "aliases": [],
+    "count": 2
+  },
+  {
+    "slug": "drop",
+    "label": "DROP",
+    "aliases": [],
+    "count": 1
+  },
+  {
+    "slug": "dumb",
+    "label": "DUMB",
+    "aliases": [],
+    "count": 2
+  },
+  {
+    "slug": "dumb-and-docile",
+    "label": "DUMB AND DOCILE",
+    "aliases": [],
+    "count": 2
+  },
+  {
+    "slug": "going-up",
+    "label": "GOING UP",
+    "aliases": [],
+    "count": 1
+  },
+  {
+    "slug": "good-boy",
+    "label": "GOOD BOY",
+    "aliases": [],
+    "count": 4
+  },
+  {
+    "slug": "i-m-the-hot-one",
+    "label": "I'M THE HOT ONE",
+    "aliases": [],
+    "count": 2
+  },
+  {
+    "slug": "i-m-the-smart-one",
+    "label": "I'M THE SMART ONE",
+    "aliases": [],
+    "count": 2
+  },
+  {
+    "slug": "kissy",
+    "label": "KISSY",
+    "aliases": [],
+    "count": 2
+  },
+  {
+    "slug": "pop",
+    "label": "POP",
+    "aliases": [],
+    "count": 1
+  },
+  {
+    "slug": "sleep",
+    "label": "SLEEP",
+    "aliases": [],
+    "count": 2
+  },
+  {
+    "slug": "snap",
+    "label": "SNAP",
+    "aliases": [],
+    "count": 1
+  },
+  {
+    "slug": "snaps",
+    "label": "SNAPS",
+    "aliases": [],
+    "count": 7
+  },
+  {
+    "slug": "stroke",
+    "label": "STROKE",
+    "aliases": [],
+    "count": 1
+  },
+  {
+    "slug": "yes-nichole",
+    "label": "YES NICHOLE",
+    "aliases": [],
+    "count": 3
+  }
+]
