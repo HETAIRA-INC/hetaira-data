@@ -1,5 +1,17 @@
 {
+  "name": "hetaira-data",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "migrate": "node tools/migrate.js",
+    "build": "node tools/build.js",
+    "check": "node tools/build.js --check",
+    "add-artist": "node tools/add-artist.js"
+  },
   "dependencies": {
     "express": "^5.2.1"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }

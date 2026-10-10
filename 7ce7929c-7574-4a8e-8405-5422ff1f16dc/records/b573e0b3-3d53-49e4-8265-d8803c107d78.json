@@ -21,7 +21,6 @@
     "DUMB",
     "I'M THE HOT ONE",
     "I'M THE SMART ONE",
-    "YES NICHOLE",
     "DUMB AND DOCILE"
   ],
   "tier": "FREE",
@@ -46,5 +45,10 @@
       "variant": "F4A",
       "note": "Forked variant from F4M"
     }
+  ],
+  "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+  "collaborators": [],
+  "artistUuids": [
+    "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]
 }

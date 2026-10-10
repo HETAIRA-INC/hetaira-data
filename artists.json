@@ -3,11 +3,15 @@
     "uuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
     "slug": "goddess-nichole",
     "name": "Goddess Nichole",
-    "aliases": [],
+    "aliases": [
+      "nicholemd",
+      "yes nichole"
+    ],
     "idPrefix": "EROS-GN-",
     "site": "https://goddessnichole.com",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
+    "description": "Popular erotic hypnosis and audio creator specializing in female dominance, obedience training, sensual body worship, and playful, hypnotic mind control.",
     "recordCount": 194
   },
   {
@@ -19,15 +23,30 @@
     "site": "https://shibbydex.com",
     "defaultTag": "EROTIC HYPNOSIS",
     "status": "ACTIVE",
-    "recordCount": 0
+    "description": "Pioneering erotic hypnotist and producer recognized for expansive trance scripts, behavioral conditioning, femdom files, and maintaining the ShibbyDex audio catalog.",
+    "recordCount": 1
   },
   {
     "uuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
     "slug": "lambellina",
     "name": "Lambellina",
-    "aliases": [],
+    "aliases": [
+      "lamb"
+    ],
     "idPrefix": "EROS-LB-",
     "site": "https://lambhypno.com/",
+    "defaultTag": "HYPNOSIS & AUDIO",
+    "status": "ACTIVE",
+    "description": "Erotic audio creator and hypnotist known for atmospheric, sensory-rich trance files, seductive conditioning, and immersive psychological audio journeys.",
+    "recordCount": 2
+  },
+  {
+    "uuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+    "slug": "mistress-calia",
+    "name": "Mistress Calia",
+    "aliases": [],
+    "idPrefix": "EROS-MK-",
+    "site": "https://mistresscalia.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
     "recordCount": 0

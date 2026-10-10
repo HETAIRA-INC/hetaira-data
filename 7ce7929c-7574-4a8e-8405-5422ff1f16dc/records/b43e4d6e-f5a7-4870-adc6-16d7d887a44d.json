@@ -12,6 +12,7 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2022-04-14",
   "tone": [],
   "cover": "covers/b43e4d6e-f5a7-4870-adc6-16d7d887a44d.png",
@@ -23,5 +24,9 @@
       "variant": "ORIGINAL",
       "note": "Protocol created"
     }
+  ],
+  "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+  "artistUuids": [
+    "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]
 }

@@ -1,116 +1,225 @@
 [
   {
+    "slug": "arouse",
+    "label": "AROUSE",
+    "aliases": [
+      "horny"
+    ],
+    "count": 0,
+    "description": "An erotic trigger installed to stimulate an instant rush of physical desire, warmth, and genital responsiveness."
+  },
+  {
     "slug": "beep",
     "label": "BEEP",
     "aliases": [],
-    "count": 11
+    "count": 11,
+    "description": "An electronic tone used as a conditioned anchor to instantly induce trance, stop thoughts, or signal obedience."
   },
   {
     "slug": "bell",
     "label": "BELL",
     "aliases": [],
-    "count": 1
+    "count": 1,
+    "description": "An acoustic chime or ringing bell sound that acts as an auditory cue for deepening relaxation or compliance."
   },
   {
     "slug": "blank",
     "label": "BLANK",
     "aliases": [],
-    "count": 4
+    "count": 4,
+    "description": "A verbal command instructing the conscious mind to empty itself instantly of thoughts, worries, and internal dialogue."
   },
   {
     "slug": "clench",
     "label": "CLENCH",
     "aliases": [],
-    "count": 3
+    "count": 3,
+    "description": "A physical conditioning cue directing immediate contraction of specific muscles, such as the pelvic floor or fists."
   },
   {
     "slug": "click",
     "label": "CLICK",
     "aliases": [],
-    "count": 2
+    "count": 2,
+    "description": "An auditory clicker or mechanical sound used to positively reinforce obedience and anchor submissive states."
+  },
+  {
+    "slug": "cum",
+    "label": "CUM",
+    "aliases": [
+      "release"
+    ],
+    "count": 0,
+    "description": "An explicit orgasmic trigger commanding immediate, spontaneous sexual climax on command."
+  },
+  {
+    "slug": "deeper",
+    "label": "DEEPER",
+    "aliases": [
+      "down"
+    ],
+    "count": 0,
+    "description": "A reinforcement deepener instructing the subject to double their hypnotic depth with every repetition."
+  },
+  {
+    "slug": "drain",
+    "label": "DRAIN",
+    "aliases": [
+      "empty"
+    ],
+    "count": 0,
+    "description": "A hypnotic command suggesting all mental resistance, energy, and willful focus draining completely out of the body."
   },
   {
     "slug": "drop",
     "label": "DROP",
     "aliases": [],
-    "count": 1
+    "count": 1,
+    "description": "A classic rapid induction command directing the listener to plunge immediately into a deep, receptive trance state."
   },
   {
     "slug": "dumb",
     "label": "DUMB",
     "aliases": [],
-    "count": 2
+    "count": 2,
+    "description": "A hypnotic cue designed to temporarily suspend critical thinking, analysis, and intellect in favor of simple obedience."
   },
   {
     "slug": "dumb-and-docile",
     "label": "DUMB AND DOCILE",
     "aliases": [],
-    "count": 2
+    "count": 2,
+    "description": "A paired suggestion cue instilling thoughtless mental emptiness combined with gentle, unquestioning subservience."
+  },
+  {
+    "slug": "edge",
+    "label": "EDGE",
+    "aliases": [
+      "brink"
+    ],
+    "count": 0,
+    "description": "A command instructing the listener to bring their physical arousal rapidly to the brink of climax and hold."
+  },
+  {
+    "slug": "freeze",
+    "label": "FREEZE",
+    "aliases": [
+      "stop"
+    ],
+    "count": 0,
+    "description": "A physical catatonia command directing the listener to instantly lock their body in place and halt all movement."
   },
   {
     "slug": "going-up",
     "label": "GOING UP",
     "aliases": [],
-    "count": 1
+    "count": 1,
+    "description": "A somatic escalation trigger used to systematically ratchet up sexual tension, arousal, or emotional intensity."
   },
   {
     "slug": "good-boy",
     "label": "GOOD BOY",
     "aliases": [],
-    "count": 4
+    "count": 4,
+    "description": "A verbal praise anchor that delivers a neurochemical reward, reinforcing submissive compliance and positive feelings."
   },
   {
     "slug": "i-m-the-hot-one",
     "label": "I'M THE HOT ONE",
     "aliases": [],
-    "count": 2
+    "count": 2,
+    "description": "A roleplay identity anchor reinforcing the speaker's undeniable physical desirability and visual dominance."
   },
   {
     "slug": "i-m-the-smart-one",
     "label": "I'M THE SMART ONE",
     "aliases": [],
-    "count": 2
+    "count": 2,
+    "description": "A psychological anchor establishing intellectual supremacy, encouraging the listener to surrender decision-making."
   },
   {
     "slug": "kissy",
     "label": "KISSY",
     "aliases": [],
-    "count": 2
+    "count": 2,
+    "description": "A mouth sound or spoken cue anchoring affectionate warmth, lip contact, and sensory sensitivity."
+  },
+  {
+    "slug": "melt",
+    "label": "MELT",
+    "aliases": [
+      "sink"
+    ],
+    "count": 0,
+    "description": "A somatic cue inducing a warm, heavy sensation of muscles relaxing and surrendering into the surface beneath them."
+  },
+  {
+    "slug": "obey",
+    "label": "OBEY",
+    "aliases": [
+      "comply"
+    ],
+    "count": 0,
+    "description": "A direct dominance trigger commanding prompt compliance, bypassing hesitation and internal resistance."
   },
   {
     "slug": "pop",
     "label": "POP",
     "aliases": [],
-    "count": 1
+    "count": 1,
+    "description": "A sharp, sudden acoustic trigger (such as gum popping or mouth sounds) used as an instantaneous pattern interrupt."
+  },
+  {
+    "slug": "reset",
+    "label": "RESET",
+    "aliases": [
+      "clear"
+    ],
+    "count": 0,
+    "description": "A cognitive clearing cue that wipes recent thoughts and returns the subject to a calm, neutral baseline."
   },
   {
     "slug": "sleep",
     "label": "SLEEP",
     "aliases": [],
-    "count": 2
+    "count": 2,
+    "description": "A foundational hypnotic command directing the listener to drop physical tension and enter a deep state of trance or rest."
   },
   {
     "slug": "snap",
     "label": "SNAP",
     "aliases": [],
-    "count": 1
+    "count": 1,
+    "description": "A single finger snap sound effect used to trigger immediate trance entry, obedience, or state shifts."
   },
   {
     "slug": "snaps",
     "label": "SNAPS",
     "aliases": [],
-    "count": 7
+    "count": 7,
+    "description": "Repeated finger snapping used to pace inductions, deepen suggestibility, or rhythmically lock in hypnotic commands."
   },
   {
     "slug": "stroke",
     "label": "STROKE",
     "aliases": [],
-    "count": 1
+    "count": 1,
+    "description": "A pacing cue in masturbation instruction signaling a single physical touch or stroke along the shaft."
+  },
+  {
+    "slug": "wake",
+    "label": "WAKE",
+    "aliases": [
+      "awaken"
+    ],
+    "count": 0,
+    "description": "A concluding hypnotic trigger returning the listener to clear-headed, alert, and energized waking consciousness."
   },
   {
     "slug": "yes-nichole",
     "label": "YES NICHOLE",
     "aliases": [],
-    "count": 3
+    "count": 3,
+    "description": "A dedicated vocal or mental response trigger confirming total surrender and agreement with Goddess Nichole."
   }
 ]
