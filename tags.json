@@ -167,10 +167,16 @@
     "description": "Direct erotic adoration, kissing, licking, and spoken devotion focused on the anus."
   },
   {
+    "slug": "audio-available",
+    "label": "AUDIO AVAILABLE",
+    "aliases": [],
+    "count": 100
+  },
+  {
     "slug": "audio-unavailable",
     "label": "AUDIO UNAVAILABLE",
     "aliases": [],
-    "count": 1
+    "count": 90
   },
   {
     "slug": "background-loop",
