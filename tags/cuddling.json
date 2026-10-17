@@ -1,0 +1,46 @@
+{
+  "slug": "cuddling",
+  "label": "CUDDLING",
+  "count": 3,
+  "records": [
+    {
+      "uuid": "17ca123f-24e5-4e05-80a8-8c780b0e399a",
+      "id": "EROS-GN-143",
+      "title": "Puppy Love: Good Puppy (F4A)",
+      "variant": "F4A",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/17ca123f-24e5-4e05-80a8-8c780b0e399a.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/17ca123f-24e5-4e05-80a8-8c780b0e399a.mp3",
+      "hash": "7897fbd11db0fe49690c910dec930c9ad3cb1208128f0c630005a8fa330eeb01",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b1a9c334-59e6-463a-ab3f-69104dbe9f38",
+      "id": "EROS-GN-143",
+      "title": "Puppy Love: Good Girl (F4F)",
+      "variant": "F4F",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b1a9c334-59e6-463a-ab3f-69104dbe9f38.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b1a9c334-59e6-463a-ab3f-69104dbe9f38.mp3",
+      "hash": "b0c8bb4438f4e066a8cf91098c79283fbc300f4ed1d99497dfc1d4ba6412c8f4",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "8a7e7e97-acb1-46fd-8440-af00b9f8c58a",
+      "id": "EROS-GN-143",
+      "title": "Puppy Love: Good Boy (F4M)",
+      "variant": "F4M",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/8a7e7e97-acb1-46fd-8440-af00b9f8c58a.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/8a7e7e97-acb1-46fd-8440-af00b9f8c58a.mp3",
+      "hash": "797ec4a3e0e43fa86dc6916e92febde353117147fcde89c4536e68cb74e27ee7",
+      "status": "ACTIVE"
+    }
+  ]
+}

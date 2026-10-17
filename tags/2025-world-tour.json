@@ -1,0 +1,33 @@
+{
+  "slug": "2025-world-tour",
+  "label": "2025 WORLD TOUR",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "857f4375-2a99-4981-8aec-40a15a087be2",
+      "id": "EROS-GN-072",
+      "title": "Nichole Air: 2025 WORLD TOUR",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/857f4375-2a99-4981-8aec-40a15a087be2.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/857f4375-2a99-4981-8aec-40a15a087be2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c236d063-b8ba-46bb-8ff5-2cc8f23341ca",
+      "id": "EROS-GN-126",
+      "title": "Nichole Air: Amazon Island",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/c236d063-b8ba-46bb-8ff5-2cc8f23341ca.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/c236d063-b8ba-46bb-8ff5-2cc8f23341ca.mp3",
+      "hash": "5cdceb653facc25f0b45651954adaa6b467256fdb87fd0f06a600ce1e4993e4f",
+      "status": "ACTIVE"
+    }
+  ]
+}

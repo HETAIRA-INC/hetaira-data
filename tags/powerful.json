@@ -1,0 +1,20 @@
+{
+  "slug": "powerful",
+  "label": "POWERFUL",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "a2273830-2529-439e-8e6c-c9c94016f91b",
+      "id": "EROS-GN-080",
+      "title": "Prejac Stamina Challenge",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/a2273830-2529-439e-8e6c-c9c94016f91b.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/a2273830-2529-439e-8e6c-c9c94016f91b.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

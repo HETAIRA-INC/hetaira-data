@@ -32,8 +32,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/c3e39af8-b2ce-4dcf-ad3b-17c7ba11ba24.png",
-  "file": "audio/c3e39af8-b2ce-4dcf-ad3b-17c7ba11ba24.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/c3e39af8-b2ce-4dcf-ad3b-17c7ba11ba24.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/c3e39af8-b2ce-4dcf-ad3b-17c7ba11ba24.mp3",
   "url": "https://goddessnichole.com/bon-appetit/",
   "changelog": [
     {
@@ -51,5 +51,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

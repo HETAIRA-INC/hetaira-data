@@ -35,8 +35,8 @@
   "tone": [
     "SLUTTY"
   ],
-  "cover": "covers/d2e7e370-f9ba-4682-bc02-cb2568d20f75.png",
-  "file": "audio/d2e7e370-f9ba-4682-bc02-cb2568d20f75.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d2e7e370-f9ba-4682-bc02-cb2568d20f75.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d2e7e370-f9ba-4682-bc02-cb2568d20f75.mp3",
   "url": "https://lambhypno.com/no-touch-challenge/",
   "changelog": [
     {
@@ -50,5 +50,6 @@
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
     "3ae34646-0511-4c8f-a95b-af9e115b342f",
     "f2303e86-9708-40c5-91ee-e375a04ebcae"
-  ]
+  ],
+  "hash": ""
 }

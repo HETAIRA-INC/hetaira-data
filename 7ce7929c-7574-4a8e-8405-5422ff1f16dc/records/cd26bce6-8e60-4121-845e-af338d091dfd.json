@@ -17,8 +17,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/cd26bce6-8e60-4121-845e-af338d091dfd.png",
-  "file": "audio/cd26bce6-8e60-4121-845e-af338d091dfd.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/cd26bce6-8e60-4121-845e-af338d091dfd.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/cd26bce6-8e60-4121-845e-af338d091dfd.mp3",
   "url": "https://goddessnichole.com/choose-your-fate/",
   "changelog": [
     {
@@ -31,5 +31,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

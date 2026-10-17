@@ -34,8 +34,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/a2273830-2529-439e-8e6c-c9c94016f91b.png",
-  "file": "audio/a2273830-2529-439e-8e6c-c9c94016f91b.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/a2273830-2529-439e-8e6c-c9c94016f91b.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/a2273830-2529-439e-8e6c-c9c94016f91b.mp3",
   "url": "https://goddessnichole.com/prejac-stamina-challenge/",
   "changelog": [
     {
@@ -48,5 +48,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

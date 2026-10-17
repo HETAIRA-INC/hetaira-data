@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/62b376cf-b07d-49e6-9a48-b18f796d61b6.png",
-  "file": "audio/62b376cf-b07d-49e6-9a48-b18f796d61b6.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/62b376cf-b07d-49e6-9a48-b18f796d61b6.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/62b376cf-b07d-49e6-9a48-b18f796d61b6.mp3",
+  "hash": "db71224b121c289103f90bf2cb9e5d38559ee06b8b6789060889cc9f93ca517b",
   "url": "https://goddessnichole.com/pumpchella-summer-remix/",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

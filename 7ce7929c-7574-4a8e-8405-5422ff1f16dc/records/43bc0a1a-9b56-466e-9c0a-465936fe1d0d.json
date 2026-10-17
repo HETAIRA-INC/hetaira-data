@@ -1,6 +1,6 @@
 {
   "uuid": "43bc0a1a-9b56-466e-9c0a-465936fe1d0d",
-  "status": "INACTIVE",
+  "status": "ACTIVE",
   "id": "EROS-GN-0105",
   "variant": "ORIGINAL",
   "tag": "HYPNOSIS & AUDIO",
@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/43bc0a1a-9b56-466e-9c0a-465936fe1d0d.png",
-  "file": "audio/43bc0a1a-9b56-466e-9c0a-465936fe1d0d.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/43bc0a1a-9b56-466e-9c0a-465936fe1d0d.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/43bc0a1a-9b56-466e-9c0a-465936fe1d0d.mp3",
+  "hash": "c6f2d8293a812b68305960cabdedb04889c4edd4e1abd0e4c23a974c7b0af993",
   "url": "https://goddessnichole.com/atm-drone/",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

@@ -23,8 +23,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/266eb33c-3e93-46e5-8d8f-6eb95c84dfb8.png",
-  "file": "audio/266eb33c-3e93-46e5-8d8f-6eb95c84dfb8.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/266eb33c-3e93-46e5-8d8f-6eb95c84dfb8.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/266eb33c-3e93-46e5-8d8f-6eb95c84dfb8.mp3",
   "url": "https://goddessnichole.com/attachment-therapy/",
   "changelog": [
     {
@@ -37,5 +37,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

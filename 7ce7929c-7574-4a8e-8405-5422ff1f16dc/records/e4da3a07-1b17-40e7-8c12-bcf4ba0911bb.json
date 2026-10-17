@@ -30,8 +30,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/e4da3a07-1b17-40e7-8c12-bcf4ba0911bb.png",
-  "file": "audio/e4da3a07-1b17-40e7-8c12-bcf4ba0911bb.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/e4da3a07-1b17-40e7-8c12-bcf4ba0911bb.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/e4da3a07-1b17-40e7-8c12-bcf4ba0911bb.mp3",
   "url": "https://goddessnichole.com/lessons-in-the-library/",
   "changelog": [
     {
@@ -49,5 +49,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

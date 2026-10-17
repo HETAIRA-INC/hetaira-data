@@ -1,0 +1,33 @@
+{
+  "slug": "pet-play",
+  "label": "PET PLAY",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "060d671d-0335-46a1-abf5-8bfa6dcfc872",
+      "id": "EROS-GN-0115",
+      "title": "Become My Pet Kitty",
+      "variant": "F4F",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/060d671d-0335-46a1-abf5-8bfa6dcfc872.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/060d671d-0335-46a1-abf5-8bfa6dcfc872.mp3",
+      "hash": "24e0076dcc3fbb6129e139f29cf4c0534cf71ef6504463a596077d78b468edab",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b59e9445-4bb9-4f65-946c-52e14d7cf133",
+      "id": "EROS-GN-0115",
+      "title": "Become My Pet Kitty (F4TF)",
+      "variant": "F4TF",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/060d671d-0335-46a1-abf5-8bfa6dcfc872.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b59e9445-4bb9-4f65-946c-52e14d7cf133.mp3",
+      "hash": "437fd914c679ac58768be977a6258a1eac80e8d96cc3acc1cc4e843e015cb2b8",
+      "status": "ACTIVE"
+    }
+  ]
+}

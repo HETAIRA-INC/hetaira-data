@@ -1,0 +1,33 @@
+{
+  "slug": "obey-nichole",
+  "label": "OBEY NICHOLE",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "e946664b-a496-40fa-aed9-ba151376d620",
+      "id": "EROS-GN-051",
+      "title": "Chapter One",
+      "variant": "AUDIO",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/e946664b-a496-40fa-aed9-ba151376d620.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/e946664b-a496-40fa-aed9-ba151376d620.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "80020296-d8ba-45c2-aec8-cb09f0c21456",
+      "id": "EROS-GN-051",
+      "title": "Chapter One (VIDEO)",
+      "variant": "VIDEO",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/80020296-d8ba-45c2-aec8-cb09f0c21456.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/80020296-d8ba-45c2-aec8-cb09f0c21456.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

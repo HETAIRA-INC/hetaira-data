@@ -1,0 +1,33 @@
+{
+  "slug": "denial",
+  "label": "DENIAL",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "391baf35-2f8f-402b-b644-0c042cd77d49",
+      "id": "EROS-GN-073",
+      "title": "The Sitter: Honeymoon",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/391baf35-2f8f-402b-b644-0c042cd77d49.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/391baf35-2f8f-402b-b644-0c042cd77d49.mp3",
+      "hash": "db6fc456bdafb9feef01f87b83b3f82b44018afcc26f2d04a7bc474433a96ec9",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "087b0d42-a028-4ddc-9c2b-e90ce834607a",
+      "id": "EROS-GN-093",
+      "title": "Hotel Nichole: The VIP Lounge",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/087b0d42-a028-4ddc-9c2b-e90ce834607a.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/087b0d42-a028-4ddc-9c2b-e90ce834607a.mp3",
+      "hash": "a9df4e8c76245b45aa1e0fae5ed297674a7c8259205665d300502ad00fd57bef",
+      "status": "ACTIVE"
+    }
+  ]
+}

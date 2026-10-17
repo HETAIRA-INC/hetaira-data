@@ -1,0 +1,20 @@
+{
+  "slug": "cum-cow",
+  "label": "CUM COW",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "6b5b5b5b-a36f-49e4-8a57-2b88faa19efb",
+      "id": "EROS-GN-0104",
+      "title": "The Farm",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/6b5b5b5b-a36f-49e4-8a57-2b88faa19efb.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/6b5b5b5b-a36f-49e4-8a57-2b88faa19efb.mp3",
+      "hash": "3b7a66335c822e67a618948819fd7167aff2e7cf94f9bca0fcbf1c2cc1931e7a",
+      "status": "ACTIVE"
+    }
+  ]
+}

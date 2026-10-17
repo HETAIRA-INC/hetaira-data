@@ -1,0 +1,20 @@
+{
+  "slug": "indoctrination",
+  "label": "INDOCTRINATION",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "da3e4dec-6929-4538-8dbc-d8ce914640a4",
+      "id": "EROS-GN-078",
+      "title": "The Prejac Curse",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/da3e4dec-6929-4538-8dbc-d8ce914640a4.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/da3e4dec-6929-4538-8dbc-d8ce914640a4.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/8613a643-48f7-4b67-a6c7-93bbbe86d848.png",
-  "file": "audio/8613a643-48f7-4b67-a6c7-93bbbe86d848.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/8613a643-48f7-4b67-a6c7-93bbbe86d848.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/8613a643-48f7-4b67-a6c7-93bbbe86d848.mp3",
+  "hash": "",
   "url": "",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

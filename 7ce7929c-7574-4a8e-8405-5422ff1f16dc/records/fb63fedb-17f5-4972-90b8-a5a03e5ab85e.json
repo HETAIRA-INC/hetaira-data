@@ -16,8 +16,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/fb63fedb-17f5-4972-90b8-a5a03e5ab85e.png",
-  "file": "audio/fb63fedb-17f5-4972-90b8-a5a03e5ab85e.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/fb63fedb-17f5-4972-90b8-a5a03e5ab85e.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/fb63fedb-17f5-4972-90b8-a5a03e5ab85e.mp3",
   "url": "https://goddessnichole.com/good-boy-training/",
   "changelog": [
     {
@@ -30,5 +30,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

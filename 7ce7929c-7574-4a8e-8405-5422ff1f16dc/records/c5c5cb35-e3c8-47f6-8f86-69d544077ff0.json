@@ -37,8 +37,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/c5c5cb35-e3c8-47f6-8f86-69d544077ff0.png",
-  "file": "audio/c5c5cb35-e3c8-47f6-8f86-69d544077ff0.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/c5c5cb35-e3c8-47f6-8f86-69d544077ff0.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/c5c5cb35-e3c8-47f6-8f86-69d544077ff0.mp3",
   "url": "https://goddessnichole.com/puppy-pillow-play/",
   "changelog": [
     {
@@ -51,5 +51,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

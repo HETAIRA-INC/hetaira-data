@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/9f49fb47-0417-4e40-8ef6-17ad17d47abc.png",
-  "file": "audio/9f49fb47-0417-4e40-8ef6-17ad17d47abc.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/9f49fb47-0417-4e40-8ef6-17ad17d47abc.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/9f49fb47-0417-4e40-8ef6-17ad17d47abc.mp3",
+  "hash": "de5ef6aa88f65281324585c4ef4e94e74bf3b13ccfad10936c9b893f39c79cb6",
   "url": "https://goddessnichole.com/the-yoga-teacher/",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

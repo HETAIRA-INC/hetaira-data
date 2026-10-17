@@ -31,8 +31,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/f083bcea-936a-401b-a65e-f8fe9f7a024c.png",
-  "file": "audio/f083bcea-936a-401b-a65e-f8fe9f7a024c.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/f083bcea-936a-401b-a65e-f8fe9f7a024c.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/f083bcea-936a-401b-a65e-f8fe9f7a024c.mp3",
   "url": "https://goddessnichole.com/become-my-pet-puppy/",
   "changelog": [
     {
@@ -45,5 +45,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

@@ -17,9 +17,9 @@
   "collaborators": [],
   "releaseDate": "2022-04-14",
   "tone": [],
-  "cover": "covers/b43e4d6e-f5a7-4870-adc6-16d7d887a44d.png",
-  "file": "audio/b43e4d6e-f5a7-4870-adc6-16d7d887a44d.mp3",
-  "url": "https://gjgjyjy.com",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b43e4d6e-f5a7-4870-adc6-16d7d887a44d.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b43e4d6e-f5a7-4870-adc6-16d7d887a44d.mp3",
+  "url": "",
   "changelog": [
     {
       "date": "2026-10-02 10:56:01",
@@ -30,5 +30,6 @@
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

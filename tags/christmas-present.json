@@ -1,0 +1,20 @@
+{
+  "slug": "christmas-present",
+  "label": "CHRISTMAS PRESENT",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "2727ad56-0373-43d3-be44-c2ed926e3cd3",
+      "id": "EROS-GN-067",
+      "title": "Goddess Nichole's Unplugged Session",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/2727ad56-0373-43d3-be44-c2ed926e3cd3.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/2727ad56-0373-43d3-be44-c2ed926e3cd3.mp3",
+      "hash": "",
+      "status": "INACTIVE"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "vibrations",
+  "label": "VIBRATIONS",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "087b0d42-a028-4ddc-9c2b-e90ce834607a",
+      "id": "EROS-GN-093",
+      "title": "Hotel Nichole: The VIP Lounge",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/087b0d42-a028-4ddc-9c2b-e90ce834607a.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/087b0d42-a028-4ddc-9c2b-e90ce834607a.mp3",
+      "hash": "a9df4e8c76245b45aa1e0fae5ed297674a7c8259205665d300502ad00fd57bef",
+      "status": "ACTIVE"
+    }
+  ]
+}

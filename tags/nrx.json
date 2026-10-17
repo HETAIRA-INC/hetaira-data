@@ -1,0 +1,98 @@
+{
+  "slug": "nrx",
+  "label": "NRX",
+  "count": 7,
+  "records": [
+    {
+      "uuid": "41c73112-8cdd-4b73-83ea-228cd54e4299",
+      "id": "EROS-GN-012",
+      "title": "NicholeRx: Your New Addiction",
+      "variant": "NA",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/41c73112-8cdd-4b73-83ea-228cd54e4299.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/41c73112-8cdd-4b73-83ea-228cd54e4299.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "efa6e6d7-9f2c-4686-99b0-a6244823f65f",
+      "id": "EROS-GN-030",
+      "title": "NicholeRx: Addicted",
+      "variant": "NA",
+      "tier": "PAID LEVEL 2",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/efa6e6d7-9f2c-4686-99b0-a6244823f65f.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/efa6e6d7-9f2c-4686-99b0-a6244823f65f.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "79d233ad-2084-4286-9bf3-606a7d7635ff",
+      "id": "EROS-GN-042",
+      "title": "NicholeRx: Quick Hits",
+      "variant": "NA",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/79d233ad-2084-4286-9bf3-606a7d7635ff.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/79d233ad-2084-4286-9bf3-606a7d7635ff.mp3",
+      "hash": "cd19c51b35e620fa74fa76f33b835ebd774e819ae91ef3acc6addbc5850ab27f",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "61ca138d-ceb5-4278-99b5-b547aa90e60d",
+      "id": "EROS-GN-050",
+      "title": "NicholeRx: Performance Enhancer",
+      "variant": "NA",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/61ca138d-ceb5-4278-99b5-b547aa90e60d.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/61ca138d-ceb5-4278-99b5-b547aa90e60d.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "73cfbc80-9179-45c0-adf7-0aca289430e1",
+      "id": "EROS-GN-061",
+      "title": "NicholeRx: Rapid Release - NRX 500mg",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/73cfbc80-9179-45c0-adf7-0aca289430e1.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/73cfbc80-9179-45c0-adf7-0aca289430e1.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b7970058-b0fd-4830-aec6-97fdbc712483",
+      "id": "EROS-GN-091",
+      "title": "NicholeRx: Strung Out",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b7970058-b0fd-4830-aec6-97fdbc712483.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b7970058-b0fd-4830-aec6-97fdbc712483.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "076f4224-bb7b-4eb9-b03c-c9f23fde6106",
+      "id": "EROS-GN-0110",
+      "title": "NicholeRx: Performance Leak",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/076f4224-bb7b-4eb9-b03c-c9f23fde6106.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/076f4224-bb7b-4eb9-b03c-c9f23fde6106.mp3",
+      "hash": "c1f66396afa39ffb3ea01753d1a1022426b9419c99be2d5d5ed8b1c11fd51974",
+      "status": "ACTIVE"
+    }
+  ]
+}

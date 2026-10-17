@@ -34,8 +34,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/4b1a57e5-36d2-438a-b86e-916ee2ccb0a6.png",
-  "file": "audio/4b1a57e5-36d2-438a-b86e-916ee2ccb0a6.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/4b1a57e5-36d2-438a-b86e-916ee2ccb0a6.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/4b1a57e5-36d2-438a-b86e-916ee2ccb0a6.mp3",
   "url": "https://goddessnichole.com/temple-of-nichole/",
   "changelog": [
     {
@@ -53,5 +53,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

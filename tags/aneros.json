@@ -1,0 +1,46 @@
+{
+  "slug": "aneros",
+  "label": "ANEROS",
+  "count": 3,
+  "records": [
+    {
+      "uuid": "ac98ae79-d16a-4926-8957-c0493d6e0529",
+      "id": "EROS-GN-02",
+      "title": "Aneros Enlightenment",
+      "variant": "NA",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/ac98ae79-d16a-4926-8957-c0493d6e0529.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/ac98ae79-d16a-4926-8957-c0493d6e0529.mp3",
+      "hash": "83c134eb4624691b6a9ca9c068b2d842820a8aef3ea69b9c196e32c2f6772adc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e61fb95a-0137-47d8-bd4a-81a484fa45c3",
+      "id": "EROS-GN-097",
+      "title": "The Awakening",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/e61fb95a-0137-47d8-bd4a-81a484fa45c3.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/e61fb95a-0137-47d8-bd4a-81a484fa45c3.mp3",
+      "hash": "a70964dc701046ba301bacc896da24590d14e478fd78a6c686123c5e62ab5c5d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "41ee39ca-1530-4ded-b65b-babf06b19394",
+      "id": "EROS-GN-0111",
+      "title": "Mission 2114",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/41ee39ca-1530-4ded-b65b-babf06b19394.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/41ee39ca-1530-4ded-b65b-babf06b19394.mp3",
+      "hash": "e6a029bb8542eaa5b38347e4145739f3badeb7b8d8c340c7838f9bc96820f1cc",
+      "status": "ACTIVE"
+    }
+  ]
+}

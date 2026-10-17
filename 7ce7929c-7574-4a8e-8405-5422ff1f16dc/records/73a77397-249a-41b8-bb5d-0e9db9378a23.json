@@ -28,8 +28,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/73a77397-249a-41b8-bb5d-0e9db9378a23.png",
-  "file": "audio/73a77397-249a-41b8-bb5d-0e9db9378a23.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/73a77397-249a-41b8-bb5d-0e9db9378a23.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/73a77397-249a-41b8-bb5d-0e9db9378a23.mp3",
   "url": "https://goddessnichole.com/obeycation/",
   "changelog": [
     {
@@ -42,5 +42,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

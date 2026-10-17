@@ -1,0 +1,20 @@
+{
+  "slug": "openness",
+  "label": "OPENNESS",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "df47bc65-3ac7-406b-a894-d0c7e8a2b84d",
+      "id": "EROS-GN-092",
+      "title": "Late Night Confessions",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/df47bc65-3ac7-406b-a894-d0c7e8a2b84d.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/df47bc65-3ac7-406b-a894-d0c7e8a2b84d.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

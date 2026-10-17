@@ -16,8 +16,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/56a0b69c-a5b6-4db6-980c-f8c39e694480.png",
-  "file": "audio/56a0b69c-a5b6-4db6-980c-f8c39e694480.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/56a0b69c-a5b6-4db6-980c-f8c39e694480.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/56a0b69c-a5b6-4db6-980c-f8c39e694480.mp3",
   "url": "https://goddessnichole.com/beach-bitch/",
   "changelog": [
     {
@@ -30,5 +30,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

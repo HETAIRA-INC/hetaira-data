@@ -27,8 +27,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/fc1c3e35-f91e-4aa1-9905-7ef45fff3659.png",
-  "file": "audio/fc1c3e35-f91e-4aa1-9905-7ef45fff3659.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/fc1c3e35-f91e-4aa1-9905-7ef45fff3659.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/fc1c3e35-f91e-4aa1-9905-7ef45fff3659.mp3",
   "url": "https://goddessnichole.com/brainwashed-premature-ejaculator/",
   "changelog": [
     {
@@ -41,5 +41,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

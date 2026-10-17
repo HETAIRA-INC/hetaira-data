@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/5a54490d-9938-42b0-bbe5-60d936610541.png",
-  "file": "audio/5a54490d-9938-42b0-bbe5-60d936610541.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/5a54490d-9938-42b0-bbe5-60d936610541.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/5a54490d-9938-42b0-bbe5-60d936610541.mp3",
+  "hash": "0f3ee93c7d3f7cdced5a1285e1b66c547604b44ccabf6a9a2ff3d0c87b7943d1",
   "url": "https://goddessnichole.com/nicholezen-daily-yoga-stretch/",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

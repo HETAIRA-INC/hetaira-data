@@ -26,8 +26,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/e946664b-a496-40fa-aed9-ba151376d620.png",
-  "file": "audio/e946664b-a496-40fa-aed9-ba151376d620.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/e946664b-a496-40fa-aed9-ba151376d620.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/e946664b-a496-40fa-aed9-ba151376d620.mp3",
   "url": "https://goddessnichole.com/chapter-one/",
   "changelog": [
     {
@@ -40,5 +40,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

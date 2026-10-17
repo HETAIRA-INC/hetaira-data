@@ -33,8 +33,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/d774a559-19f5-46aa-9ba6-093d188c4e71.png",
-  "file": "audio/d774a559-19f5-46aa-9ba6-093d188c4e71.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d774a559-19f5-46aa-9ba6-093d188c4e71.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d774a559-19f5-46aa-9ba6-093d188c4e71.mp3",
   "url": "https://goddessnichole.com/play-toi/",
   "changelog": [
     {
@@ -52,5 +52,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

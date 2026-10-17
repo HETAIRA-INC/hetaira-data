@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/c9dbbdd9-9808-44a5-bc65-fb335a64c263.png",
-  "file": "audio/c9dbbdd9-9808-44a5-bc65-fb335a64c263.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/c9dbbdd9-9808-44a5-bc65-fb335a64c263.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/c9dbbdd9-9808-44a5-bc65-fb335a64c263.mp3",
+  "hash": "b04ac13e8b7007ee932628158900227438ecef3952d82e768d29652e06e5202c",
   "url": "https://goddessnichole.com/the-yoga-lesson/",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

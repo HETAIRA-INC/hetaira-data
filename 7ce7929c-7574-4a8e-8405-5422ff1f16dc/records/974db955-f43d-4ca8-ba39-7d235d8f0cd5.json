@@ -37,8 +37,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/974db955-f43d-4ca8-ba39-7d235d8f0cd5.png",
-  "file": "audio/974db955-f43d-4ca8-ba39-7d235d8f0cd5.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/974db955-f43d-4ca8-ba39-7d235d8f0cd5.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/974db955-f43d-4ca8-ba39-7d235d8f0cd5.mp3",
   "url": "https://goddessnichole.com/lost-puppy-f4f/",
   "changelog": [
     {
@@ -56,5 +56,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

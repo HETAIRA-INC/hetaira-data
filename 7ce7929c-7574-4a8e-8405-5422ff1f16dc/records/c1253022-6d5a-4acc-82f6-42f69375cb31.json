@@ -25,8 +25,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2022-04-14",
   "tone": [],
-  "cover": "covers/c1253022-6d5a-4acc-82f6-42f69375cb31.png",
-  "file": "audio/c1253022-6d5a-4acc-82f6-42f69375cb31.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/c1253022-6d5a-4acc-82f6-42f69375cb31.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/c1253022-6d5a-4acc-82f6-42f69375cb31.mp3",
   "url": "",
   "changelog": [
     {
@@ -44,5 +44,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

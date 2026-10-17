@@ -22,10 +22,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/1a2130d6-e57e-4f02-b622-78aca9f1c1bf.png",
-  "file": "audio/1a2130d6-e57e-4f02-b622-78aca9f1c1bf.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/1a2130d6-e57e-4f02-b622-78aca9f1c1bf.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/1a2130d6-e57e-4f02-b622-78aca9f1c1bf.mp3",
+  "hash": "615531fbdbe94ea9564e2846205d2fb4f7e53da08f7fb903f958f4af43d8952b",
   "url": "https://goddessnichole.com/hotel-nichole-the-jazz-club",
   "changelog": [
     {
@@ -35,7 +37,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

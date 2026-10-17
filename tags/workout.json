@@ -1,0 +1,72 @@
+{
+  "slug": "workout",
+  "label": "WORKOUT",
+  "count": 5,
+  "records": [
+    {
+      "uuid": "427115bd-872d-49ab-8d58-58c4cd3aeb77",
+      "id": "EROS-GN-069",
+      "title": "Good Boy Workout",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/427115bd-872d-49ab-8d58-58c4cd3aeb77.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/427115bd-872d-49ab-8d58-58c4cd3aeb77.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "da4c12ca-3529-49df-a0ad-86d9b8b57ccd",
+      "id": "EROS-GN-069",
+      "title": "Good Boy Workout (60)",
+      "variant": "60",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/427115bd-872d-49ab-8d58-58c4cd3aeb77.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/427115bd-872d-49ab-8d58-58c4cd3aeb77.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f6aff5f9-71d7-466a-946a-56be70d589fe",
+      "id": "EROS-GN-069",
+      "title": "Good Boy Workout (NAKED)",
+      "variant": "NAKED",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/427115bd-872d-49ab-8d58-58c4cd3aeb77.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/427115bd-872d-49ab-8d58-58c4cd3aeb77.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bb33e5e3-0c46-43f8-8206-5ce91e65c766",
+      "id": "EROS-GN-0119",
+      "title": "Alpha Body, Beta Mind",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/bb33e5e3-0c46-43f8-8206-5ce91e65c766.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/bb33e5e3-0c46-43f8-8206-5ce91e65c766.mp3",
+      "hash": "7b3161a74f8b9b1c7c0a635c3d92af5e381a0a73d0bc1a92ea76fe14b946dbf7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "33fc95b5-9347-4ca0-a35f-8b3f5371bc32",
+      "id": "EROS-GN-0119",
+      "title": "Alpha Body, Beta Mind (NO MUSIC)",
+      "variant": "NO MUSIC",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/33fc95b5-9347-4ca0-a35f-8b3f5371bc32.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/33fc95b5-9347-4ca0-a35f-8b3f5371bc32.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

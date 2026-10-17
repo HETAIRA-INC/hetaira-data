@@ -1,0 +1,33 @@
+{
+  "slug": "sadistic",
+  "label": "SADISTIC",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "a8d70309-3227-43b6-92ec-0133ac3038f9",
+      "id": "EROS-GN-035",
+      "title": "Stockholm Syndrome",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/a8d70309-3227-43b6-92ec-0133ac3038f9.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/a8d70309-3227-43b6-92ec-0133ac3038f9.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ef15efce-6c31-45d3-b7f9-cfdd1db23568",
+      "id": "EROS-GN-035",
+      "title": "Stockholm Syndrome (60)",
+      "variant": "60",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/ef15efce-6c31-45d3-b7f9-cfdd1db23568.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/ef15efce-6c31-45d3-b7f9-cfdd1db23568.mp3",
+      "hash": "736f1a0388fa045dc21b6106f506bfda9f18b053bee1de9ed502e0436903eafb",
+      "status": "ACTIVE"
+    }
+  ]
+}

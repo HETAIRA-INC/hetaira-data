@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/bd951a38-8b48-4808-acba-b8960ef476c1.png",
-  "file": "audio/bd951a38-8b48-4808-acba-b8960ef476c1.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/bd951a38-8b48-4808-acba-b8960ef476c1.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/bd951a38-8b48-4808-acba-b8960ef476c1.mp3",
+  "hash": "bdc3ff244f4bd94dc02dcd4150f30292770bf10427df874802c45ed3cb3f1918",
   "url": "https://goddessnichole.com/pumpchella-beach-games/",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

@@ -1,0 +1,20 @@
+{
+  "slug": "guided-relaxation",
+  "label": "GUIDED RELAXATION",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "e61fb95a-0137-47d8-bd4a-81a484fa45c3",
+      "id": "EROS-GN-097",
+      "title": "The Awakening",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/e61fb95a-0137-47d8-bd4a-81a484fa45c3.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/e61fb95a-0137-47d8-bd4a-81a484fa45c3.mp3",
+      "hash": "a70964dc701046ba301bacc896da24590d14e478fd78a6c686123c5e62ab5c5d",
+      "status": "ACTIVE"
+    }
+  ]
+}

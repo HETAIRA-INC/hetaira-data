@@ -1,0 +1,46 @@
+{
+  "slug": "leash-collar",
+  "label": "LEASH & COLLAR",
+  "count": 3,
+  "records": [
+    {
+      "uuid": "391baf35-2f8f-402b-b644-0c042cd77d49",
+      "id": "EROS-GN-073",
+      "title": "The Sitter: Honeymoon",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/391baf35-2f8f-402b-b644-0c042cd77d49.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/391baf35-2f8f-402b-b644-0c042cd77d49.mp3",
+      "hash": "db6fc456bdafb9feef01f87b83b3f82b44018afcc26f2d04a7bc474433a96ec9",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2a94dfb5-7321-44a1-b586-d6ca971627a8",
+      "id": "EROS-GN-076",
+      "title": "The Big Day",
+      "variant": "F4A",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/2a94dfb5-7321-44a1-b586-d6ca971627a8.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/2a94dfb5-7321-44a1-b586-d6ca971627a8.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f2fc8d25-e6d5-4305-944d-651518959974",
+      "id": "EROS-GN-076",
+      "title": "The Big Day (F4M)",
+      "variant": "F4M",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/f2fc8d25-e6d5-4305-944d-651518959974.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/f2fc8d25-e6d5-4305-944d-651518959974.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

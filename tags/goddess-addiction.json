@@ -1,0 +1,20 @@
+{
+  "slug": "goddess-addiction",
+  "label": "GODDESS ADDICTION",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "41c73112-8cdd-4b73-83ea-228cd54e4299",
+      "id": "EROS-GN-012",
+      "title": "NicholeRx: Your New Addiction",
+      "variant": "NA",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/41c73112-8cdd-4b73-83ea-228cd54e4299.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/41c73112-8cdd-4b73-83ea-228cd54e4299.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

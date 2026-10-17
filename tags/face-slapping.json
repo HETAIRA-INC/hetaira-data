@@ -1,0 +1,33 @@
+{
+  "slug": "face-slapping",
+  "label": "FACE SLAPPING",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "4b1a57e5-36d2-438a-b86e-916ee2ccb0a6",
+      "id": "EROS-GN-056",
+      "title": "Temple of Nichole (F4A)",
+      "variant": "F4A",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/4b1a57e5-36d2-438a-b86e-916ee2ccb0a6.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/4b1a57e5-36d2-438a-b86e-916ee2ccb0a6.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "85824bfa-4868-448f-84f8-e685f8d500d8",
+      "id": "EROS-GN-056",
+      "title": "Temple of Nichole (F4M)",
+      "variant": "F4M",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/4b1a57e5-36d2-438a-b86e-916ee2ccb0a6.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/4b1a57e5-36d2-438a-b86e-916ee2ccb0a6.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

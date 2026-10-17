@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/b99d7cf6-c213-4654-8048-f4236acb2fdf.png",
-  "file": "audio/b99d7cf6-c213-4654-8048-f4236acb2fdf.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b99d7cf6-c213-4654-8048-f4236acb2fdf.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b99d7cf6-c213-4654-8048-f4236acb2fdf.mp3",
+  "hash": "9edcd0428506da69f480b6427ae8a325b9a8805d597ca2a0d858838de93a28d8",
   "url": "https://goddessnichole.com/edge-of-devotion/",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

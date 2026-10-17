@@ -1,0 +1,20 @@
+{
+  "slug": "bubble-gum-popping",
+  "label": "BUBBLE GUM POPPING",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "6972fc7b-541f-40ef-b8fb-a4b30bf17c23",
+      "id": "EROS-GN-127",
+      "title": "Campfire Girls",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/6972fc7b-541f-40ef-b8fb-a4b30bf17c23.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/6972fc7b-541f-40ef-b8fb-a4b30bf17c23.mp3",
+      "hash": "0b367802434ae7ec27ae811c37338643ef27db7c596fe43a74de19817e263e3b",
+      "status": "ACTIVE"
+    }
+  ]
+}

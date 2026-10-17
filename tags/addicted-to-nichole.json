@@ -1,0 +1,20 @@
+{
+  "slug": "addicted-to-nichole",
+  "label": "ADDICTED TO NICHOLE",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "79d233ad-2084-4286-9bf3-606a7d7635ff",
+      "id": "EROS-GN-042",
+      "title": "NicholeRx: Quick Hits",
+      "variant": "NA",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/79d233ad-2084-4286-9bf3-606a7d7635ff.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/79d233ad-2084-4286-9bf3-606a7d7635ff.mp3",
+      "hash": "cd19c51b35e620fa74fa76f33b835ebd774e819ae91ef3acc6addbc5850ab27f",
+      "status": "ACTIVE"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "joi-games",
+  "label": "JOI GAMES",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "b7970058-b0fd-4830-aec6-97fdbc712483",
+      "id": "EROS-GN-091",
+      "title": "NicholeRx: Strung Out",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b7970058-b0fd-4830-aec6-97fdbc712483.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b7970058-b0fd-4830-aec6-97fdbc712483.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

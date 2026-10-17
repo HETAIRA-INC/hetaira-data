@@ -1,0 +1,33 @@
+{
+  "slug": "good-boy-praise",
+  "label": "GOOD BOY PRAISE",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "5542710b-ade9-4655-94c1-9cec74942e4d",
+      "id": "EROS-GN-059",
+      "title": "The Sitter: Time Out",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/5542710b-ade9-4655-94c1-9cec74942e4d.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/5542710b-ade9-4655-94c1-9cec74942e4d.mp3",
+      "hash": "6734ea997e0067eb7845987196eb660da88f5463610a8e3da57dd9dcc12cc1fe",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c5c5cb35-e3c8-47f6-8f86-69d544077ff0",
+      "id": "EROS-GN-095",
+      "title": "Puppy Pillow Play",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/c5c5cb35-e3c8-47f6-8f86-69d544077ff0.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/c5c5cb35-e3c8-47f6-8f86-69d544077ff0.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

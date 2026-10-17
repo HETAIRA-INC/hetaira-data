@@ -24,8 +24,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/df47bc65-3ac7-406b-a894-d0c7e8a2b84d.png",
-  "file": "audio/df47bc65-3ac7-406b-a894-d0c7e8a2b84d.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/df47bc65-3ac7-406b-a894-d0c7e8a2b84d.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/df47bc65-3ac7-406b-a894-d0c7e8a2b84d.mp3",
   "url": "https://thehypnocollective.com/projects/93-21-sink-fm/ , https://goddessnichole.com/late-night-confessions-with-goddess-nichole/",
   "changelog": [
     {
@@ -38,5 +38,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

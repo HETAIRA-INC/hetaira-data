@@ -34,8 +34,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/857f4375-2a99-4981-8aec-40a15a087be2.png",
-  "file": "audio/857f4375-2a99-4981-8aec-40a15a087be2.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/857f4375-2a99-4981-8aec-40a15a087be2.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/857f4375-2a99-4981-8aec-40a15a087be2.mp3",
   "url": "https://goddessnichole.com/nichole-air/",
   "changelog": [
     {
@@ -48,5 +48,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

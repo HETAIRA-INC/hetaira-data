@@ -1,0 +1,20 @@
+{
+  "slug": "thighs",
+  "label": "THIGHS",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "d2e7e370-f9ba-4682-bc02-cb2568d20f75",
+      "id": "EROS-LB-001",
+      "title": "No Touch Challenge",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d2e7e370-f9ba-4682-bc02-cb2568d20f75.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d2e7e370-f9ba-4682-bc02-cb2568d20f75.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

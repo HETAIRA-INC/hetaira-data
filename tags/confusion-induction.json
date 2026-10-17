@@ -1,0 +1,33 @@
+{
+  "slug": "confusion-induction",
+  "label": "CONFUSION INDUCTION",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "6645f8db-8b53-4d43-a341-9038df2d4ada",
+      "id": "EROS-GN-0102",
+      "title": "Down The Rabbit Hole",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/6645f8db-8b53-4d43-a341-9038df2d4ada.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/6645f8db-8b53-4d43-a341-9038df2d4ada.mp3",
+      "hash": "c6d35b3cf516c1f91ca3c8723ecd25d0a134977f2430f07783f8017be24e3174",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d2e7e370-f9ba-4682-bc02-cb2568d20f75",
+      "id": "EROS-LB-001",
+      "title": "No Touch Challenge",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d2e7e370-f9ba-4682-bc02-cb2568d20f75.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d2e7e370-f9ba-4682-bc02-cb2568d20f75.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

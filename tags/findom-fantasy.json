@@ -1,0 +1,33 @@
+{
+  "slug": "findom-fantasy",
+  "label": "FINDOM FANTASY",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "5dbfb007-691d-4aba-9d9c-80095b646665",
+      "id": "EROS-GN-052",
+      "title": "The Sitter",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/5dbfb007-691d-4aba-9d9c-80095b646665.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/5dbfb007-691d-4aba-9d9c-80095b646665.mp3",
+      "hash": "02c9028623a439864f0980a867a44f5c70eab063b232bd816faddc5576d10497",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5542710b-ade9-4655-94c1-9cec74942e4d",
+      "id": "EROS-GN-059",
+      "title": "The Sitter: Time Out",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/5542710b-ade9-4655-94c1-9cec74942e4d.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/5542710b-ade9-4655-94c1-9cec74942e4d.mp3",
+      "hash": "6734ea997e0067eb7845987196eb660da88f5463610a8e3da57dd9dcc12cc1fe",
+      "status": "ACTIVE"
+    }
+  ]
+}

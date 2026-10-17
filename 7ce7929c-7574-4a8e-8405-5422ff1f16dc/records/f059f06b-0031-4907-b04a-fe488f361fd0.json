@@ -32,8 +32,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/f059f06b-0031-4907-b04a-fe488f361fd0.png",
-  "file": "audio/f059f06b-0031-4907-b04a-fe488f361fd0.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/f059f06b-0031-4907-b04a-fe488f361fd0.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/f059f06b-0031-4907-b04a-fe488f361fd0.mp3",
   "url": "https://goddessnichole.com/the-boss-is-home/",
   "changelog": [
     {
@@ -46,5 +46,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

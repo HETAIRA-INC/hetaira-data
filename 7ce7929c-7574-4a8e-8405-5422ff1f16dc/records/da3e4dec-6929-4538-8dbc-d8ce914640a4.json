@@ -29,8 +29,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/da3e4dec-6929-4538-8dbc-d8ce914640a4.png",
-  "file": "audio/da3e4dec-6929-4538-8dbc-d8ce914640a4.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/da3e4dec-6929-4538-8dbc-d8ce914640a4.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/da3e4dec-6929-4538-8dbc-d8ce914640a4.mp3",
   "url": "https://goddessnichole.com/the-prejac-curse/",
   "changelog": [
     {
@@ -43,5 +43,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

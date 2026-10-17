@@ -32,8 +32,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/3f6f96f8-96ed-4b3a-8797-c448b7cbf91b.png",
-  "file": "audio/03f6f96f8-96ed-4b3a-8797-c448b7cbf91b.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/3f6f96f8-96ed-4b3a-8797-c448b7cbf91b.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/03f6f96f8-96ed-4b3a-8797-c448b7cbf91b.mp3",
   "url": "https://goddessnichole.com/puppy-obedience-training-for-good-girls-f4f/",
   "changelog": [
     {
@@ -51,5 +51,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

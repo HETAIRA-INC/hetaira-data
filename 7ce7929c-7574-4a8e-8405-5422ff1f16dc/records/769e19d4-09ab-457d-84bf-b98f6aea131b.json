@@ -17,8 +17,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/769e19d4-09ab-457d-84bf-b98f6aea131b.png",
-  "file": "audio/769e19d4-09ab-457d-84bf-b98f6aea131b.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/769e19d4-09ab-457d-84bf-b98f6aea131b.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/769e19d4-09ab-457d-84bf-b98f6aea131b.mp3",
   "url": "https://goddessnichole.com/nichole-fi-background-loop/",
   "changelog": [
     {
@@ -31,5 +31,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

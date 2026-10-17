@@ -1,0 +1,20 @@
+{
+  "slug": "background-loop",
+  "label": "BACKGROUND LOOP",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "769e19d4-09ab-457d-84bf-b98f6aea131b",
+      "id": "EROS-GN-165",
+      "title": "Nichole-Fi",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/769e19d4-09ab-457d-84bf-b98f6aea131b.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/769e19d4-09ab-457d-84bf-b98f6aea131b.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

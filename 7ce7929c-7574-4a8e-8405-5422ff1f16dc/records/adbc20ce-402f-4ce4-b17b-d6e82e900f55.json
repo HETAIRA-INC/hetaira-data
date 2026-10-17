@@ -16,8 +16,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/adbc20ce-402f-4ce4-b17b-d6e82e900f55.png",
-  "file": "audio/adbc20ce-402f-4ce4-b17b-d6e82e900f55.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/adbc20ce-402f-4ce4-b17b-d6e82e900f55.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/adbc20ce-402f-4ce4-b17b-d6e82e900f55.mp3",
   "url": "",
   "changelog": [
     {
@@ -30,5 +30,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

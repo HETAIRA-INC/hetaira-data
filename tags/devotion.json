@@ -1,0 +1,85 @@
+{
+  "slug": "devotion",
+  "label": "DEVOTION",
+  "count": 6,
+  "records": [
+    {
+      "uuid": "02141a90-6bc0-42d2-8927-1cd733473d90",
+      "id": "EROS-GN-09",
+      "title": "Hotel Nichole",
+      "variant": "NA",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/02141a90-6bc0-42d2-8927-1cd733473d90.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/02141a90-6bc0-42d2-8927-1cd733473d90.mp3",
+      "hash": "106834ac90f5877396b06c18b3c6046fdd2cd76acace05f9cfffe71e820e9be0",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a8d70309-3227-43b6-92ec-0133ac3038f9",
+      "id": "EROS-GN-035",
+      "title": "Stockholm Syndrome",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/a8d70309-3227-43b6-92ec-0133ac3038f9.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/a8d70309-3227-43b6-92ec-0133ac3038f9.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ef15efce-6c31-45d3-b7f9-cfdd1db23568",
+      "id": "EROS-GN-035",
+      "title": "Stockholm Syndrome (60)",
+      "variant": "60",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/ef15efce-6c31-45d3-b7f9-cfdd1db23568.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/ef15efce-6c31-45d3-b7f9-cfdd1db23568.mp3",
+      "hash": "736f1a0388fa045dc21b6106f506bfda9f18b053bee1de9ed502e0436903eafb",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "0f280944-50bd-436e-b27b-27c762d9b7c5",
+      "id": "EROS-GN-053",
+      "title": "Visit from The Succubus (F4M)",
+      "variant": "F4M",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/0f280944-50bd-436e-b27b-27c762d9b7c5.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/0f280944-50bd-436e-b27b-27c762d9b7c5.mp3",
+      "hash": "7eadfa216875a0890926c0de9045a6b072df0bd8f53a9db462308660107f447c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d44ea3ea-e723-4db4-9a7b-bc12b3fd0768",
+      "id": "EROS-GN-053",
+      "title": "Visit from The Succubus (F4F)",
+      "variant": "F4F",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d44ea3ea-e723-4db4-9a7b-bc12b3fd0768.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d44ea3ea-e723-4db4-9a7b-bc12b3fd0768.mp3",
+      "hash": "b64bca1bd7ed0686e9f9a7e00265b737a172113f2d4d76932fd60dadbf838b84",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2727ad56-0373-43d3-be44-c2ed926e3cd3",
+      "id": "EROS-GN-067",
+      "title": "Goddess Nichole's Unplugged Session",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/2727ad56-0373-43d3-be44-c2ed926e3cd3.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/2727ad56-0373-43d3-be44-c2ed926e3cd3.mp3",
+      "hash": "",
+      "status": "INACTIVE"
+    }
+  ]
+}

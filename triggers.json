@@ -101,6 +101,12 @@
     "description": "A command instructing the listener to bring their physical arousal rapidly to the brink of climax and hold."
   },
   {
+    "slug": "envy",
+    "label": "ENVY",
+    "aliases": [],
+    "count": 1
+  },
+  {
     "slug": "freeze",
     "label": "FREEZE",
     "aliases": [
@@ -108,6 +114,12 @@
     ],
     "count": 0,
     "description": "A physical catatonia command directing the listener to instantly lock their body in place and halt all movement."
+  },
+  {
+    "slug": "gluttony",
+    "label": "GLUTTONY",
+    "aliases": [],
+    "count": 1
   },
   {
     "slug": "going-up",
@@ -122,6 +134,12 @@
     "aliases": [],
     "count": 4,
     "description": "A verbal praise anchor that delivers a neurochemical reward, reinforcing submissive compliance and positive feelings."
+  },
+  {
+    "slug": "greed",
+    "label": "GREED",
+    "aliases": [],
+    "count": 1
   },
   {
     "slug": "i-m-the-hot-one",
@@ -145,6 +163,12 @@
     "description": "A mouth sound or spoken cue anchoring affectionate warmth, lip contact, and sensory sensitivity."
   },
   {
+    "slug": "lust",
+    "label": "LUST",
+    "aliases": [],
+    "count": 1
+  },
+  {
     "slug": "melt",
     "label": "MELT",
     "aliases": [
@@ -166,8 +190,14 @@
     "slug": "pop",
     "label": "POP",
     "aliases": [],
-    "count": 1,
+    "count": 2,
     "description": "A sharp, sudden acoustic trigger (such as gum popping or mouth sounds) used as an instantaneous pattern interrupt."
+  },
+  {
+    "slug": "pride",
+    "label": "PRIDE",
+    "aliases": [],
+    "count": 1
   },
   {
     "slug": "reset",
@@ -184,6 +214,12 @@
     "aliases": [],
     "count": 2,
     "description": "A foundational hypnotic command directing the listener to drop physical tension and enter a deep state of trance or rest."
+  },
+  {
+    "slug": "sloth",
+    "label": "SLOTH",
+    "aliases": [],
+    "count": 1
   },
   {
     "slug": "snap",
@@ -214,6 +250,12 @@
     ],
     "count": 0,
     "description": "A concluding hypnotic trigger returning the listener to clear-headed, alert, and energized waking consciousness."
+  },
+  {
+    "slug": "wrath",
+    "label": "WRATH",
+    "aliases": [],
+    "count": 1
   },
   {
     "slug": "yes-nichole",

@@ -1,0 +1,20 @@
+{
+  "slug": "bedtime-hypnosis",
+  "label": "BEDTIME HYPNOSIS",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "525f9e2c-9cb4-4fe2-a795-19423b0c1c78",
+      "id": "EROS-GN-121",
+      "title": "Sleep For Me: GFE",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/525f9e2c-9cb4-4fe2-a795-19423b0c1c78.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/525f9e2c-9cb4-4fe2-a795-19423b0c1c78.mp3",
+      "hash": "a07e398d688a06e9ba321b17fe822644fa08ce99dfa8f03960ca41de32ffc84e",
+      "status": "ACTIVE"
+    }
+  ]
+}

@@ -24,8 +24,8 @@
   "artist": "Lambellina",
   "releaseDate": "2026-10-07",
   "tone": [],
-  "cover": "covers/332cf7c5-9e73-4243-bcef-c2e572a3696f.png",
-  "file": "audio/332cf7c5-9e73-4243-bcef-c2e572a3696f.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/332cf7c5-9e73-4243-bcef-c2e572a3696f.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/332cf7c5-9e73-4243-bcef-c2e572a3696f.mp3",
   "url": "https://lambhypno.com/obedience-brainwashing/",
   "changelog": [
     {
@@ -38,5 +38,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

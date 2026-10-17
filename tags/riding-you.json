@@ -1,0 +1,46 @@
+{
+  "slug": "riding-you",
+  "label": "RIDING YOU",
+  "count": 3,
+  "records": [
+    {
+      "uuid": "a6bd8075-b768-4f56-b3e4-1300ee8bb767",
+      "id": "EROS-GN-0100",
+      "title": "Play Toi",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/a6bd8075-b768-4f56-b3e4-1300ee8bb767.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/a6bd8075-b768-4f56-b3e4-1300ee8bb767.mp3",
+      "hash": "0a8f724fdc46e05a85481e2f394bfb7263310cde0aced36030f60e3dc9ecc081",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d774a559-19f5-46aa-9ba6-093d188c4e71",
+      "id": "EROS-GN-0100",
+      "title": "Play Toi (NO BINAURALS)",
+      "variant": "NO BINAURALS",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d774a559-19f5-46aa-9ba6-093d188c4e71.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d774a559-19f5-46aa-9ba6-093d188c4e71.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b350536e-e7a8-43ed-a303-cb6c965aba29",
+      "id": "EROS-GN-176",
+      "title": "OH NO! My Date has Tentacles!",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b350536e-e7a8-43ed-a303-cb6c965aba29.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b350536e-e7a8-43ed-a303-cb6c965aba29.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

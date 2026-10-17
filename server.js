@@ -12,6 +12,7 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const dns = require('dns').promises;
 const net = require('net');
 const catalog = require('./lib/catalog');
@@ -41,6 +42,7 @@ app.use((req, res, next) => {
   if (IS_LOOPBACK && !LOCAL_HOST.test(req.headers.host || '')) return res.status(403).json({ error: 'Forbidden host' });
   next();
 });
+
 // CORS for local pages on another port (e.g. Live Server); cross-site writes are refused outright (CSRF).
 app.use((req, res, next) => {
   const origin = req.headers.origin;
@@ -78,6 +80,21 @@ function requireArtist(req, res, next) {
   req.artist = artist;
   next();
 }
+
+function computeBufferSha256(buffer) {
+  return crypto.createHash('sha256').update(buffer).digest('hex');
+}
+
+function computeFileSha256(filePath) {
+  return new Promise((resolve, reject) => {
+    const hash = crypto.createHash('sha256');
+    const stream = fs.createReadStream(filePath);
+    stream.on('error', reject);
+    stream.on('data', chunk => hash.update(chunk));
+    stream.on('end', () => resolve(hash.digest('hex')));
+  });
+}
+
 function extFrom(requested, mime, spec) {
   let ext = String(requested || '').replace(/^\./, '').toLowerCase();
   if (ext === 'jpeg') ext = 'jpg';
@@ -93,7 +110,8 @@ function extFrom(requested, mime, spec) {
   if (m.includes('mp4') || m.includes('m4a')) return 'm4a';
   return spec.fallback;
 }
-/** Writes to <MEDIA_DIR>/<artist-uuid>/<cover|audio>/<uuid>.<ext>; returns the repo-relative path stored in records. */
+
+/** Writes to <MEDIA_DIR>/<artist-uuid>/<cover|audio>/<uuid>.<ext>; returns the repo-relative path stored in records and sha256. */
 function storeMedia(artist, type, uuid, ext, buffer) {
   const rel = catalog.mediaRelPath(artist, type, uuid, ext);
   const dir = path.join(MEDIA_DIR, artist.uuid, catalog.MEDIA_FOLDERS[type]);
@@ -105,12 +123,111 @@ function storeMedia(artist, type, uuid, ext, buffer) {
   for (const f of fs.readdirSync(dir)) {
     if (f.startsWith(`${uuid}.`) && f !== `${uuid}.${ext}` && !f.endsWith('.tmp')) fs.unlinkSync(path.join(dir, f));
   }
-  return rel;
+  const sha256 = computeBufferSha256(buffer);
+  return { rel, sha256 };
 }
+
 function checkMediaParams({ type, uuid }) {
   if (!MEDIA_TYPES[type]) return 'type must be "cover" or "audio"';
   if (!catalog.UUID_RE.test(uuid || '')) return 'uuid must be a valid UUID';
   return null;
+}
+
+function slugifyTag(tag) {
+  return String(tag || '')
+    .trim()
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/[\s_-]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+/** Generates tags.js, tags.json, and individual tags/<slug>.json files linking each tag to all records across all artists. */
+function generateTagFiles() {
+  const artists = catalog.loadArtists();
+  const allRecords = [];
+
+  for (const art of artists) {
+    try {
+      const recs = catalog.loadRecords(art);
+      if (Array.isArray(recs)) {
+        for (const r of recs) {
+          allRecords.push({ ...r, _artistSlug: art.slug, _artistName: art.name, _artistUuid: art.uuid });
+        }
+      }
+    } catch (e) {
+      // ignore empty or unreadable artist folders during export
+    }
+  }
+
+  const tagsDir = path.join(ROOT, 'tags');
+  fs.mkdirSync(tagsDir, { recursive: true });
+
+  const tagMap = new Map();
+
+  for (const rec of allRecords) {
+    const rawTags = new Set();
+    if (rec.tag && typeof rec.tag === 'string') rawTags.add(rec.tag.trim());
+    if (Array.isArray(rec.tags)) {
+      rec.tags.forEach(t => { if (typeof t === 'string' && t.trim()) rawTags.add(t.trim()); });
+    }
+
+    const recSummary = {
+      uuid: rec.uuid,
+      id: rec.id,
+      title: rec.title,
+      variant: rec.variant || 'ORIGINAL',
+      tier: rec.tier || 'FREE',
+      artist: rec.artist || rec._artistName,
+      artistUuid: rec._artistUuid,
+      cover: rec.cover || '',
+      file: rec.file || '',
+      hash: rec.hash || '',
+      status: rec.status || 'ACTIVE'
+    };
+
+    for (const rawTag of rawTags) {
+      const slug = slugifyTag(rawTag);
+      if (!slug) continue;
+
+      if (!tagMap.has(slug)) {
+        tagMap.set(slug, {
+          slug,
+          label: rawTag.toUpperCase(),
+          records: []
+        });
+      }
+      tagMap.get(slug).records.push(recSummary);
+    }
+  }
+
+  const tagIndex = [];
+
+  for (const [slug, tagData] of tagMap.entries()) {
+    const tagDetail = {
+      slug: tagData.slug,
+      label: tagData.label,
+      count: tagData.records.length,
+      records: tagData.records
+    };
+    tagIndex.push({
+      slug: tagData.slug,
+      label: tagData.label,
+      count: tagData.records.length
+    });
+    fs.writeFileSync(path.join(tagsDir, `${slug}.json`), JSON.stringify(tagDetail, null, 2), 'utf8');
+  }
+
+  tagIndex.sort((a, b) => b.count - a.count || a.label.localeCompare(b.label));
+
+  fs.writeFileSync(path.join(ROOT, 'tags.json'), JSON.stringify(tagIndex, null, 2), 'utf8');
+  fs.writeFileSync(
+    path.join(ROOT, 'tags.js'),
+    `/* Auto-generated by Hetaira Admin. Do not edit manually. */\nwindow.TAGS = ${JSON.stringify(tagIndex, null, 2)};\n`,
+    'utf8'
+  );
+
+  return { totalTags: tagIndex.length };
 }
 
 /* ---------- SSRF protection for fetch-url ---------- */
@@ -128,6 +245,7 @@ function isPrivateIp(ip) {
   }
   return true;
 }
+
 async function assertPublicUrl(u) {
   if (!/^https?:$/.test(u.protocol)) throw new Error('Only http(s) URLs are allowed');
   const host = u.hostname.replace(/^\[|\]$/g, '').toLowerCase();
@@ -135,6 +253,7 @@ async function assertPublicUrl(u) {
   const addrs = net.isIP(host) ? [{ address: host }] : await dns.lookup(host, { all: true });
   if (!addrs.length || addrs.some(a => isPrivateIp(a.address))) throw new Error('Private/local addresses are not allowed');
 }
+
 /** fetch() that re-validates every redirect hop and caps the body size while streaming. */
 async function safeDownload(startUrl, spec) {
   let url = new URL(startUrl);
@@ -173,6 +292,25 @@ app.get('/api/artists/:artist/records', requireArtist, (req, res) => {
   catch (err) { res.status(500).json({ error: 'data.json is unreadable', details: err.message }); }
 });
 
+/* ---------- hashing API ---------- */
+app.post('/api/hash-file', async (req, res) => {
+  try {
+    const { relPath } = req.body || {};
+    if (!relPath || typeof relPath !== 'string') return res.status(400).json({ error: 'relPath is required' });
+    
+    // Resolve inside MEDIA_DIR or ROOT
+    const cleanRel = path.normalize(relPath).replace(/^(\.\.[\/\\])+/, '');
+    let candidate = path.join(MEDIA_DIR, cleanRel);
+    if (!fs.existsSync(candidate)) candidate = path.join(ROOT, cleanRel);
+    if (!fs.existsSync(candidate)) return res.status(404).json({ error: 'File does not exist on disk' });
+
+    const hash = await computeFileSha256(candidate);
+    res.json({ success: true, path: relPath, sha256: hash });
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to compute file hash', details: err.message });
+  }
+});
+
 /* ---------- write APIs (per artist) ---------- */
 // Upload a file: raw body (preferred) with ?type=&uuid=&extension=, or legacy JSON {type,uuid,extension,data(base64)}
 app.post('/api/artists/:artist/upload', requireArtist, (req, res) => {
@@ -192,16 +330,16 @@ app.post('/api/artists/:artist/upload', requireArtist, (req, res) => {
     if (!buffer.length) return res.status(400).json({ error: 'Empty file' });
     if (buffer.length > spec.maxBytes) return res.status(413).json({ error: `File too large (max ${spec.maxBytes / 1048576} MB)` });
     const ext = extFrom(extension, req.headers['content-type'], spec);
-    const rel = storeMedia(req.artist, type, uuid.toLowerCase(), ext, buffer);
-    console.log(`[UPLOAD] ${req.artist.slug}: ${rel} (${(buffer.length / 1024).toFixed(0)} KB)`);
-    res.json({ success: true, path: rel });
+    const { rel, sha256 } = storeMedia(req.artist, type, uuid.toLowerCase(), ext, buffer);
+    console.log(`[UPLOAD] ${req.artist.slug}: ${rel} (${(buffer.length / 1024).toFixed(0)} KB) hash=${sha256}`);
+    res.json({ success: true, path: rel, sha256 });
   } catch (err) {
     console.error('[UPLOAD ERROR]', err.message);
     res.status(500).json({ error: 'Upload failed', details: err.message });
   }
 });
 
-// Download a remote file (e.g. a free file you have permission to host) into the media folder
+// Download a remote file into the media folder
 app.post('/api/artists/:artist/fetch-url', requireArtist, async (req, res) => {
   const { url, type, uuid, extension } = req.body || {};
   const bad = checkMediaParams({ type, uuid });
@@ -212,23 +350,32 @@ app.post('/api/artists/:artist/fetch-url', requireArtist, async (req, res) => {
   const spec = MEDIA_TYPES[type];
   try {
     const { buffer, contentType } = await safeDownload(parsed, spec);
-    const rel = storeMedia(req.artist, type, uuid.toLowerCase(), extFrom(extension, contentType, spec), buffer);
-    console.log(`[INGEST] ${req.artist.slug}: ${parsed.href} -> ${rel}`);
-    res.json({ success: true, path: rel });
+    const { rel, sha256 } = storeMedia(req.artist, type, uuid.toLowerCase(), extFrom(extension, contentType, spec), buffer);
+    console.log(`[INGEST] ${req.artist.slug}: ${parsed.href} -> ${rel} hash=${sha256}`);
+    res.json({ success: true, path: rel, sha256 });
   } catch (err) {
     console.error('[FETCH FAILED]', err.message);
     res.status(502).json({ error: 'Failed to download remote file', details: err.message });
   }
 });
 
-// Validate + normalize + back up + write data.json, summary.json, records/*.json, shared files
+// Validate + normalize + back up + write data.json, summary.json, records/*.json, shared files, and tags
 app.post('/api/artists/:artist/save', requireArtist, (req, res) => {
   try {
     const result = catalog.saveArtistRecords(req.artist, req.body, { force: req.query.force === '1' });
-    console.log(`[COMMIT] ${req.artist.slug}: ${result.records.length} records` +
+    const tagGen = generateTagFiles();
+    console.log(`[COMMIT] ${req.artist.slug}: ${result.records.length} records, tags generated: ${tagGen.totalTags}` +
       (result.backup ? `, backup ${path.basename(result.backup)}` : '') +
       (result.orphans.length ? `, ${result.orphans.length} orphan file(s) moved to backups/orphans` : ''));
-    res.json({ success: true, records: result.records, vocab: catalog.loadVocab(), orphans: result.orphans, warnings: result.warnings, shared: result.shared });
+    res.json({
+      success: true,
+      records: result.records,
+      vocab: catalog.loadVocab(),
+      orphans: result.orphans,
+      warnings: result.warnings,
+      shared: result.shared,
+      tagsGenerated: tagGen.totalTags
+    });
   } catch (err) {
     if (err.status === 400) return res.status(400).json({ error: 'Validation failed', errors: err.errors });
     console.error('[SAVE ERROR]', err);
@@ -236,9 +383,13 @@ app.post('/api/artists/:artist/save', requireArtist, (req, res) => {
   }
 });
 
-// Vocabulary + artist management (used by admin/manage.html)
+// Vocabulary + artist management
 const wrap = fn => (req, res) => {
-  try { res.json({ success: true, ...fn(req.body || {}, req.params) }); }
+  try {
+    const data = fn(req.body || {}, req.params);
+    generateTagFiles();
+    res.json({ success: true, ...data });
+  }
   catch (err) {
     if (err.status === 400) return res.status(400).json({ error: err.message, errors: err.errors });
     console.error('[MANAGE ERROR]', err); res.status(500).json({ error: err.message });
@@ -252,7 +403,6 @@ app.post('/api/artists', wrap(b => ({ artist: catalog.upsertArtist(b) })));
 
 app.use('/api', (req, res) => res.status(404).json({ error: 'Unknown API route' }));
 
-// Express error handler (e.g. malformed JSON, payload too large)
 app.use((err, req, res, next) => {
   res.status(err.status || 500).json({ error: err.message || 'Server error' });
 });

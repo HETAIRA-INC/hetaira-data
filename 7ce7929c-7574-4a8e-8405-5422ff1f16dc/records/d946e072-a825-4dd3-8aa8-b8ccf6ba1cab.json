@@ -27,8 +27,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/d946e072-a825-4dd3-8aa8-b8ccf6ba1cab.png",
-  "file": "audio/d946e072-a825-4dd3-8aa8-b8ccf6ba1cab.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d946e072-a825-4dd3-8aa8-b8ccf6ba1cab.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d946e072-a825-4dd3-8aa8-b8ccf6ba1cab.mp3",
   "url": "https://goddessnichole.com/nichole-therapy/",
   "changelog": [
     {
@@ -41,5 +41,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

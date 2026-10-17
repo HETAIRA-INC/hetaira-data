@@ -28,8 +28,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/b7970058-b0fd-4830-aec6-97fdbc712483.png",
-  "file": "audio/b7970058-b0fd-4830-aec6-97fdbc712483.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b7970058-b0fd-4830-aec6-97fdbc712483.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b7970058-b0fd-4830-aec6-97fdbc712483.mp3",
   "url": "https://goddessnichole.com/nicholerx-strung-out/",
   "changelog": [
     {
@@ -42,5 +42,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

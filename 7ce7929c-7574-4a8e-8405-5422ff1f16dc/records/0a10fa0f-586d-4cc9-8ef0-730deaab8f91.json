@@ -1,0 +1,40 @@
+{
+  "uuid": "0a10fa0f-586d-4cc9-8ef0-730deaab8f91",
+  "status": "ACTIVE",
+  "id": "EROS-GN-144",
+  "variant": "F4A",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "AUDIO AVAILABLE"
+  ],
+  "title": "The Girl Next Door: Valentine's Date (F4A)",
+  "description": "",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4M",
+  "author": "Goddess Nichole",
+  "artist": "Goddess Nichole",
+  "collaborators": [],
+  "releaseDate": "2026-10-03",
+  "tone": [],
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/65c34e15-c439-4786-9e7e-5c3485119f64.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/0a10fa0f-586d-4cc9-8ef0-730deaab8f91.mp3",
+  "hash": "97020197ed13836f44ba91225fd189b2dbde09d1c32766c7605ae46eb3f4a0c9",
+  "url": "https://goddessnichole.com/the-girl-next-door-valentines-date/",
+  "changelog": [
+    {
+      "date": "2026-10-03 21:05:14",
+      "variant": "ORIGINAL",
+      "note": "Protocol created"
+    },
+    {
+      "date": "2026-10-13 14:46:01",
+      "variant": "F4A",
+      "note": "Forked variant from F4M"
+    }
+  ],
+  "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+  "artistUuids": [
+    "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
+  ]
+}

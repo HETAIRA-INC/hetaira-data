@@ -30,8 +30,8 @@
   "artist": "Goddess Nichole",
   "releaseDate": "2026-10-02",
   "tone": [],
-  "cover": "covers/61ca138d-ceb5-4278-99b5-b547aa90e60d.png",
-  "file": "audio/61ca138d-ceb5-4278-99b5-b547aa90e60d.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/61ca138d-ceb5-4278-99b5-b547aa90e60d.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/61ca138d-ceb5-4278-99b5-b547aa90e60d.mp3",
   "url": "https://goddessnichole.com/nrx-performance-enhancer/",
   "changelog": [
     {
@@ -44,5 +44,6 @@
   "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
-  ]
+  ],
+  "hash": ""
 }

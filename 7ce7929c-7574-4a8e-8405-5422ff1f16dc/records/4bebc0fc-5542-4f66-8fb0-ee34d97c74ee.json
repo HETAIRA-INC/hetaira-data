@@ -1,6 +1,6 @@
 {
   "uuid": "4bebc0fc-5542-4f66-8fb0-ee34d97c74ee",
-  "status": "MAINTENANCE",
+  "status": "ACTIVE",
   "id": "EROS-GN-0106",
   "variant": "ORIGINAL",
   "tag": "HYPNOSIS & AUDIO",
@@ -14,10 +14,12 @@
   "audience": "F4M",
   "author": "Goddess Nichole",
   "artist": "Goddess Nichole",
+  "collaborators": [],
   "releaseDate": "2026-10-03",
   "tone": [],
-  "cover": "covers/4bebc0fc-5542-4f66-8fb0-ee34d97c74ee.png",
-  "file": "audio/4bebc0fc-5542-4f66-8fb0-ee34d97c74ee.mp3",
+  "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/4bebc0fc-5542-4f66-8fb0-ee34d97c74ee.png",
+  "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/4bebc0fc-5542-4f66-8fb0-ee34d97c74ee.mp3",
+  "hash": "86ad8e1238601cd7f417fad08373ae112c46afa35f079375ca40a162b0c45c41",
   "url": "https://goddessnichole.com/fluffy-pancakes/",
   "changelog": [
     {
@@ -27,7 +29,6 @@
     }
   ],
   "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-  "collaborators": [],
   "artistUuids": [
     "7ce7929c-7574-4a8e-8405-5422ff1f16dc"
   ]

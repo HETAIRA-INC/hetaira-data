@@ -1,0 +1,20 @@
+{
+  "slug": "goth-girl",
+  "label": "GOTH GIRL",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "b350536e-e7a8-43ed-a303-cb6c965aba29",
+      "id": "EROS-GN-176",
+      "title": "OH NO! My Date has Tentacles!",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b350536e-e7a8-43ed-a303-cb6c965aba29.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b350536e-e7a8-43ed-a303-cb6c965aba29.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    }
+  ]
+}

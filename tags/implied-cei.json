@@ -1,0 +1,20 @@
+{
+  "slug": "implied-cei",
+  "label": "IMPLIED CEI",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "5dbfb007-691d-4aba-9d9c-80095b646665",
+      "id": "EROS-GN-052",
+      "title": "The Sitter",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Goddess Nichole",
+      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
+      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/5dbfb007-691d-4aba-9d9c-80095b646665.png",
+      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/5dbfb007-691d-4aba-9d9c-80095b646665.mp3",
+      "hash": "02c9028623a439864f0980a867a44f5c70eab063b232bd816faddc5576d10497",
+      "status": "ACTIVE"
+    }
+  ]
+}
