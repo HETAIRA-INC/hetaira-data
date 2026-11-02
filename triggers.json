@@ -74,7 +74,7 @@
     "slug": "drop",
     "label": "DROP",
     "aliases": [],
-    "count": 1,
+    "count": 2,
     "description": "A classic rapid induction command directing the listener to plunge immediately into a deep, receptive trance state."
   },
   {
@@ -209,6 +209,12 @@
     "description": "A cognitive clearing cue that wipes recent thoughts and returns the subject to a calm, neutral baseline."
   },
   {
+    "slug": "rush",
+    "label": "RUSH",
+    "aliases": [],
+    "count": 1
+  },
+  {
     "slug": "sleep",
     "label": "SLEEP",
     "aliases": [],
@@ -250,6 +256,12 @@
     ],
     "count": 0,
     "description": "A concluding hypnotic trigger returning the listener to clear-headed, alert, and energized waking consciousness."
+  },
+  {
+    "slug": "waking-trance",
+    "label": "WAKING TRANCE",
+    "aliases": [],
+    "count": 1
   },
   {
     "slug": "wrath",
