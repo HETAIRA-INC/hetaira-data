@@ -1,0 +1,20 @@
+{
+  "slug": "falling",
+  "label": "FALLING",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "65b68366-0d27-47c9-b523-70144097804e",
+      "id": "EROS-MK-1424",
+      "title": "Learning to Fall Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/65b68366-0d27-47c9-b523-70144097804e.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/65b68366-0d27-47c9-b523-70144097804e.mp3",
+      "hash": "b190d9b7a7c0d5805fc79f61edcd619ed0e6b18b136e8bfb08b7eee4cebbb177",
+      "status": "ACTIVE"
+    }
+  ]
+}

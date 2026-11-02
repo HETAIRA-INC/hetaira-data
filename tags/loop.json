@@ -1,7 +1,7 @@
 {
   "slug": "loop",
   "label": "LOOP",
-  "count": 18,
+  "count": 21,
   "records": [
     {
       "uuid": "e25a30ce-124a-4f21-97fb-6f11d5b5e7bb",
@@ -235,6 +235,45 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d2e7e370-f9ba-4682-bc02-cb2568d20f75.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d2e7e370-f9ba-4682-bc02-cb2568d20f75.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f4fa945e-af3f-473d-a96a-e4a7abf43cd7",
+      "id": "EROS-MK-1461",
+      "title": "The Brainwashing Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/f4fa945e-af3f-473d-a96a-e4a7abf43cd7.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/f4fa945e-af3f-473d-a96a-e4a7abf43cd7.mp3",
+      "hash": "53cca964968cdd7226d11a953b3614427cf81e61f7620827e9c6d1fcbab90f6f",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c9040f67-f675-4c62-8c51-379987d96d41",
+      "id": "EROS-MK-1547",
+      "title": "Brainwashed to Submit Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/c9040f67-f675-4c62-8c51-379987d96d41.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/c9040f67-f675-4c62-8c51-379987d96d41.mp3",
+      "hash": "8e830f0f8328f96fb71e7e43f2e2bd7d04b34f40b9397d45ca49b7b79a8b9f01",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fc087969-de38-498a-91c1-5316df07f996",
+      "id": "EROS-MK-1595",
+      "title": "Lo-Fi Beats to Focus To",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fc087969-de38-498a-91c1-5316df07f996.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fc087969-de38-498a-91c1-5316df07f996.mp3",
+      "hash": "f28c681fde6f1323d728dfc67fac0334c7bfd809ae62dd7fad1f4fd7f13e7aab",
       "status": "ACTIVE"
     }
   ]

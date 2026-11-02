@@ -1,7 +1,7 @@
 {
   "slug": "fractionation",
   "label": "FRACTIONATION",
-  "count": 4,
+  "count": 7,
   "records": [
     {
       "uuid": "b7970058-b0fd-4830-aec6-97fdbc712483",
@@ -53,6 +53,45 @@
       "cover": "",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/a7a563c8-a3f8-4222-9add-e161e14559eb.mp3",
       "hash": "96c525d8fbe2eb8328f69bdb36700c8dcb40cb112cee052f0e58645d46feea05",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "3321795b-026b-4b02-bebc-a972762c98c1",
+      "id": "EROS-MK-1112",
+      "title": "Confusion Fractionation Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/3321795b-026b-4b02-bebc-a972762c98c1.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/3321795b-026b-4b02-bebc-a972762c98c1.mp3",
+      "hash": "e8bda8b8b49a96ec1943d957812d9485a1d2c11c020d55977bb7c4a514236132",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5cc7ced1-fb44-4184-a92d-c2b0aae26314",
+      "id": "EROS-MK-1348",
+      "title": "Performance Review Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5cc7ced1-fb44-4184-a92d-c2b0aae26314.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5cc7ced1-fb44-4184-a92d-c2b0aae26314.mp3",
+      "hash": "c4595e835a793b8dea3a1beeb411272cc64c21a57d328e7730d1d938eec8e535",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "91532231-7461-49e8-81a1-1e1ce1a50448",
+      "id": "EROS-MK-1508",
+      "title": "Slave Training Part Four",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/91532231-7461-49e8-81a1-1e1ce1a50448.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/91532231-7461-49e8-81a1-1e1ce1a50448.mp3",
+      "hash": "b9c76a80984f309c32d440f266d846f08234ed7d5fd2a60369e7765a4df56696",
       "status": "ACTIVE"
     }
   ]

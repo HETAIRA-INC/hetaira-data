@@ -1,0 +1,33 @@
+{
+  "slug": "induction-shock",
+  "label": "INDUCTION: SHOCK",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "2d53749c-70ba-44a8-826f-f52134bb353b",
+      "id": "EROS-MK-1071",
+      "title": "The Beach Hypno Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2d53749c-70ba-44a8-826f-f52134bb353b.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2d53749c-70ba-44a8-826f-f52134bb353b.mp3",
+      "hash": "96550713989ae1080ebfee8c92e8c11362b386354cc8d91d47fe5c7800c7d681",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f49cc7fe-d7e2-4c62-9a1f-191d4d86cbdd",
+      "id": "EROS-MK-1500",
+      "title": "Slave Training Part Three",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/f49cc7fe-d7e2-4c62-9a1f-191d4d86cbdd.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/f49cc7fe-d7e2-4c62-9a1f-191d4d86cbdd.mp3",
+      "hash": "d255181c7032c1df54bbadf04ff8c9c0023fe90a9e4d2d428b12d75fcbf68eff",
+      "status": "ACTIVE"
+    }
+  ]
+}

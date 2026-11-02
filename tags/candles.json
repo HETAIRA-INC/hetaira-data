@@ -1,0 +1,20 @@
+{
+  "slug": "candles",
+  "label": "CANDLES",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "555fd7db-4bdc-4933-bb46-baa4686870c4",
+      "id": "EROS-MK-1539",
+      "title": "Succubus Summoning Ritual",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/555fd7db-4bdc-4933-bb46-baa4686870c4.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/555fd7db-4bdc-4933-bb46-baa4686870c4.mp3",
+      "hash": "9e6e5a2b601cb16872c2a932ff3ff409b6e5cd4cab76fbec0bec29bd2468c035",
+      "status": "ACTIVE"
+    }
+  ]
+}

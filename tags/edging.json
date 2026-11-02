@@ -1,7 +1,7 @@
 {
   "slug": "edging",
   "label": "EDGING",
-  "count": 12,
+  "count": 13,
   "records": [
     {
       "uuid": "ac98ae79-d16a-4926-8957-c0493d6e0529",
@@ -157,6 +157,19 @@
       "cover": "",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/a7a563c8-a3f8-4222-9add-e161e14559eb.mp3",
       "hash": "96c525d8fbe2eb8328f69bdb36700c8dcb40cb112cee052f0e58645d46feea05",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b511a3b2-e7e0-494e-99c8-767fe3ecbbd9",
+      "id": "EROS-MK-1243",
+      "title": "Click Trigger Erotic Hypnosis 2: JOI",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/b511a3b2-e7e0-494e-99c8-767fe3ecbbd9.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/b511a3b2-e7e0-494e-99c8-767fe3ecbbd9.mp3",
+      "hash": "da0f9be7fbcc71561c46d0a9d207f5f13f2bf508d7ad7107f38a5ee39248faed",
       "status": "ACTIVE"
     }
   ]

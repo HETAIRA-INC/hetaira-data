@@ -1,7 +1,7 @@
 {
   "slug": "f4f",
   "label": "F4F",
-  "count": 12,
+  "count": 13,
   "records": [
     {
       "uuid": "ad0854d6-8534-4fdc-a084-85f14e699319",
@@ -157,6 +157,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b1a9c334-59e6-463a-ab3f-69104dbe9f38.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b1a9c334-59e6-463a-ab3f-69104dbe9f38.mp3",
       "hash": "b0c8bb4438f4e066a8cf91098c79283fbc300f4ed1d99497dfc1d4ba6412c8f4",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "0b2cf59b-a892-4922-9660-8add7d57134e",
+      "id": "EROS-MK-1411",
+      "title": "Good Girl: Praise Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/0b2cf59b-a892-4922-9660-8add7d57134e.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/0b2cf59b-a892-4922-9660-8add7d57134e.mp3",
+      "hash": "da846e78a5da748f6dcda2aaeaaa15a8bf31631627f139a0ade6a77ce443093c",
       "status": "ACTIVE"
     }
   ]

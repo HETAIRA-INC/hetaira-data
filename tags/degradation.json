@@ -1,7 +1,7 @@
 {
   "slug": "degradation",
   "label": "DEGRADATION",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "391baf35-2f8f-402b-b644-0c042cd77d49",
@@ -14,6 +14,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/391baf35-2f8f-402b-b644-0c042cd77d49.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/391baf35-2f8f-402b-b644-0c042cd77d49.mp3",
       "hash": "db6fc456bdafb9feef01f87b83b3f82b44018afcc26f2d04a7bc474433a96ec9",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "31a1d64a-4da9-44ea-a108-a5b96bacb549",
+      "id": "EROS-MK-1171",
+      "title": "Become my Footstool Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/31a1d64a-4da9-44ea-a108-a5b96bacb549.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/31a1d64a-4da9-44ea-a108-a5b96bacb549.mp3",
+      "hash": "7c59dd3aa51001060fef3279ddb32e1022910be3dbad43dc89a2d79d68362756",
       "status": "ACTIVE"
     }
   ]

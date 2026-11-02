@@ -1,0 +1,46 @@
+{
+  "slug": "trigger-serve",
+  "label": "TRIGGER: SERVE",
+  "count": 3,
+  "records": [
+    {
+      "uuid": "2f1dcfe7-0b93-49b1-88ea-6d5d6cf606bb",
+      "id": "EROS-MK-1361",
+      "title": "Fundamentals of Servitude",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2f1dcfe7-0b93-49b1-88ea-6d5d6cf606bb.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2f1dcfe7-0b93-49b1-88ea-6d5d6cf606bb.mp3",
+      "hash": "fb2c31170a898b6701433e5179c092049ab27d12b6579183af376a064381e541",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "71428f51-1784-4d8a-b31c-e32dad7a98ae",
+      "id": "EROS-MK-1366",
+      "title": "Cheerleader Hypno Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/71428f51-1784-4d8a-b31c-e32dad7a98ae.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/71428f51-1784-4d8a-b31c-e32dad7a98ae.mp3",
+      "hash": "d15fef5f1b7ca575f1a704d03131e09f692624798b72a20997d6f3a0a3894d86",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "274b9256-e8eb-4fbe-b4ea-a055a55a70c3",
+      "id": "EROS-MK-1371",
+      "title": "Meeting the Headmistress",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.mp3",
+      "hash": "789ced78fd1d328a75adf6e41c4432cd41b44d9be73b074e06005985b132a67d",
+      "status": "ACTIVE"
+    }
+  ]
+}

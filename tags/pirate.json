@@ -1,0 +1,20 @@
+{
+  "slug": "pirate",
+  "label": "PIRATE",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "704cdaf6-6613-4cdc-918d-2abedf638e4a",
+      "id": "EROS-MK-1439",
+      "title": "Pirate Queen Hypno Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/704cdaf6-6613-4cdc-918d-2abedf638e4a.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/704cdaf6-6613-4cdc-918d-2abedf638e4a.mp3",
+      "hash": "644ca32f1e2da038032e86be205defd90126d2bbd67ab4510f59388f824fe902",
+      "status": "ACTIVE"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "induction-brainwash",
+  "label": "INDUCTION: BRAINWASH",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "f6133206-3ff3-4f42-a081-a986ba4cce26",
+      "id": "EROS-MK-1249",
+      "title": "Subliminal Brainwashing Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/f6133206-3ff3-4f42-a081-a986ba4cce26.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/f6133206-3ff3-4f42-a081-a986ba4cce26.mp3",
+      "hash": "cff15d9d4f38a23d8a882907fa8ab78efd528e6f5d89c668ea8e36e5dbab1e02",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ec5242a6-b7eb-4770-bb78-2aa1a0d8615c",
+      "id": "EROS-MK-1449",
+      "title": "Tech Collar Control",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ec5242a6-b7eb-4770-bb78-2aa1a0d8615c.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ec5242a6-b7eb-4770-bb78-2aa1a0d8615c.mp3",
+      "hash": "3ce4b8ce5caf11fcde547a6a5a3c5a66e221d71e8a4927e9a6dc77bfe72598d1",
+      "status": "ACTIVE"
+    }
+  ]
+}

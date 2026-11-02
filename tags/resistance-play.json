@@ -1,7 +1,7 @@
 {
   "slug": "resistance-play",
   "label": "RESISTANCE PLAY",
-  "count": 4,
+  "count": 6,
   "records": [
     {
       "uuid": "cb62bb07-e50f-4c9a-8ec1-a41ffe8b7013",
@@ -53,6 +53,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d2e7e370-f9ba-4682-bc02-cb2568d20f75.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d2e7e370-f9ba-4682-bc02-cb2568d20f75.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "325c9f2f-2ac5-455d-a2c9-d1dd1829bdc0",
+      "id": "EROS-MK-01",
+      "title": "Branding My Slave Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/325c9f2f-2ac5-455d-a2c9-d1dd1829bdc0.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/325c9f2f-2ac5-455d-a2c9-d1dd1829bdc0.mp3",
+      "hash": "68b8637fe47ecbb8ac11ec1bb44cd3ba839228dca7d496e9da08fa3d007e1478",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ebba0818-acde-443f-9306-5ce612167587",
+      "id": "EROS-MK-1582",
+      "title": "Night in with the Hypnotist",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ebba0818-acde-443f-9306-5ce612167587.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ebba0818-acde-443f-9306-5ce612167587.mp3",
+      "hash": "5711e629d3064271af0e3d1e2c25188ce4bf9c28946fa08cd1dfa71751ad7f46",
       "status": "ACTIVE"
     }
   ]

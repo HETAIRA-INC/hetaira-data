@@ -1,0 +1,20 @@
+{
+  "slug": "trigger-rise",
+  "label": "TRIGGER: RISE",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "3321795b-026b-4b02-bebc-a972762c98c1",
+      "id": "EROS-MK-1112",
+      "title": "Confusion Fractionation Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/3321795b-026b-4b02-bebc-a972762c98c1.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/3321795b-026b-4b02-bebc-a972762c98c1.mp3",
+      "hash": "e8bda8b8b49a96ec1943d957812d9485a1d2c11c020d55977bb7c4a514236132",
+      "status": "ACTIVE"
+    }
+  ]
+}

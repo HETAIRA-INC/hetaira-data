@@ -1,0 +1,20 @@
+{
+  "slug": "date",
+  "label": "DATE",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "46f9d9bd-add1-4e5b-9ce0-d96e592bd87f",
+      "id": "EROS-MK-1557",
+      "title": "Date with the Hypnotist",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/46f9d9bd-add1-4e5b-9ce0-d96e592bd87f.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/46f9d9bd-add1-4e5b-9ce0-d96e592bd87f.mp3",
+      "hash": "5a3dfd9a906cfd172aef73200e77df1279222d87c0607cf0407f24123eb0d233",
+      "status": "ACTIVE"
+    }
+  ]
+}

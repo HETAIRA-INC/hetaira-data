@@ -1,0 +1,33 @@
+{
+  "slug": "trigger-fall",
+  "label": "TRIGGER: FALL",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "8ca0eb47-dbda-4513-a7bc-51bedf849dd6",
+      "id": "EROS-MK-1390",
+      "title": "Kaa Roleplay Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.mp3",
+      "hash": "af19f1e754a3e37154abdce285fab6ffe61d98115b502e2d03245c9739f22c38",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "65b68366-0d27-47c9-b523-70144097804e",
+      "id": "EROS-MK-1424",
+      "title": "Learning to Fall Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/65b68366-0d27-47c9-b523-70144097804e.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/65b68366-0d27-47c9-b523-70144097804e.mp3",
+      "hash": "b190d9b7a7c0d5805fc79f61edcd619ed0e6b18b136e8bfb08b7eee4cebbb177",
+      "status": "ACTIVE"
+    }
+  ]
+}

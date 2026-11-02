@@ -1,0 +1,20 @@
+{
+  "slug": "bath",
+  "label": "BATH",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "204e501b-3ad8-481a-8272-15c2ff146a88",
+      "id": "EROS-MK-1536",
+      "title": "Bathtub Brainwash Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/204e501b-3ad8-481a-8272-15c2ff146a88.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/204e501b-3ad8-481a-8272-15c2ff146a88.mp3",
+      "hash": "a8dbc12fcad5041ad23a8e93d5e4a829c46e3e385b8dacdf9419cd879f951fa7",
+      "status": "ACTIVE"
+    }
+  ]
+}

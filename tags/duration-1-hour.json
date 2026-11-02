@@ -1,0 +1,33 @@
+{
+  "slug": "duration-1-hour",
+  "label": "DURATION: 1 HOUR+",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "f6133206-3ff3-4f42-a081-a986ba4cce26",
+      "id": "EROS-MK-1249",
+      "title": "Subliminal Brainwashing Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/f6133206-3ff3-4f42-a081-a986ba4cce26.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/f6133206-3ff3-4f42-a081-a986ba4cce26.mp3",
+      "hash": "cff15d9d4f38a23d8a882907fa8ab78efd528e6f5d89c668ea8e36e5dbab1e02",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fc087969-de38-498a-91c1-5316df07f996",
+      "id": "EROS-MK-1595",
+      "title": "Lo-Fi Beats to Focus To",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fc087969-de38-498a-91c1-5316df07f996.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fc087969-de38-498a-91c1-5316df07f996.mp3",
+      "hash": "f28c681fde6f1323d728dfc67fac0334c7bfd809ae62dd7fad1f4fd7f13e7aab",
+      "status": "ACTIVE"
+    }
+  ]
+}

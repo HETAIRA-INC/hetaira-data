@@ -1,7 +1,7 @@
 {
   "slug": "corruption",
   "label": "CORRUPTION",
-  "count": 5,
+  "count": 6,
   "records": [
     {
       "uuid": "c72e1515-9556-4df7-923d-47735ef02fad",
@@ -66,6 +66,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/e4da3a07-1b17-40e7-8c12-bcf4ba0911bb.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/e4da3a07-1b17-40e7-8c12-bcf4ba0911bb.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2107de22-e960-478f-87ea-45fdbac98d40",
+      "id": "EROS-MK-1429",
+      "title": "Princess Charming Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2107de22-e960-478f-87ea-45fdbac98d40.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2107de22-e960-478f-87ea-45fdbac98d40.mp3",
+      "hash": "4d6365b4cdcb85a732b85edce414e0fc90ab354e4b4e1fc61c4959fcd4ca6de4",
       "status": "ACTIVE"
     }
   ]

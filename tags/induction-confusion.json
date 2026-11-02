@@ -1,0 +1,33 @@
+{
+  "slug": "induction-confusion",
+  "label": "INDUCTION: CONFUSION",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "3321795b-026b-4b02-bebc-a972762c98c1",
+      "id": "EROS-MK-1112",
+      "title": "Confusion Fractionation Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/3321795b-026b-4b02-bebc-a972762c98c1.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/3321795b-026b-4b02-bebc-a972762c98c1.mp3",
+      "hash": "e8bda8b8b49a96ec1943d957812d9485a1d2c11c020d55977bb7c4a514236132",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ebba0818-acde-443f-9306-5ce612167587",
+      "id": "EROS-MK-1582",
+      "title": "Night in with the Hypnotist",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ebba0818-acde-443f-9306-5ce612167587.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ebba0818-acde-443f-9306-5ce612167587.mp3",
+      "hash": "5711e629d3064271af0e3d1e2c25188ce4bf9c28946fa08cd1dfa71751ad7f46",
+      "status": "ACTIVE"
+    }
+  ]
+}

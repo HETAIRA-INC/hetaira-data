@@ -1,0 +1,33 @@
+{
+  "slug": "trigger-sweet",
+  "label": "TRIGGER: SWEET",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "560fcfef-c378-44ca-b727-880ed4528945",
+      "id": "EROS-MK-1184",
+      "title": "Hypnotized by my Sweet Voice",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/560fcfef-c378-44ca-b727-880ed4528945.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/560fcfef-c378-44ca-b727-880ed4528945.mp3",
+      "hash": "07ce2033f1a6760c54055dcfff8c13137cd24685e062651801b50c386aa6148b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "08ac802a-dcb9-493d-b8a6-825da78980d5",
+      "id": "EROS-MK-1224",
+      "title": "The Colour of Love",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/08ac802a-dcb9-493d-b8a6-825da78980d5.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/08ac802a-dcb9-493d-b8a6-825da78980d5.mp3",
+      "hash": "abd4ac1db6b3c4d1d3734db88a9044a8e70e38d2eacdd955da5190d6346d8a2e",
+      "status": "ACTIVE"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "hunter-and-prey",
+  "label": "HUNTER AND PREY",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "9c694cf3-993d-4068-aa0b-6b71ee5b42cb",
+      "id": "EROS-MK-1545",
+      "title": "Seduced by a Vampire",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9c694cf3-993d-4068-aa0b-6b71ee5b42cb.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9c694cf3-993d-4068-aa0b-6b71ee5b42cb.mp3",
+      "hash": "1f13f8c4b3168b6eafb46e984a0fb9e21490916bde0471540d4aaed8eb4acd42",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e3a0af73-dcea-4c7e-ba06-f736892f19f0",
+      "id": "EROS-MK-1551",
+      "title": "Bound in the Spider�s Web",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/e3a0af73-dcea-4c7e-ba06-f736892f19f0.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/e3a0af73-dcea-4c7e-ba06-f736892f19f0.mp3",
+      "hash": "b83eac85ae7eb400abad99abf9b7ce23634d10b6e455c8de5fd2226e7677323a",
+      "status": "ACTIVE"
+    }
+  ]
+}

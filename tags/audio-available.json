@@ -1,7 +1,7 @@
 {
   "slug": "audio-available",
   "label": "AUDIO AVAILABLE",
-  "count": 106,
+  "count": 108,
   "records": [
     {
       "uuid": "ac98ae79-d16a-4926-8957-c0493d6e0529",
@@ -1379,6 +1379,32 @@
       "cover": "",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/5b9c99b0-2fb5-456f-88f3-58e1290f9d6c.mp3",
       "hash": "55d8c4572226564c61d03061e28d01c6d785d5371f50077458d8f3d792225e00",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "325c9f2f-2ac5-455d-a2c9-d1dd1829bdc0",
+      "id": "EROS-MK-01",
+      "title": "Branding My Slave Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/325c9f2f-2ac5-455d-a2c9-d1dd1829bdc0.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/325c9f2f-2ac5-455d-a2c9-d1dd1829bdc0.mp3",
+      "hash": "68b8637fe47ecbb8ac11ec1bb44cd3ba839228dca7d496e9da08fa3d007e1478",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5e3ed04e-1e6d-4866-b7a6-bd0ac96b3243",
+      "id": "EROS-MK-02",
+      "title": "Ass Obsession Hypno Quickie",
+      "variant": "ORIGINAL",
+      "tier": "PAID LEVEL 3",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5e3ed04e-1e6d-4866-b7a6-bd0ac96b3243.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5e3ed04e-1e6d-4866-b7a6-bd0ac96b3243.mp3",
+      "hash": "17c6dd87d6d521af79e04d2ad26de0f0ecd234d563fb665d488ab9868150bb44",
       "status": "ACTIVE"
     }
   ]

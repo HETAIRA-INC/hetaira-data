@@ -1,7 +1,7 @@
 {
   "slug": "kissing",
   "label": "KISSING",
-  "count": 10,
+  "count": 12,
   "records": [
     {
       "uuid": "f059f06b-0031-4907-b04a-fe488f361fd0",
@@ -131,6 +131,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/525f9e2c-9cb4-4fe2-a795-19423b0c1c78.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/525f9e2c-9cb4-4fe2-a795-19423b0c1c78.mp3",
       "hash": "a07e398d688a06e9ba321b17fe822644fa08ce99dfa8f03960ca41de32ffc84e",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d3035d8d-45fc-4a9a-80f4-eac8bde81631",
+      "id": "EROS-MK-1444",
+      "title": "Secretary Hypnotizes the Boss",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/d3035d8d-45fc-4a9a-80f4-eac8bde81631.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/d3035d8d-45fc-4a9a-80f4-eac8bde81631.mp3",
+      "hash": "14bff73b7bd9540c7d33ad4813d65fa243607246fa8bec2ef86d6a1da86373dc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "9e618fab-cf25-4af7-a5a7-ce2352e5ff69",
+      "id": "EROS-MK-1599",
+      "title": "Mommy Kisses You Senseless",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.mp3",
+      "hash": "f26f66d9b7aaedc6c65243a52834cb4b0fdf52eb232eb5a2da19576bc3a9375e",
       "status": "ACTIVE"
     }
   ]

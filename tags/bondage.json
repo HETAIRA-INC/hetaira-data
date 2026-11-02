@@ -1,7 +1,7 @@
 {
   "slug": "bondage",
   "label": "BONDAGE",
-  "count": 1,
+  "count": 4,
   "records": [
     {
       "uuid": "b350536e-e7a8-43ed-a303-cb6c965aba29",
@@ -14,6 +14,45 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b350536e-e7a8-43ed-a303-cb6c965aba29.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b350536e-e7a8-43ed-a303-cb6c965aba29.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1db677fc-2d3e-433d-8745-bf590ad1d115",
+      "id": "EROS-MK-1087",
+      "title": "Silken Strings Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/1db677fc-2d3e-433d-8745-bf590ad1d115.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/1db677fc-2d3e-433d-8745-bf590ad1d115.mp3",
+      "hash": "25acf451e1dba39ec87d4ffd2543807e06c147d748b937ebf6d89acc151cf31d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "8ca0eb47-dbda-4513-a7bc-51bedf849dd6",
+      "id": "EROS-MK-1390",
+      "title": "Kaa Roleplay Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.mp3",
+      "hash": "af19f1e754a3e37154abdce285fab6ffe61d98115b502e2d03245c9739f22c38",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e3a0af73-dcea-4c7e-ba06-f736892f19f0",
+      "id": "EROS-MK-1551",
+      "title": "Bound in the Spider�s Web",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/e3a0af73-dcea-4c7e-ba06-f736892f19f0.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/e3a0af73-dcea-4c7e-ba06-f736892f19f0.mp3",
+      "hash": "b83eac85ae7eb400abad99abf9b7ce23634d10b6e455c8de5fd2226e7677323a",
       "status": "ACTIVE"
     }
   ]

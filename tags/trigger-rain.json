@@ -1,0 +1,20 @@
+{
+  "slug": "trigger-rain",
+  "label": "TRIGGER: RAIN",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "64326652-4c82-4b3a-9cf1-a9b89a46f55d",
+      "id": "EROS-MK-1434",
+      "title": "Hypnosis Under the Umbrella",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/64326652-4c82-4b3a-9cf1-a9b89a46f55d.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/64326652-4c82-4b3a-9cf1-a9b89a46f55d.mp3",
+      "hash": "74acc76839c6310559eaf134ed71953a6f2c5289374eb23385cd41138576edae",
+      "status": "ACTIVE"
+    }
+  ]
+}

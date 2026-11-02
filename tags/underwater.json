@@ -1,0 +1,20 @@
+{
+  "slug": "underwater",
+  "label": "UNDERWATER",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "81e6cc08-247d-491f-a494-75772edfaf21",
+      "id": "EROS-MK-317",
+      "title": "Obedience is Pleasure",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/81e6cc08-247d-491f-a494-75772edfaf21.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/81e6cc08-247d-491f-a494-75772edfaf21.mp3",
+      "hash": "5afb86da4f992bcca62b198bd2f69dcf4d0398600fae30dc903da119f6ed2252",
+      "status": "ACTIVE"
+    }
+  ]
+}

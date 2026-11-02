@@ -1,7 +1,7 @@
 {
   "slug": "goddess-worship",
   "label": "GODDESS WORSHIP",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "ac98ae79-d16a-4926-8957-c0493d6e0529",
@@ -14,6 +14,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/ac98ae79-d16a-4926-8957-c0493d6e0529.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/ac98ae79-d16a-4926-8957-c0493d6e0529.mp3",
       "hash": "83c134eb4624691b6a9ca9c068b2d842820a8aef3ea69b9c196e32c2f6772adc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "8a6ab3f3-d7db-411a-994b-aff9c4e07e96",
+      "id": "EROS-MK-1355",
+      "title": "Worship 101 Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8a6ab3f3-d7db-411a-994b-aff9c4e07e96.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8a6ab3f3-d7db-411a-994b-aff9c4e07e96.mp3",
+      "hash": "2416a7dab3399ecb4011a7bb2bac283ad22c4433f4c161f01dd33175c6dd720a",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fbfbd842-af00-4a64-8904-54c7b265f69c",
+      "id": "EROS-MK-1454",
+      "title": "Supervillain Hypnosis 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fbfbd842-af00-4a64-8904-54c7b265f69c.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fbfbd842-af00-4a64-8904-54c7b265f69c.mp3",
+      "hash": "f3849336207a8e83f58024aeaf3335ca4931b8a7983cef82b45086eee80a551b",
       "status": "ACTIVE"
     }
   ]

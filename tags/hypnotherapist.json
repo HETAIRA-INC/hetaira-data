@@ -1,0 +1,20 @@
+{
+  "slug": "hypnotherapist",
+  "label": "HYPNOTHERAPIST",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "0f1fbf26-882a-440f-b19e-374ff4c2f501",
+      "id": "EROS-MK-1502",
+      "title": "Corrupt Hypnotherapist",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/0f1fbf26-882a-440f-b19e-374ff4c2f501.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/0f1fbf26-882a-440f-b19e-374ff4c2f501.mp3",
+      "hash": "2aa236ee97ce85e5ce6c073465b3a981592921239a96f3d2c33c06d48647ff11",
+      "status": "ACTIVE"
+    }
+  ]
+}

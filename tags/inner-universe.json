@@ -1,0 +1,20 @@
+{
+  "slug": "inner-universe",
+  "label": "INNER UNIVERSE",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "79f32632-1a47-4208-a972-ef62f91a50d2",
+      "id": "EROS-MK-1323",
+      "title": "CaliaCorp Employee Induction",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/79f32632-1a47-4208-a972-ef62f91a50d2.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/79f32632-1a47-4208-a972-ef62f91a50d2.mp3",
+      "hash": "26297bbc62607cfe47e55937db0737450cd6b3b428d903e36576bafdab25d9aa",
+      "status": "ACTIVE"
+    }
+  ]
+}

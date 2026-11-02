@@ -1,0 +1,20 @@
+{
+  "slug": "feral",
+  "label": "FERAL",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "fb84c602-c4ba-4d71-885f-66943d5dec23",
+      "id": "EROS-MK-1549",
+      "title": "Full Moon Hypno Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fb84c602-c4ba-4d71-885f-66943d5dec23.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fb84c602-c4ba-4d71-885f-66943d5dec23.mp3",
+      "hash": "2f47ee43d70557e1c5a55593a0e0e97ab7c433ad0ece2a27100ec0a5b4b3d1ab",
+      "status": "ACTIVE"
+    }
+  ]
+}

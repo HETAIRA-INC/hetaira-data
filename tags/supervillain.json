@@ -1,0 +1,33 @@
+{
+  "slug": "supervillain",
+  "label": "SUPERVILLAIN",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "ff94ec65-e724-4ad9-9342-5d313eeaffd7",
+      "id": "EROS-MK-1127",
+      "title": "Supervillain Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ff94ec65-e724-4ad9-9342-5d313eeaffd7.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ff94ec65-e724-4ad9-9342-5d313eeaffd7.mp3",
+      "hash": "bea9aa501b40dc4fedf27ef3cda1f4947e1a49fb2649ab704f01300f806594a7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fbfbd842-af00-4a64-8904-54c7b265f69c",
+      "id": "EROS-MK-1454",
+      "title": "Supervillain Hypnosis 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fbfbd842-af00-4a64-8904-54c7b265f69c.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fbfbd842-af00-4a64-8904-54c7b265f69c.mp3",
+      "hash": "f3849336207a8e83f58024aeaf3335ca4931b8a7983cef82b45086eee80a551b",
+      "status": "ACTIVE"
+    }
+  ]
+}

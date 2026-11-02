@@ -1,7 +1,7 @@
 {
   "slug": "licking",
   "label": "LICKING",
-  "count": 2,
+  "count": 4,
   "records": [
     {
       "uuid": "1e4d2b97-d705-40c5-acea-b061166f6ee6",
@@ -27,6 +27,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/f059f06b-0031-4907-b04a-fe488f361fd0.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/f059f06b-0031-4907-b04a-fe488f361fd0.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7f63c2be-065a-409a-8265-42d55b5d357f",
+      "id": "EROS-MK-1252",
+      "title": "High Heel Slave Hypno Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/7f63c2be-065a-409a-8265-42d55b5d357f.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/7f63c2be-065a-409a-8265-42d55b5d357f.mp3",
+      "hash": "b511126b8078515c9cd59b99a0f7e03f9228e1acc1477c8d7824e48cc048aef6",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bc62e92f-c16a-47f5-b7fb-4ebfac0306e8",
+      "id": "EROS-MK-1401",
+      "title": "Hot Summer Hypno Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/bc62e92f-c16a-47f5-b7fb-4ebfac0306e8.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/bc62e92f-c16a-47f5-b7fb-4ebfac0306e8.mp3",
+      "hash": "387490e4b0144f27cdd69f042787776239c23891dbe895bfcb4d52e9f128e328",
       "status": "ACTIVE"
     }
   ]

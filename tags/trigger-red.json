@@ -1,0 +1,33 @@
+{
+  "slug": "trigger-red",
+  "label": "TRIGGER: RED",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "08ac802a-dcb9-493d-b8a6-825da78980d5",
+      "id": "EROS-MK-1224",
+      "title": "The Colour of Love",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/08ac802a-dcb9-493d-b8a6-825da78980d5.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/08ac802a-dcb9-493d-b8a6-825da78980d5.mp3",
+      "hash": "abd4ac1db6b3c4d1d3734db88a9044a8e70e38d2eacdd955da5190d6346d8a2e",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5cc7ced1-fb44-4184-a92d-c2b0aae26314",
+      "id": "EROS-MK-1348",
+      "title": "Performance Review Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5cc7ced1-fb44-4184-a92d-c2b0aae26314.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5cc7ced1-fb44-4184-a92d-c2b0aae26314.mp3",
+      "hash": "c4595e835a793b8dea3a1beeb411272cc64c21a57d328e7730d1d938eec8e535",
+      "status": "ACTIVE"
+    }
+  ]
+}

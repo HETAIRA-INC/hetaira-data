@@ -1,0 +1,33 @@
+{
+  "slug": "food",
+  "label": "FOOD",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "caff8dcc-0450-492a-8a1d-002ff416925e",
+      "id": "EROS-MK-1139",
+      "title": "Honey Hypno Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/caff8dcc-0450-492a-8a1d-002ff416925e.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/caff8dcc-0450-492a-8a1d-002ff416925e.mp3",
+      "hash": "dc49e2baa7dad7c962e6619edec5b474db453f226b7f7d41197de4b9287b5150",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "560fcfef-c378-44ca-b727-880ed4528945",
+      "id": "EROS-MK-1184",
+      "title": "Hypnotized by my Sweet Voice",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/560fcfef-c378-44ca-b727-880ed4528945.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/560fcfef-c378-44ca-b727-880ed4528945.mp3",
+      "hash": "07ce2033f1a6760c54055dcfff8c13137cd24685e062651801b50c386aa6148b",
+      "status": "ACTIVE"
+    }
+  ]
+}

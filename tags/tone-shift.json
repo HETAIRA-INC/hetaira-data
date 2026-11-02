@@ -1,0 +1,33 @@
+{
+  "slug": "tone-shift",
+  "label": "TONE SHIFT",
+  "count": 2,
+  "records": [
+    {
+      "uuid": "fbfbd842-af00-4a64-8904-54c7b265f69c",
+      "id": "EROS-MK-1454",
+      "title": "Supervillain Hypnosis 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fbfbd842-af00-4a64-8904-54c7b265f69c.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fbfbd842-af00-4a64-8904-54c7b265f69c.mp3",
+      "hash": "f3849336207a8e83f58024aeaf3335ca4931b8a7983cef82b45086eee80a551b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "0f1fbf26-882a-440f-b19e-374ff4c2f501",
+      "id": "EROS-MK-1502",
+      "title": "Corrupt Hypnotherapist",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/0f1fbf26-882a-440f-b19e-374ff4c2f501.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/0f1fbf26-882a-440f-b19e-374ff4c2f501.mp3",
+      "hash": "2aa236ee97ce85e5ce6c073465b3a981592921239a96f3d2c33c06d48647ff11",
+      "status": "ACTIVE"
+    }
+  ]
+}

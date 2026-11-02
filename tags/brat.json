@@ -1,0 +1,20 @@
+{
+  "slug": "brat",
+  "label": "BRAT",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "9a9c46eb-7dfd-41aa-99b0-3b1772e893c0",
+      "id": "EROS-MK-1119",
+      "title": "Seduced by a Cute Girl",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9a9c46eb-7dfd-41aa-99b0-3b1772e893c0.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9a9c46eb-7dfd-41aa-99b0-3b1772e893c0.mp3",
+      "hash": "2f9f814d5d47791ee63e97997a37f39bf68fc60e09b294be58eb86ddcdea6ce0",
+      "status": "ACTIVE"
+    }
+  ]
+}

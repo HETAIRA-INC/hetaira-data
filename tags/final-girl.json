@@ -1,0 +1,20 @@
+{
+  "slug": "final-girl",
+  "label": "FINAL GIRL",
+  "count": 1,
+  "records": [
+    {
+      "uuid": "8f3dea49-6ab8-4c2c-a19d-ee54cd6589df",
+      "id": "EROS-MK-1541",
+      "title": "Mesmerized by the Final Girl",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8f3dea49-6ab8-4c2c-a19d-ee54cd6589df.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8f3dea49-6ab8-4c2c-a19d-ee54cd6589df.mp3",
+      "hash": "81061b026158da81aebe1730929a4a9f546e40f4478778a8149596258a365671",
+      "status": "ACTIVE"
+    }
+  ]
+}
