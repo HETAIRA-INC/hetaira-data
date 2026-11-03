@@ -21,6 +21,7 @@
     "site": "https://shibbydex.com",
     "defaultTag": "EROTIC HYPNOSIS",
     "status": "ACTIVE",
+    "cover": "artist.png",
     "description": "Pioneering erotic hypnotist and producer recognized for expansive trance scripts, behavioral conditioning, femdom files, and maintaining the ShibbyDex audio catalog.",
     "recordCount": 0
   },
@@ -33,6 +34,7 @@
     "site": "https://lambhypno.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
+    "cover": "artist.png",
     "description": "Erotic audio creator and hypnotist known for atmospheric, sensory-rich trance files, seductive conditioning, and immersive psychological audio journeys.",
     "recordCount": 60
   },
@@ -45,6 +47,7 @@
     "site": "https://mistresscalia.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
+    "cover": "artist.png",
     "recordCount": 239
   },
   {
@@ -56,6 +59,7 @@
     "site": "https://loopshypnosis.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
+    "cover": "artist.png",
     "recordCount": 1
   },
   {
@@ -67,6 +71,7 @@
     "site": "https://hypnohellven.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
+    "cover": "artist.png",
     "recordCount": 0
   }
 ]
