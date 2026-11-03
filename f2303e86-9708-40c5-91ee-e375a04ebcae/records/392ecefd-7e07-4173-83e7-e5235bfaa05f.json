@@ -1,0 +1,48 @@
+{
+  "uuid": "392ecefd-7e07-4173-83e7-e5235bfaa05f",
+  "status": "ACTIVE",
+  "id": "EROS-LB-885",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [],
+  "title": "My thoughts and musings coming soon",
+  "description": "Check back shortly as I am currently building a new area of my website dedicated to my writings.",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4M",
+  "author": "Lambellina",
+  "artist": "Lambellina",
+  "releaseDate": "2024-11-18",
+  "tone": [],
+  "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/392ecefd-7e07-4173-83e7-e5235bfaa05f.webp",
+  "file": "",
+  "hash": "",
+  "url": "https://lambhypno.com/my-thoughts-and-musings-coming-soon/",
+  "changelog": [
+    {
+      "date": "2026-11-03 06:17:12",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://lambhypno.com/my-thoughts-and-musings-coming-soon/"
+    },
+    {
+      "date": "2026-11-03 08:32:13",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 08:33:16",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 08:33:30",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+  "collaborators": [],
+  "artistUuids": [
+    "f2303e86-9708-40c5-91ee-e375a04ebcae"
+  ]
+}

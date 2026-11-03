@@ -1,0 +1,50 @@
+{
+  "uuid": "a8b32d8e-131e-4308-91b8-d4afbc546c7c",
+  "status": "ACTIVE",
+  "id": "EROS-LB-1033",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "4A",
+    "MEDITATION",
+    "NO HYPNOSIS",
+    "OCCULT",
+    "RELAXING",
+    "TRANSFORMATION"
+  ],
+  "title": "Meditations: Fenrir",
+  "description": "Exclusively for my highest tiers; my chosen ones. This isn�t hypnosis; it�s something rarer, something special. A deeply personal and intimate meditation..\n\nStep into the realm of Fenrir, the untamed wolf of Norse mythology - a powerful symbol of wild freedom and raw transformation. In this guided meditation, you�ll join Fenrir on a sacred hunt, weaving through the shadows of the forest to uncover what no longer serves you. Together, you�ll confront it, release it, and emerge lighter, freer, and more in tune with your true self.\n\nScript by Lamb",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4M",
+  "author": "Lambellina",
+  "artist": "Lambellina",
+  "releaseDate": "2025-01-14",
+  "tone": [],
+  "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/a8b32d8e-131e-4308-91b8-d4afbc546c7c.jpg",
+  "file": "",
+  "hash": "",
+  "url": "https://lambhypno.com/meditations-fenrir/",
+  "changelog": [
+    {
+      "date": "2026-11-03 08:32:29",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://lambhypno.com/meditations-fenrir/"
+    },
+    {
+      "date": "2026-11-03 08:33:16",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 08:33:30",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+  "collaborators": [],
+  "artistUuids": [
+    "f2303e86-9708-40c5-91ee-e375a04ebcae"
+  ]
+}
