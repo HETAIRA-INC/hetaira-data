@@ -3,10 +3,7 @@
     "uuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
     "slug": "goddess-nichole",
     "name": "Goddess Nichole",
-    "aliases": [
-      "nicholemd",
-      "yes nichole"
-    ],
+    "aliases": ["nicholemd", "yes nichole"],
     "idPrefix": "EROS-GN-",
     "site": "https://goddessnichole.com",
     "defaultTag": "HYPNOSIS & AUDIO",
@@ -31,9 +28,7 @@
     "uuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
     "slug": "lambellina",
     "name": "Lambellina",
-    "aliases": [
-      "lamb"
-    ],
+    "aliases": ["lamb"],
     "idPrefix": "EROS-LB-",
     "site": "https://lambhypno.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
@@ -50,18 +45,13 @@
     "site": "https://mistresscalia.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
-<<<<<<< Updated upstream
-    "recordCount": 86
-=======
     "recordCount": 239
   },
   {
     "uuid": "f015e18c-928f-4b8f-bdbd-27cdba3b7f60",
     "slug": "loops-the-trickster-goddess",
     "name": "Loops The Trickster Goddess",
-    "aliases": [
-      "loopyloops"
-    ],
+    "aliases": ["loopyloops"],
     "idPrefix": "EROS-LL-",
     "site": "https://loopshypnosis.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
@@ -72,15 +62,11 @@
     "uuid": "6cc33dd3-585e-435f-97d5-b57342a43925",
     "slug": "sammystique",
     "name": "Sammystique",
-    "aliases": [
-      "sammy",
-      "sam mystique"
-    ],
+    "aliases": ["sammy", "sam mystique"],
     "idPrefix": "EROS-SM-",
     "site": "https://hypnohellven.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
     "recordCount": 0
->>>>>>> Stashed changes
   }
 ]
