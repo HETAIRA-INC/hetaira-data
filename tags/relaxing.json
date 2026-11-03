@@ -1,7 +1,7 @@
 {
   "slug": "relaxing",
   "label": "RELAXING",
-  "count": 1,
+  "count": 4,
   "records": [
     {
       "uuid": "ac98ae79-d16a-4926-8957-c0493d6e0529",
@@ -14,6 +14,45 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/ac98ae79-d16a-4926-8957-c0493d6e0529.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/ac98ae79-d16a-4926-8957-c0493d6e0529.mp3",
       "hash": "83c134eb4624691b6a9ca9c068b2d842820a8aef3ea69b9c196e32c2f6772adc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fd094451-2968-410a-a380-8e0cbc3a0abf",
+      "id": "EROS-LB-942",
+      "title": "Busy Thoughts Departing in 5, 4, 3�",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/fd094451-2968-410a-a380-8e0cbc3a0abf.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/fd094451-2968-410a-a380-8e0cbc3a0abf.mp3",
+      "hash": "6be4d714fdd769d08e6ec4edab1e4a27401edfadeda1a35123fdc3ca8a34637d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a8b32d8e-131e-4308-91b8-d4afbc546c7c",
+      "id": "EROS-LB-1033",
+      "title": "Meditations: Fenrir",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/a8b32d8e-131e-4308-91b8-d4afbc546c7c.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "18b964a8-0e6e-463f-a983-929ce113a528",
+      "id": "EROS-LB-1166",
+      "title": "Mind Massage (SFW)",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/18b964a8-0e6e-463f-a983-929ce113a528.png",
+      "file": "",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "cosy",
   "label": "COSY",
-  "count": 4,
+  "count": 10,
   "records": [
     {
       "uuid": "841624c1-8d25-4e0c-9417-0d8c62351911",
@@ -53,6 +53,84 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/64326652-4c82-4b3a-9cf1-a9b89a46f55d.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/64326652-4c82-4b3a-9cf1-a9b89a46f55d.mp3",
       "hash": "74acc76839c6310559eaf134ed71953a6f2c5289374eb23385cd41138576edae",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "12588bab-a45d-4d5f-8311-bc22780b9ce9",
+      "id": "EROS-MK-1803",
+      "title": "Hypnotized on Movie Night",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/12588bab-a45d-4d5f-8311-bc22780b9ce9.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/12588bab-a45d-4d5f-8311-bc22780b9ce9.mp3",
+      "hash": "38129246012a03ef874ab835e7bd03438c58e40710c202dbf12ec58ed45d19ca",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5f577120-f0e0-40f8-9e6d-7b6875de3736",
+      "id": "EROS-MK-2974",
+      "title": "Sleep for Your Lamia Girlfriend",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/04/lamiasleepnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/Lamia-Sleep-CST.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "18844e37-9a14-4967-9174-61defcfefac6",
+      "id": "EROS-MK-3270",
+      "title": "Conversational Erotic Hypnosis Class",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/convclass.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/11/Class-Conversational-v2mp3.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d1ed755f-6428-4226-8d5f-8e508868f39a",
+      "id": "EROS-MK-3549",
+      "title": "The Girl of Your Dreams is a Demon!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/sleepdemon_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3549/the-girl-of-your-dreams-is-a-demon.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7da6be9a-9aad-48cd-a50c-0c23899e66fc",
+      "id": "EROS-MK-3568",
+      "title": "Eight Minutes Twenty Seconds",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/longwave_1920x1080.png",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/Eight-Minutes-Twenty-Seconds.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "wakener",
   "label": "WAKENER",
-  "count": 1,
+  "count": 6,
   "records": [
     {
       "uuid": "8599f72d-21c8-47ad-8795-cf2c1604af99",
@@ -14,6 +14,71 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/8599f72d-21c8-47ad-8795-cf2c1604af99.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/8599f72d-21c8-47ad-8795-cf2c1604af99.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "8dbb0285-bbda-422d-8a20-334f16427feb",
+      "id": "EROS-LB-437",
+      "title": "Virus Collab � Drone",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/8dbb0285-bbda-422d-8a20-334f16427feb.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/8dbb0285-bbda-422d-8a20-334f16427feb.mp3",
+      "hash": "bcf688ef3639a13df984612b9c0b07cd859c125c24603ed97310d77cde653a67",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "77d166c7-1c60-4564-a602-ad2fb8ec9982",
+      "id": "EROS-LB-1112",
+      "title": "Circus Erotic",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/77d166c7-1c60-4564-a602-ad2fb8ec9982.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "57a81562-cd69-4139-8991-f45433f74f6f",
+      "id": "EROS-LB-1298",
+      "title": "Worship your Goddess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/57a81562-cd69-4139-8991-f45433f74f6f.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/57a81562-cd69-4139-8991-f45433f74f6f.wav",
+      "hash": "acea3c1ed033a857c5c40f186bfc482b182a7010db1d7def4567996c2f53c780",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f3d92cea-aaf1-4b63-bbb7-ae5b8c9dfe94",
+      "id": "EROS-LB-1440",
+      "title": "Focus Training",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/f3d92cea-aaf1-4b63-bbb7-ae5b8c9dfe94.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/f3d92cea-aaf1-4b63-bbb7-ae5b8c9dfe94.mp3",
+      "hash": "56b47f53070c832f66f33b63f4fe62de396128801405f86d127ae48a3775a7b1",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4c11d994-f083-4455-b5b5-86fe02c313d5",
+      "id": "EROS-LB-1727",
+      "title": "How to Resist Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/4c11d994-f083-4455-b5b5-86fe02c313d5.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/4c11d994-f083-4455-b5b5-86fe02c313d5.mp3",
+      "hash": "530dcd7e854a6aac94eff22315a5d9e85293c3977aee757dd7818ac571627c5a",
       "status": "ACTIVE"
     }
   ]

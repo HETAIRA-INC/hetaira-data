@@ -1,7 +1,7 @@
 {
   "slug": "boss",
   "label": "BOSS",
-  "count": 5,
+  "count": 8,
   "records": [
     {
       "uuid": "a42120ff-13ee-47c0-8359-216bf928deb9",
@@ -66,6 +66,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5cc7ced1-fb44-4184-a92d-c2b0aae26314.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5cc7ced1-fb44-4184-a92d-c2b0aae26314.mp3",
       "hash": "c4595e835a793b8dea3a1beeb411272cc64c21a57d328e7730d1d938eec8e535",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0c1dd6d-3278-4fa0-8144-438065393707",
+      "id": "EROS-MK-2791",
+      "title": "Your Creativity Belongs to CaliaCorp",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/creativity.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2791/your-creativity-belongs-to-caliacorp.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e4efe4dd-0857-44f2-941a-bf7de3fa9dfa",
+      "id": "EROS-MK-2793",
+      "title": "Your New Role at CaliaCorp",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/newrole.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2793/your-new-role-at-caliacorp.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

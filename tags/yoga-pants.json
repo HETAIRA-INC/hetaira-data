@@ -1,7 +1,7 @@
 {
   "slug": "yoga-pants",
   "label": "YOGA PANTS",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "5e3ed04e-1e6d-4866-b7a6-bd0ac96b3243",
@@ -14,6 +14,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5e3ed04e-1e6d-4866-b7a6-bd0ac96b3243.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5e3ed04e-1e6d-4866-b7a6-bd0ac96b3243.mp3",
       "hash": "17c6dd87d6d521af79e04d2ad26de0f0ecd234d563fb665d488ab9868150bb44",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b6fd9171-782c-48ca-86f4-f36579437caa",
+      "id": "EROS-MK-2329",
+      "title": "Yoga Instructor Takes Control",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/03/yoga.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2329/yoga-instructor-takes-control.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "51cf7de2-e748-403b-97a6-e077b38ea21d",
+      "id": "EROS-MK-4380",
+      "title": "Public Squirming Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/09/publicsquirm_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4380/public-squirming-hypnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

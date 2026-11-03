@@ -1,7 +1,7 @@
 {
   "slug": "hunter-and-prey",
   "label": "HUNTER AND PREY",
-  "count": 2,
+  "count": 4,
   "records": [
     {
       "uuid": "9c694cf3-993d-4068-aa0b-6b71ee5b42cb",
@@ -27,6 +27,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/e3a0af73-dcea-4c7e-ba06-f736892f19f0.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/e3a0af73-dcea-4c7e-ba06-f736892f19f0.mp3",
       "hash": "b83eac85ae7eb400abad99abf9b7ce23634d10b6e455c8de5fd2226e7677323a",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "839687c5-5038-41ec-979e-43ada261b4cc",
+      "id": "EROS-MK-2981",
+      "title": "Beware the Energy Vampire",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/energy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2981/beware-the-energy-vampire.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0a0c2b7-db46-4bd1-8fde-7c53174df1d2",
+      "id": "EROS-MK-4631",
+      "title": "Curse of Constant Pleasure",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/cursepleasure.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/06/curse-of-constant-pleasure_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

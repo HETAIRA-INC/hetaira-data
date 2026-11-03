@@ -1,7 +1,7 @@
 {
   "slug": "induction-progressive-muscle-relaxation",
   "label": "INDUCTION: PROGRESSIVE MUSCLE RELAXATION",
-  "count": 3,
+  "count": 8,
   "records": [
     {
       "uuid": "44fd12a2-1166-4c68-be89-5ffbe44a8b53",
@@ -40,6 +40,71 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/d3035d8d-45fc-4a9a-80f4-eac8bde81631.png",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/d3035d8d-45fc-4a9a-80f4-eac8bde81631.mp3",
       "hash": "14bff73b7bd9540c7d33ad4813d65fa243607246fa8bec2ef86d6a1da86373dc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fcd2784a-3eb4-4a1b-8aed-21712d947f3d",
+      "id": "EROS-MK-2942",
+      "title": "True Love�s Curse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/truelove.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/True-Loves-Curse.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5f577120-f0e0-40f8-9e6d-7b6875de3736",
+      "id": "EROS-MK-2974",
+      "title": "Sleep for Your Lamia Girlfriend",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/04/lamiasleepnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/Lamia-Sleep-CST.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32f394c1-72ec-4032-8896-aabf1ee30de7",
+      "id": "EROS-MK-3052",
+      "title": "The Picture of Trance",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/selfie.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/10/Selfie_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d1ed755f-6428-4226-8d5f-8e508868f39a",
+      "id": "EROS-MK-3549",
+      "title": "The Girl of Your Dreams is a Demon!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/sleepdemon_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3549/the-girl-of-your-dreams-is-a-demon.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "60ea09a9-beb3-415c-b4b5-368233c3c8c9",
+      "id": "EROS-MK-4909",
+      "title": "Become My Body Pillow Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/pillow.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4909/become-my-body-pillow-hypnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

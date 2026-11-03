@@ -1,7 +1,7 @@
 {
   "slug": "caliacorp",
   "label": "CALIACORP",
-  "count": 4,
+  "count": 9,
   "records": [
     {
       "uuid": "62078181-9c51-458c-b10e-cd4b77eeaef2",
@@ -53,6 +53,71 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5cc7ced1-fb44-4184-a92d-c2b0aae26314.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5cc7ced1-fb44-4184-a92d-c2b0aae26314.mp3",
       "hash": "c4595e835a793b8dea3a1beeb411272cc64c21a57d328e7730d1d938eec8e535",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "08ff3ea1-2a91-4c08-a0c8-f354fd229ba4",
+      "id": "EROS-MK-2781",
+      "title": "CaliaCorp Focus Training",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/focus.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2781/caliacorp-focus-training.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c151ff00-1cdc-4c0c-8c8a-9b187c6fff2f",
+      "id": "EROS-MK-2784",
+      "title": "CaliaCorp: Mindfulness Meditation",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/mindful.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2784/caliacorp-mindfulness-meditation.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1f6e03c6-2a97-41c6-adda-9fdd682fe2aa",
+      "id": "EROS-MK-2787",
+      "title": "CaliaCorp: Your New Assistant",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/assistant.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2787/caliacorp-your-new-assistant.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0c1dd6d-3278-4fa0-8144-438065393707",
+      "id": "EROS-MK-2791",
+      "title": "Your Creativity Belongs to CaliaCorp",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/creativity.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2791/your-creativity-belongs-to-caliacorp.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e4efe4dd-0857-44f2-941a-bf7de3fa9dfa",
+      "id": "EROS-MK-2793",
+      "title": "Your New Role at CaliaCorp",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/newrole.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2793/your-new-role-at-caliacorp.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

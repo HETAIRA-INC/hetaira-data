@@ -1,7 +1,7 @@
 {
   "slug": "virus",
   "label": "VIRUS",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "fbfbd842-af00-4a64-8904-54c7b265f69c",
@@ -14,6 +14,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fbfbd842-af00-4a64-8904-54c7b265f69c.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fbfbd842-af00-4a64-8904-54c7b265f69c.mp3",
       "hash": "f3849336207a8e83f58024aeaf3335ca4931b8a7983cef82b45086eee80a551b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7ae8a94b-55f8-4137-b432-232722b3f9b5",
+      "id": "EROS-MK-2817",
+      "title": "Calia AI Challenge � Level 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/ai2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2817/calia-ai-challenge-level-2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "52a8fdee-e1f6-4b49-8052-6ced1b496fff",
+      "id": "EROS-MK-2824",
+      "title": "The Collective Virus: Warning",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/virus.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2824/the-collective-virus-warning.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

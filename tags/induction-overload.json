@@ -1,7 +1,7 @@
 {
   "slug": "induction-overload",
   "label": "INDUCTION: OVERLOAD",
-  "count": 1,
+  "count": 4,
   "records": [
     {
       "uuid": "29df1600-2080-485c-85cc-ed2be93fe336",
@@ -14,6 +14,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/29df1600-2080-485c-85cc-ed2be93fe336.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/29df1600-2080-485c-85cc-ed2be93fe336.mp3",
       "hash": "b70eadfff773320310b66eb31e566ad3fec552b2bee778bad307ba87edba51d9",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c151ff00-1cdc-4c0c-8c8a-9b187c6fff2f",
+      "id": "EROS-MK-2784",
+      "title": "CaliaCorp: Mindfulness Meditation",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/mindful.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2784/caliacorp-mindfulness-meditation.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "036d09d1-0025-4bb2-9bc1-46aeff7fad74",
+      "id": "EROS-MK-3091",
+      "title": "Wrapped in My Tentacles",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/tentacles.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3091/wrapped-in-my-tentacles.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4b843293-4c44-4570-815a-b2d7f0835ce9",
+      "id": "EROS-MK-3548",
+      "title": "Your Brain on Overload Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/overload.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3548/your-brain-on-overload-hypnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "self-improvement",
   "label": "SELF-IMPROVEMENT",
-  "count": 6,
+  "count": 10,
   "records": [
     {
       "uuid": "b677e45f-4e0a-48db-9682-b030145bd59a",
@@ -79,6 +79,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/91532231-7461-49e8-81a1-1e1ce1a50448.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/91532231-7461-49e8-81a1-1e1ce1a50448.mp3",
       "hash": "b9c76a80984f309c32d440f266d846f08234ed7d5fd2a60369e7765a4df56696",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "937dc35c-f7fc-462a-b11f-f5e4bd4669ea",
+      "id": "EROS-MK-2651",
+      "title": "Neat Freak Makes You Clean",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/05/neatfreak_1920x1080_wm-1024x576.png",
+      "file": "https://mistresscalia.com/audioprotectsample/2651/neat-freak-makes-you-clean.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "23ee13f1-a656-4f57-b894-c457cef56c7a",
+      "id": "EROS-MK-2960",
+      "title": "Alpha Male Affirmations",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/alpha.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/Alpha-Male.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c1a230be-9146-4aa0-9f0d-e4f609b69d93",
+      "id": "EROS-MK-2999",
+      "title": "The Final Debate",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/vote4.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2999/the-final-debate.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f7b4cc7c-8f13-40c3-af1f-cff6f3325d51",
+      "id": "EROS-MK-3429",
+      "title": "Workout Motivation Brainwash Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/workout.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3429/workout-motivation-brainwash-loop.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

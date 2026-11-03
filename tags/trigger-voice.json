@@ -1,7 +1,7 @@
 {
   "slug": "trigger-voice",
   "label": "TRIGGER: VOICE",
-  "count": 4,
+  "count": 5,
   "records": [
     {
       "uuid": "31a1d64a-4da9-44ea-a108-a5b96bacb549",
@@ -53,6 +53,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ebba0818-acde-443f-9306-5ce612167587.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ebba0818-acde-443f-9306-5ce612167587.mp3",
       "hash": "5711e629d3064271af0e3d1e2c25188ce4bf9c28946fa08cd1dfa71751ad7f46",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4036c835-c4b2-4d12-bf43-c1474c31dd17",
+      "id": "EROS-MK-2085",
+      "title": "The Room Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/4036c835-c4b2-4d12-bf43-c1474c31dd17.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/4036c835-c4b2-4d12-bf43-c1474c31dd17.mp3",
+      "hash": "c8a5493f965294e67e9f1a9f53f2b7ca2a284cf9805a4edaa3c63ef5167a36b1",
       "status": "ACTIVE"
     }
   ]

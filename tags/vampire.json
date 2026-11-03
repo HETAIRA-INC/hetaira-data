@@ -1,7 +1,7 @@
 {
   "slug": "vampire",
   "label": "VAMPIRE",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "9c694cf3-993d-4068-aa0b-6b71ee5b42cb",
@@ -14,6 +14,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9c694cf3-993d-4068-aa0b-6b71ee5b42cb.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9c694cf3-993d-4068-aa0b-6b71ee5b42cb.mp3",
       "hash": "1f13f8c4b3168b6eafb46e984a0fb9e21490916bde0471540d4aaed8eb4acd42",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "839687c5-5038-41ec-979e-43ada261b4cc",
+      "id": "EROS-MK-2981",
+      "title": "Beware the Energy Vampire",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/energy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2981/beware-the-energy-vampire.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

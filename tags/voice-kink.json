@@ -1,7 +1,7 @@
 {
   "slug": "voice-kink",
   "label": "VOICE KINK",
-  "count": 5,
+  "count": 12,
   "records": [
     {
       "uuid": "64326652-4c82-4b3a-9cf1-a9b89a46f55d",
@@ -66,6 +66,97 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ebba0818-acde-443f-9306-5ce612167587.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ebba0818-acde-443f-9306-5ce612167587.mp3",
       "hash": "5711e629d3064271af0e3d1e2c25188ce4bf9c28946fa08cd1dfa71751ad7f46",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e14e62c4-6f57-43ba-aabf-1d863826a09c",
+      "id": "EROS-MK-2402",
+      "title": "Hypnosis on the Bus Binaural",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/bus.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2402/hypnosis-on-the-bus-binaural.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "313618bd-edb2-484c-8ae6-c981fcfc7295",
+      "id": "EROS-MK-3510",
+      "title": "Your Medicine Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/medicine_1920x1080.png",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/01/Medicine_mixdown2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "57c83cdb-de93-40a2-b82f-52b6830ccdcd",
+      "id": "EROS-MK-4091",
+      "title": "Cheer Squad Confidential ft. Sammys and Gigi!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/Cheersquadv1.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4091/cheer-squad-confidential-ft-sammys-and-gigi.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e56fcd38-bbfd-4862-96d8-ab1804a56aa2",
+      "id": "EROS-MK-4627",
+      "title": "The Girl Next Door�s Secret",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/girlnextdoor.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4627/the-girl-next-doors-secret.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0775968-06b9-43cb-8bf7-213a3dc75091",
+      "id": "EROS-MK-4647",
+      "title": "Horny for Your Collar Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/collared.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4647/horny-for-your-collar-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d189f92c-d04e-4634-9a3d-4983981f2c82",
+      "id": "EROS-MK-4714",
+      "title": "Gentle Hypno4*$$^%^43b",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Glitch.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4714/gentle-hypno443b.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e7b15e48-17b7-465c-a875-f97c7b222711",
+      "id": "EROS-MK-4913",
+      "title": "I�m SO Sorry for Hypnotizing You!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/sosorry.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4913/im-so-sorry-for-hypnotizing-you.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

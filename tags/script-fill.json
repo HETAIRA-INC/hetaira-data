@@ -1,7 +1,7 @@
 {
   "slug": "script-fill",
   "label": "SCRIPT FILL",
-  "count": 2,
+  "count": 6,
   "records": [
     {
       "uuid": "a6bd8075-b768-4f56-b3e4-1300ee8bb767",
@@ -27,6 +27,58 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d774a559-19f5-46aa-9ba6-093d188c4e71.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d774a559-19f5-46aa-9ba6-093d188c4e71.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fd094451-2968-410a-a380-8e0cbc3a0abf",
+      "id": "EROS-LB-942",
+      "title": "Busy Thoughts Departing in 5, 4, 3�",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/fd094451-2968-410a-a380-8e0cbc3a0abf.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/fd094451-2968-410a-a380-8e0cbc3a0abf.mp3",
+      "hash": "6be4d714fdd769d08e6ec4edab1e4a27401edfadeda1a35123fdc3ca8a34637d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90bf5eac-67c8-4545-aece-4e2d64e4233a",
+      "id": "EROS-LB-954",
+      "title": "Let�s Pretend.. Horny and Hypnotized",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/90bf5eac-67c8-4545-aece-4e2d64e4233a.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "860b6e87-8fd1-45ea-9e61-4ab41345622c",
+      "id": "EROS-LB-1313",
+      "title": "Visit From The Succubus",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/860b6e87-8fd1-45ea-9e61-4ab41345622c.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4c11d994-f083-4455-b5b5-86fe02c313d5",
+      "id": "EROS-LB-1727",
+      "title": "How to Resist Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/4c11d994-f083-4455-b5b5-86fe02c313d5.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/4c11d994-f083-4455-b5b5-86fe02c313d5.mp3",
+      "hash": "530dcd7e854a6aac94eff22315a5d9e85293c3977aee757dd7818ac571627c5a",
       "status": "ACTIVE"
     }
   ]

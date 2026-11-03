@@ -1,7 +1,7 @@
 {
   "slug": "trigger-rise",
   "label": "TRIGGER: RISE",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "3321795b-026b-4b02-bebc-a972762c98c1",
@@ -14,6 +14,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/3321795b-026b-4b02-bebc-a972762c98c1.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/3321795b-026b-4b02-bebc-a972762c98c1.mp3",
       "hash": "e8bda8b8b49a96ec1943d957812d9485a1d2c11c020d55977bb7c4a514236132",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "839687c5-5038-41ec-979e-43ada261b4cc",
+      "id": "EROS-MK-2981",
+      "title": "Beware the Energy Vampire",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/energy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2981/beware-the-energy-vampire.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

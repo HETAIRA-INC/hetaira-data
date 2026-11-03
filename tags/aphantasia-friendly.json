@@ -1,8 +1,21 @@
 {
   "slug": "aphantasia-friendly",
   "label": "APHANTASIA-FRIENDLY",
-  "count": 7,
+  "count": 15,
   "records": [
+    {
+      "uuid": "f8e9e765-3db2-4514-a6f7-a9fa0b156b52",
+      "id": "EROS-LB-1642",
+      "title": "Focus: Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/f8e9e765-3db2-4514-a6f7-a9fa0b156b52.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/f8e9e765-3db2-4514-a6f7-a9fa0b156b52.mp3",
+      "hash": "a1b04d0d83243a96954104740bbb2f0d93351e4dce8264b0485d762efed49e03",
+      "status": "ACTIVE"
+    },
     {
       "uuid": "3321795b-026b-4b02-bebc-a972762c98c1",
       "id": "EROS-MK-1112",
@@ -92,6 +105,97 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/91532231-7461-49e8-81a1-1e1ce1a50448.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/91532231-7461-49e8-81a1-1e1ce1a50448.mp3",
       "hash": "b9c76a80984f309c32d440f266d846f08234ed7d5fd2a60369e7765a4df56696",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "937dc35c-f7fc-462a-b11f-f5e4bd4669ea",
+      "id": "EROS-MK-2651",
+      "title": "Neat Freak Makes You Clean",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/05/neatfreak_1920x1080_wm-1024x576.png",
+      "file": "https://mistresscalia.com/audioprotectsample/2651/neat-freak-makes-you-clean.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32f394c1-72ec-4032-8896-aabf1ee30de7",
+      "id": "EROS-MK-3052",
+      "title": "The Picture of Trance",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/selfie.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/10/Selfie_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4b843293-4c44-4570-815a-b2d7f0835ce9",
+      "id": "EROS-MK-3548",
+      "title": "Your Brain on Overload Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/overload.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3548/your-brain-on-overload-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0775968-06b9-43cb-8bf7-213a3dc75091",
+      "id": "EROS-MK-4647",
+      "title": "Horny for Your Collar Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/collared.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4647/horny-for-your-collar-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d189f92c-d04e-4634-9a3d-4983981f2c82",
+      "id": "EROS-MK-4714",
+      "title": "Gentle Hypno4*$$^%^43b",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Glitch.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4714/gentle-hypno443b.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "60ea09a9-beb3-415c-b4b5-368233c3c8c9",
+      "id": "EROS-MK-4909",
+      "title": "Become My Body Pillow Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/pillow.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4909/become-my-body-pillow-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "eb05827f-9534-4daa-b031-eb48dc071410",
+      "id": "EROS-MK-4911",
+      "title": "HFO Training Part One",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/hfo1.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/HFO-Training-1_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "college",
   "label": "COLLEGE",
-  "count": 4,
+  "count": 5,
   "records": [
     {
       "uuid": "8a6ab3f3-d7db-411a-994b-aff9c4e07e96",
@@ -53,6 +53,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.mp3",
       "hash": "789ced78fd1d328a75adf6e41c4432cd41b44d9be73b074e06005985b132a67d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bdcf9e45-c0e1-47e0-a6a9-54f66ca88da6",
+      "id": "EROS-MK-4511",
+      "title": "Your Academic Rival Gives you a HFO",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/exam.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4511/your-academic-rival-gives-you-a-hfo.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

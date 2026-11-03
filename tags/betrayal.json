@@ -1,7 +1,7 @@
 {
   "slug": "betrayal",
   "label": "BETRAYAL",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "2107de22-e960-478f-87ea-45fdbac98d40",
@@ -14,6 +14,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2107de22-e960-478f-87ea-45fdbac98d40.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2107de22-e960-478f-87ea-45fdbac98d40.mp3",
       "hash": "4d6365b4cdcb85a732b85edce414e0fc90ab354e4b4e1fc61c4959fcd4ca6de4",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bdcf9e45-c0e1-47e0-a6a9-54f66ca88da6",
+      "id": "EROS-MK-4511",
+      "title": "Your Academic Rival Gives you a HFO",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/exam.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4511/your-academic-rival-gives-you-a-hfo.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

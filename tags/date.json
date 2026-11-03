@@ -1,8 +1,47 @@
 {
   "slug": "date",
   "label": "DATE",
-  "count": 1,
+  "count": 4,
   "records": [
+    {
+      "uuid": "ab9ff98d-af61-4451-96c8-e95a7878baf7",
+      "id": "EROS-LB-1569",
+      "title": "FORGET",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/ab9ff98d-af61-4451-96c8-e95a7878baf7.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/ab9ff98d-af61-4451-96c8-e95a7878baf7.mp3",
+      "hash": "666b32384e15641a95971665decd8efb6a39cc8deb89a121477392c5f394c6b0",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "689b9b12-bcc9-4ad8-9480-622ce9aa7fca",
+      "id": "EROS-LB-1754",
+      "title": "Yes, Lamb. i’ll Goon for You.",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/689b9b12-bcc9-4ad8-9480-622ce9aa7fca.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/689b9b12-bcc9-4ad8-9480-622ce9aa7fca.mp3",
+      "hash": "0870d15591684fdca355af2b6c03c99f8dbac85e1337a75e32d1ebff4051c037",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "975a2b90-b6cd-46f5-97bd-100e047ad43f",
+      "id": "EROS-LB-1849",
+      "title": "Locked for Lamb.",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/975a2b90-b6cd-46f5-97bd-100e047ad43f.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
     {
       "uuid": "46f9d9bd-add1-4e5b-9ce0-d96e592bd87f",
       "id": "EROS-MK-1557",

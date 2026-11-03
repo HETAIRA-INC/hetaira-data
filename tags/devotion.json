@@ -1,7 +1,7 @@
 {
   "slug": "devotion",
   "label": "DEVOTION",
-  "count": 6,
+  "count": 12,
   "records": [
     {
       "uuid": "02141a90-6bc0-42d2-8927-1cd733473d90",
@@ -80,6 +80,84 @@
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/2727ad56-0373-43d3-be44-c2ed926e3cd3.mp3",
       "hash": "",
       "status": "INACTIVE"
+    },
+    {
+      "uuid": "b3790f96-540e-432b-bcee-68cb4befa453",
+      "id": "EROS-LB-856",
+      "title": "HFO Training Part 3: Ruined Release",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/b3790f96-540e-432b-bcee-68cb4befa453.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "caaaee29-398f-443c-bc99-43a361407a33",
+      "id": "EROS-LB-1015",
+      "title": "Deliciously Devoted Dolls Deserve Deep Dreaming",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/caaaee29-398f-443c-bc99-43a361407a33.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/caaaee29-398f-443c-bc99-43a361407a33.mp3",
+      "hash": "63046eb92d4c6c39f2f7f3864936084534a748d2e76af39fff048912eed9f1a1",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d2b9f845-9f5f-4bee-86d9-4a1f19ee6fc1",
+      "id": "EROS-LB-1127",
+      "title": "The Curse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/d2b9f845-9f5f-4bee-86d9-4a1f19ee6fc1.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/d2b9f845-9f5f-4bee-86d9-4a1f19ee6fc1.mp3",
+      "hash": "22857fba8256a3b18c1c768db7d9f2295632ebe8d6084b54a9172a3f36fadbe6",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "57a81562-cd69-4139-8991-f45433f74f6f",
+      "id": "EROS-LB-1298",
+      "title": "Worship your Goddess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/57a81562-cd69-4139-8991-f45433f74f6f.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/57a81562-cd69-4139-8991-f45433f74f6f.wav",
+      "hash": "acea3c1ed033a857c5c40f186bfc482b182a7010db1d7def4567996c2f53c780",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "860b6e87-8fd1-45ea-9e61-4ab41345622c",
+      "id": "EROS-LB-1313",
+      "title": "Visit From The Succubus",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/860b6e87-8fd1-45ea-9e61-4ab41345622c.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "aa3fafb2-d7ad-45df-99c0-7339776ec698",
+      "id": "EROS-LB-1457",
+      "title": "Worship your Goddess � Loops",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/aa3fafb2-d7ad-45df-99c0-7339776ec698.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/aa3fafb2-d7ad-45df-99c0-7339776ec698.mp3",
+      "hash": "56b47f53070c832f66f33b63f4fe62de396128801405f86d127ae48a3775a7b1",
+      "status": "ACTIVE"
     }
   ]
 }

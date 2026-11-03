@@ -1,7 +1,7 @@
 {
   "slug": "beginner",
   "label": "BEGINNER",
-  "count": 7,
+  "count": 9,
   "records": [
     {
       "uuid": "44fd12a2-1166-4c68-be89-5ffbe44a8b53",
@@ -92,6 +92,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/65b68366-0d27-47c9-b523-70144097804e.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/65b68366-0d27-47c9-b523-70144097804e.mp3",
       "hash": "b190d9b7a7c0d5805fc79f61edcd619ed0e6b18b136e8bfb08b7eee4cebbb177",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e5346877-a616-416e-9526-e90a64491c07",
+      "id": "EROS-MK-3336",
+      "title": "Trance Aid � Pre-Listening",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/12/tranceintro.jpg",
+      "file": "https://mistresscalia.com/audioprotect/3336/trance-aid-pre-listening.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f1f959e2-f0d5-406e-a822-6f736c093f16",
+      "id": "EROS-MK-3431",
+      "title": "The Trance Trap",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/01/trancetrapnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/Trance-Trap_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

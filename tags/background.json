@@ -1,7 +1,7 @@
 {
   "slug": "background",
   "label": "BACKGROUND",
-  "count": 2,
+  "count": 6,
   "records": [
     {
       "uuid": "f6133206-3ff3-4f42-a081-a986ba4cce26",
@@ -27,6 +27,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fc087969-de38-498a-91c1-5316df07f996.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fc087969-de38-498a-91c1-5316df07f996.mp3",
       "hash": "f28c681fde6f1323d728dfc67fac0334c7bfd809ae62dd7fad1f4fd7f13e7aab",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "08ff3ea1-2a91-4c08-a0c8-f354fd229ba4",
+      "id": "EROS-MK-2781",
+      "title": "CaliaCorp Focus Training",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/focus.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2781/caliacorp-focus-training.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f7b4cc7c-8f13-40c3-af1f-cff6f3325d51",
+      "id": "EROS-MK-3429",
+      "title": "Workout Motivation Brainwash Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/workout.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3429/workout-motivation-brainwash-loop.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "675adb2e-b28f-40fa-9859-2aad60f28f9f",
+      "id": "EROS-MK-4004",
+      "title": "Background Leaker Brainwash",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/leaker.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4004/background-leaker-brainwash.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "51cf7de2-e748-403b-97a6-e077b38ea21d",
+      "id": "EROS-MK-4380",
+      "title": "Public Squirming Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/09/publicsquirm_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4380/public-squirming-hypnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

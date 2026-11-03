@@ -1,7 +1,7 @@
 {
   "slug": "fitness",
   "label": "FITNESS",
-  "count": 5,
+  "count": 6,
   "records": [
     {
       "uuid": "427115bd-872d-49ab-8d58-58c4cd3aeb77",
@@ -65,6 +65,19 @@
       "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/33fc95b5-9347-4ca0-a35f-8b3f5371bc32.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/33fc95b5-9347-4ca0-a35f-8b3f5371bc32.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f7b4cc7c-8f13-40c3-af1f-cff6f3325d51",
+      "id": "EROS-MK-3429",
+      "title": "Workout Motivation Brainwash Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/workout.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3429/workout-motivation-brainwash-loop.mp3",
       "hash": "",
       "status": "ACTIVE"
     }

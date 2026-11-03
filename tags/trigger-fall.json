@@ -1,7 +1,7 @@
 {
   "slug": "trigger-fall",
   "label": "TRIGGER: FALL",
-  "count": 2,
+  "count": 7,
   "records": [
     {
       "uuid": "8ca0eb47-dbda-4513-a7bc-51bedf849dd6",
@@ -27,6 +27,71 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/65b68366-0d27-47c9-b523-70144097804e.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/65b68366-0d27-47c9-b523-70144097804e.mp3",
       "hash": "b190d9b7a7c0d5805fc79f61edcd619ed0e6b18b136e8bfb08b7eee4cebbb177",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "92c4dd85-fad5-40b7-a1a9-4ead25acf1ad",
+      "id": "EROS-MK-2813",
+      "title": "A Date with Calia",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/09/Date_With_Me_drawing_1920.png",
+      "file": "https://mistresscalia.com/audioprotectsample/2813/a-date-with-calia.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "52a8fdee-e1f6-4b49-8052-6ced1b496fff",
+      "id": "EROS-MK-2824",
+      "title": "The Collective Virus: Warning",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/virus.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2824/the-collective-virus-warning.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "8a2ba523-7aea-4c94-97b3-2d339a575372",
+      "id": "EROS-MK-3462",
+      "title": "The Edge of Sanity",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/01/edgenew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/01/The-Edge-of-Sanity.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d189f92c-d04e-4634-9a3d-4983981f2c82",
+      "id": "EROS-MK-4714",
+      "title": "Gentle Hypno4*$$^%^43b",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Glitch.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4714/gentle-hypno443b.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "22b51401-e680-4f9d-958b-d14e840860da",
+      "id": "EROS-MK-4736",
+      "title": "Latex Slave Transformation",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/latex.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4736/latex-slave-transformation.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

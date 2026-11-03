@@ -1,7 +1,7 @@
 {
   "slug": "girlfriend-experience",
   "label": "GIRLFRIEND EXPERIENCE",
-  "count": 4,
+  "count": 5,
   "records": [
     {
       "uuid": "2481fe20-5c0b-4da6-94d4-64560b3b351f",
@@ -53,6 +53,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5387cbf7-40b2-4fb2-bd98-80756e2701d3.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5387cbf7-40b2-4fb2-bd98-80756e2701d3.mp3",
       "hash": "1c084829a3450ea8a4fe662dc21fbebfe664b1633d484c903936704f67ed40dc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "06b193b5-83c4-41d0-a25c-22e9f7cd5f39",
+      "id": "EROS-MK-3081",
+      "title": "The Outfit Haul � Hypnotic Tease",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/outifthaul.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3081/the-outfit-haul-hypnotic-tease.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

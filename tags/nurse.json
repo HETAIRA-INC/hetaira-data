@@ -1,7 +1,7 @@
 {
   "slug": "nurse",
   "label": "NURSE",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "6f5f3f7f-0afe-49b2-a339-7cb34969ee3a",
@@ -14,6 +14,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/6f5f3f7f-0afe-49b2-a339-7cb34969ee3a.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/6f5f3f7f-0afe-49b2-a339-7cb34969ee3a.mp3",
       "hash": "01401cb2063f4b6cc90ee73b235e25174423734b043d8bc9fa7dfa6cb34b63c7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
       "status": "ACTIVE"
     }
   ]

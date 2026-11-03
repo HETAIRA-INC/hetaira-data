@@ -1,7 +1,7 @@
 {
   "slug": "science-fiction",
   "label": "SCIENCE FICTION",
-  "count": 1,
+  "count": 4,
   "records": [
     {
       "uuid": "ec5242a6-b7eb-4770-bb78-2aa1a0d8615c",
@@ -14,6 +14,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ec5242a6-b7eb-4770-bb78-2aa1a0d8615c.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ec5242a6-b7eb-4770-bb78-2aa1a0d8615c.mp3",
       "hash": "3ce4b8ce5caf11fcde547a6a5a3c5a66e221d71e8a4927e9a6dc77bfe72598d1",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7ae8a94b-55f8-4137-b432-232722b3f9b5",
+      "id": "EROS-MK-2817",
+      "title": "Calia AI Challenge � Level 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/ai2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2817/calia-ai-challenge-level-2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "52a8fdee-e1f6-4b49-8052-6ced1b496fff",
+      "id": "EROS-MK-2824",
+      "title": "The Collective Virus: Warning",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/virus.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2824/the-collective-virus-warning.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "793dafa0-86bf-438f-b79c-27e86b76a5f5",
+      "id": "EROS-MK-3183",
+      "title": "Cult of Calia pt. 4: Ascension",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cult4.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3183/cult-of-calia-pt-4-ascension.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

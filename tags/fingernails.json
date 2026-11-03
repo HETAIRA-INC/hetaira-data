@@ -1,8 +1,21 @@
 {
   "slug": "fingernails",
   "label": "FINGERNAILS",
-  "count": 3,
+  "count": 6,
   "records": [
+    {
+      "uuid": "1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb",
+      "id": "EROS-LB-1798",
+      "title": "No Touch Challenge",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb.mp3",
+      "hash": "cdabcd6c6415b9344c482abd2cced492fdc18c703cb4298641660c6b0d0d13a6",
+      "status": "ACTIVE"
+    },
     {
       "uuid": "2d53749c-70ba-44a8-826f-f52134bb353b",
       "id": "EROS-MK-1071",
@@ -40,6 +53,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/555fd7db-4bdc-4933-bb46-baa4686870c4.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/555fd7db-4bdc-4933-bb46-baa4686870c4.mp3",
       "hash": "9e6e5a2b601cb16872c2a932ff3ff409b6e5cd4cab76fbec0bec29bd2468c035",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90a4747d-a52a-4e9b-a5cc-616d8a00018f",
+      "id": "EROS-MK-3001",
+      "title": "Calia�s Manifesto",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/vote2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3001/calias-manifesto.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "50eddd9c-8a12-46c0-ba80-8072ae1d9e62",
+      "id": "EROS-MK-4516",
+      "title": "Bullied by Your Co-Worker",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/coworker_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4516/bullied-by-your-co-worker.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

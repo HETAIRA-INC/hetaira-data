@@ -1,7 +1,7 @@
 {
   "slug": "pussy-eating",
   "label": "PUSSY EATING",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "f059f06b-0031-4907-b04a-fe488f361fd0",
@@ -13,6 +13,32 @@
       "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/f059f06b-0031-4907-b04a-fe488f361fd0.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/f059f06b-0031-4907-b04a-fe488f361fd0.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "034e5d3b-b157-4e09-93af-f6502f547441",
+      "id": "EROS-LB-1",
+      "title": "Hypnotherapist bullies you into submission",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/034e5d3b-b157-4e09-93af-f6502f547441.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/034e5d3b-b157-4e09-93af-f6502f547441.mp3",
+      "hash": "f676597609a19f917dc49c66b1c02a5ef11fc0aa32ee0cc6f5dc5c35f4766900",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "12939486-f08f-4c2c-bfa3-463053d1a8ed",
+      "id": "EROS-LB-1546",
+      "title": "Addicted To Pussy",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/12939486-f08f-4c2c-bfa3-463053d1a8ed.png",
+      "file": "https://lambhypno.com/wp-content/uploads/2026/03/addicted-to-pussy-preview.mp4",
       "hash": "",
       "status": "ACTIVE"
     }

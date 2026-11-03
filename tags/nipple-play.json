@@ -1,7 +1,7 @@
 {
   "slug": "nipple-play",
   "label": "NIPPLE PLAY",
-  "count": 2,
+  "count": 3,
   "records": [
     {
       "uuid": "ac98ae79-d16a-4926-8957-c0493d6e0529",
@@ -27,6 +27,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/68d9b4a5-e295-4858-84b7-5d0c3619fc73.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/68d9b4a5-e295-4858-84b7-5d0c3619fc73.mp3",
       "hash": "c1a01d5742c152cd011fa8c508a40e0211e42f79eac14e7e806846c38deaf476",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "036d09d1-0025-4bb2-9bc1-46aeff7fad74",
+      "id": "EROS-MK-3091",
+      "title": "Wrapped in My Tentacles",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/tentacles.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3091/wrapped-in-my-tentacles.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

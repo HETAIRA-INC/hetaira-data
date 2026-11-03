@@ -1,7 +1,7 @@
 {
   "slug": "glowing-eyes",
   "label": "GLOWING EYES",
-  "count": 2,
+  "count": 7,
   "records": [
     {
       "uuid": "8ca0eb47-dbda-4513-a7bc-51bedf849dd6",
@@ -27,6 +27,71 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/e3a0af73-dcea-4c7e-ba06-f736892f19f0.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/e3a0af73-dcea-4c7e-ba06-f736892f19f0.mp3",
       "hash": "b83eac85ae7eb400abad99abf9b7ce23634d10b6e455c8de5fd2226e7677323a",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d35a0c1e-6730-4029-860e-41516ae38702",
+      "id": "EROS-MK-2850",
+      "title": "VTuber Hypnotizes You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/08/vtuber.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3991/look-into-my-eyes-vtuber-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5f577120-f0e0-40f8-9e6d-7b6875de3736",
+      "id": "EROS-MK-2974",
+      "title": "Sleep for Your Lamia Girlfriend",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/04/lamiasleepnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/Lamia-Sleep-CST.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90f6b4dc-02b4-474c-9423-532e30376458",
+      "id": "EROS-MK-3781",
+      "title": "Medusa Turns You To Stone",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/medusa.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3781/medusa-turns-you-to-stone.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f1019096-732b-4cad-9359-07aa94ca9b42",
+      "id": "EROS-MK-4514",
+      "title": "Lamia Hypnosis 2: After Work",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/04/lamia2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4514/lamia-hypnosis-2-after-work.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "19571d5e-fab2-4b64-8632-00e8d54b26de",
+      "id": "EROS-MK-4725",
+      "title": "Lamia Girlfriend and the Succubus",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/10/lamiasucc.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4725/lamia-girlfriend-and-the-succubus.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

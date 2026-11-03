@@ -1,7 +1,7 @@
 {
   "slug": "prejac-training",
   "label": "PREJAC TRAINING",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "6972fc7b-541f-40ef-b8fb-a4b30bf17c23",
@@ -14,6 +14,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/6972fc7b-541f-40ef-b8fb-a4b30bf17c23.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/6972fc7b-541f-40ef-b8fb-a4b30bf17c23.mp3",
       "hash": "0b367802434ae7ec27ae811c37338643ef27db7c596fe43a74de19817e263e3b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d9af8485-1f7c-4b52-b866-5d2febb743e2",
+      "id": "EROS-LB-1616",
+      "title": "Lamb’s Prejac Brainwashing",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/d9af8485-1f7c-4b52-b866-5d2febb743e2.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/d9af8485-1f7c-4b52-b866-5d2febb743e2.mp3",
+      "hash": "6dd6f1cf0926ebd2448af7c22d3f988c0e90b7093369a04684b776edd34b57a6",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "trigger-mindless",
   "label": "TRIGGER: MINDLESS",
-  "count": 6,
+  "count": 8,
   "records": [
     {
       "uuid": "848c196a-2fe0-44b0-a3fa-4ab7ccfec167",
@@ -79,6 +79,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2f1dcfe7-0b93-49b1-88ea-6d5d6cf606bb.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2f1dcfe7-0b93-49b1-88ea-6d5d6cf606bb.mp3",
       "hash": "fb2c31170a898b6701433e5179c092049ab27d12b6579183af376a064381e541",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d79a4eb6-6c1e-4572-ab8b-b6fa41fbae2c",
+      "id": "EROS-MK-2982",
+      "title": "Hotel Room Hypnoslave",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/hotel.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2982/hotel-room-hypnoslave.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4d083773-da9b-4689-aa98-e952beb8d9d0",
+      "id": "EROS-MK-3283",
+      "title": "Never Have I Ever",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Neverhave.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3283/never-have-i-ever.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

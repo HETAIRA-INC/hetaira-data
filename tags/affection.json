@@ -1,7 +1,7 @@
 {
   "slug": "affection",
   "label": "AFFECTION",
-  "count": 3,
+  "count": 5,
   "records": [
     {
       "uuid": "17ca123f-24e5-4e05-80a8-8c780b0e399a",
@@ -40,6 +40,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/8a7e7e97-acb1-46fd-8440-af00b9f8c58a.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/8a7e7e97-acb1-46fd-8440-af00b9f8c58a.mp3",
       "hash": "797ec4a3e0e43fa86dc6916e92febde353117147fcde89c4536e68cb74e27ee7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ea497b72-9a62-4f1c-88eb-68d556979159",
+      "id": "EROS-LB-1268",
+      "title": "What�s In A Heart?",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/ea497b72-9a62-4f1c-88eb-68d556979159.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/ea497b72-9a62-4f1c-88eb-68d556979159.wav",
+      "hash": "4013680f9dd2ed9a58a6e21dd13208eb6cd67e4232d1f5b335fb82fd72474b34",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "db6b4188-36f3-4220-964d-c11d26c7390b",
+      "id": "EROS-LB-1708",
+      "title": "Manager Catches You Listening to Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/db6b4188-36f3-4220-964d-c11d26c7390b.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/db6b4188-36f3-4220-964d-c11d26c7390b.wav",
+      "hash": "1c2aef620ea677f65e4dc58343c24f7462414741ed9ec6a2bf62df39a7cfc234",
       "status": "ACTIVE"
     }
   ]

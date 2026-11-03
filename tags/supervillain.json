@@ -1,7 +1,7 @@
 {
   "slug": "supervillain",
   "label": "SUPERVILLAIN",
-  "count": 2,
+  "count": 6,
   "records": [
     {
       "uuid": "ff94ec65-e724-4ad9-9342-5d313eeaffd7",
@@ -27,6 +27,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fbfbd842-af00-4a64-8904-54c7b265f69c.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fbfbd842-af00-4a64-8904-54c7b265f69c.mp3",
       "hash": "f3849336207a8e83f58024aeaf3335ca4931b8a7983cef82b45086eee80a551b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f655489b-ae79-43f5-937e-59bcea3d9f7e",
+      "id": "EROS-MK-2809",
+      "title": "Battle with a Villainess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/villainess.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2809/battle-with-a-villainess.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "525da51f-fba6-4502-9d9f-c14f3017cd35",
+      "id": "EROS-MK-3734",
+      "title": "Symbiote Partner Cuckolds You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/symbcuck.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3734/symbiote-partner-cuckolds-you.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "56679e33-0c31-4c82-b3bd-10e598f975c4",
+      "id": "EROS-MK-4915",
+      "title": "Ivy�s Hypnotic Hands Free Orgasm",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Ivy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4915/ivys-hypnotic-hands-free-orgasm.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

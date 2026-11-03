@@ -1,7 +1,7 @@
 {
   "slug": "only-me",
   "label": "ONLY ME",
-  "count": 7,
+  "count": 8,
   "records": [
     {
       "uuid": "3321795b-026b-4b02-bebc-a972762c98c1",
@@ -92,6 +92,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/bd6cd3d6-ef9e-4fbc-8f68-8159f8ce9838.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/bd6cd3d6-ef9e-4fbc-8f68-8159f8ce9838.mp3",
       "hash": "a39b6c4dacd0be6a37891a50b97af3c6afffc718977b6c60e76ebccd8b03b80f",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
       "status": "ACTIVE"
     }
   ]

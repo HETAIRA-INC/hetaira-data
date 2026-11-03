@@ -1,7 +1,7 @@
 {
   "slug": "trigger-red",
   "label": "TRIGGER: RED",
-  "count": 2,
+  "count": 3,
   "records": [
     {
       "uuid": "08ac802a-dcb9-493d-b8a6-825da78980d5",
@@ -27,6 +27,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5cc7ced1-fb44-4184-a92d-c2b0aae26314.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5cc7ced1-fb44-4184-a92d-c2b0aae26314.mp3",
       "hash": "c4595e835a793b8dea3a1beeb411272cc64c21a57d328e7730d1d938eec8e535",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "92c4dd85-fad5-40b7-a1a9-4ead25acf1ad",
+      "id": "EROS-MK-2813",
+      "title": "A Date with Calia",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/09/Date_With_Me_drawing_1920.png",
+      "file": "https://mistresscalia.com/audioprotectsample/2813/a-date-with-calia.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

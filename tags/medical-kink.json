@@ -1,7 +1,7 @@
 {
   "slug": "medical-kink",
   "label": "MEDICAL KINK",
-  "count": 1,
+  "count": 7,
   "records": [
     {
       "uuid": "6f5f3f7f-0afe-49b2-a339-7cb34969ee3a",
@@ -14,6 +14,84 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/6f5f3f7f-0afe-49b2-a339-7cb34969ee3a.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/6f5f3f7f-0afe-49b2-a339-7cb34969ee3a.mp3",
       "hash": "01401cb2063f4b6cc90ee73b235e25174423734b043d8bc9fa7dfa6cb34b63c7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7cb05a77-f5b4-4cd8-a386-149f2ce3b9a8",
+      "id": "EROS-MK-1801",
+      "title": "MC Ultra Experiment 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/7cb05a77-f5b4-4cd8-a386-149f2ce3b9a8.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/7cb05a77-f5b4-4cd8-a386-149f2ce3b9a8.mp3",
+      "hash": "9091d418c2252bdcd7390c3434f29251a52b007d9a360833c6c464f1bd3c5ac2",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "3aa47334-96e5-4928-8cb5-1800be282322",
+      "id": "EROS-MK-1816",
+      "title": "MC Ultra Experiment 4",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/3aa47334-96e5-4928-8cb5-1800be282322.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/3aa47334-96e5-4928-8cb5-1800be282322.mp3",
+      "hash": "ee4bd9fc9f3ce3a3c00beb11be0030add6f0688146f1a4b1ce22815b7b110394",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "793dafa0-86bf-438f-b79c-27e86b76a5f5",
+      "id": "EROS-MK-3183",
+      "title": "Cult of Calia pt. 4: Ascension",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cult4.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3183/cult-of-calia-pt-4-ascension.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "313618bd-edb2-484c-8ae6-c981fcfc7295",
+      "id": "EROS-MK-3510",
+      "title": "Your Medicine Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/medicine_1920x1080.png",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/01/Medicine_mixdown2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2d00fbec-0ff2-4f6a-b512-cf2f172b358e",
+      "id": "EROS-MK-4389",
+      "title": "Mind Controlled by the Doctor",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/05/Doctor_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4389/mind-controlled-by-the-doctor.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "22b51401-e680-4f9d-958b-d14e840860da",
+      "id": "EROS-MK-4736",
+      "title": "Latex Slave Transformation",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/latex.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4736/latex-slave-transformation.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

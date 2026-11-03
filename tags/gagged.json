@@ -1,7 +1,7 @@
 {
   "slug": "gagged",
   "label": "GAGGED",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "0778b739-6b20-49df-bde4-f3f7fc207aaa",
@@ -14,6 +14,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/0778b739-6b20-49df-bde4-f3f7fc207aaa.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/0778b739-6b20-49df-bde4-f3f7fc207aaa.mp3",
       "hash": "402fa076ba6bf70eeb3edb64688cd76bb4db42d783a9632edc7e3ef8635dd452",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "77d166c7-1c60-4564-a602-ad2fb8ec9982",
+      "id": "EROS-LB-1112",
+      "title": "Circus Erotic",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/77d166c7-1c60-4564-a602-ad2fb8ec9982.jpg",
+      "file": "",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

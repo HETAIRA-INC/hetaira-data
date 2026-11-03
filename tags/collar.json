@@ -1,7 +1,7 @@
 {
   "slug": "collar",
   "label": "COLLAR",
-  "count": 4,
+  "count": 12,
   "records": [
     {
       "uuid": "85877804-3211-4bd6-845d-e2ddbde4b0b6",
@@ -53,6 +53,110 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/bd6cd3d6-ef9e-4fbc-8f68-8159f8ce9838.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/bd6cd3d6-ef9e-4fbc-8f68-8159f8ce9838.mp3",
       "hash": "a39b6c4dacd0be6a37891a50b97af3c6afffc718977b6c60e76ebccd8b03b80f",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d79a4eb6-6c1e-4572-ab8b-b6fa41fbae2c",
+      "id": "EROS-MK-2982",
+      "title": "Hotel Room Hypnoslave",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/hotel.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2982/hotel-room-hypnoslave.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "89db8674-352e-4bae-8af5-cbab96564e33",
+      "id": "EROS-MK-3087",
+      "title": "The Voice Inside Your Mind",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/10/inyourhead_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3087/the-voice-inside-your-mind.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d6c705ce-888a-4ed8-af8e-fd6faa5d2dba",
+      "id": "EROS-MK-3772",
+      "title": "Puppy Obedience Part 3",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/puppy3.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3772/puppy-obedience-part-3.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "57c83cdb-de93-40a2-b82f-52b6830ccdcd",
+      "id": "EROS-MK-4091",
+      "title": "Cheer Squad Confidential ft. Sammys and Gigi!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/Cheersquadv1.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4091/cheer-squad-confidential-ft-sammys-and-gigi.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2d00fbec-0ff2-4f6a-b512-cf2f172b358e",
+      "id": "EROS-MK-4389",
+      "title": "Mind Controlled by the Doctor",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/05/Doctor_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4389/mind-controlled-by-the-doctor.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1a632572-06c6-4374-8730-c39f321c72e6",
+      "id": "EROS-MK-4398",
+      "title": "The Ice Queen�s Sister",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/icequeen2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4398/the-ice-queens-sister.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0775968-06b9-43cb-8bf7-213a3dc75091",
+      "id": "EROS-MK-4647",
+      "title": "Horny for Your Collar Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/collared.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4647/horny-for-your-collar-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32a34592-fb91-448e-accc-566f12c0727b",
+      "id": "EROS-MK-4712",
+      "title": "Clicker Trained by a Goth",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Gothclick.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4712/clicker-trained-by-a-goth.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

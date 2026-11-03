@@ -1,7 +1,7 @@
 {
   "slug": "confession",
   "label": "CONFESSION",
-  "count": 1,
+  "count": 7,
   "records": [
     {
       "uuid": "10140583-4dbc-40e1-aa49-b5d81bc1afcd",
@@ -14,6 +14,84 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/10140583-4dbc-40e1-aa49-b5d81bc1afcd.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/10140583-4dbc-40e1-aa49-b5d81bc1afcd.mp3",
       "hash": "7ac0d1703addf4766d84df90945de60d40fe85a835f9d9bd7e126041fed187b1",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7cb05a77-f5b4-4cd8-a386-149f2ce3b9a8",
+      "id": "EROS-MK-1801",
+      "title": "MC Ultra Experiment 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/7cb05a77-f5b4-4cd8-a386-149f2ce3b9a8.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/7cb05a77-f5b4-4cd8-a386-149f2ce3b9a8.mp3",
+      "hash": "9091d418c2252bdcd7390c3434f29251a52b007d9a360833c6c464f1bd3c5ac2",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "3aa47334-96e5-4928-8cb5-1800be282322",
+      "id": "EROS-MK-1816",
+      "title": "MC Ultra Experiment 4",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/3aa47334-96e5-4928-8cb5-1800be282322.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/3aa47334-96e5-4928-8cb5-1800be282322.mp3",
+      "hash": "ee4bd9fc9f3ce3a3c00beb11be0030add6f0688146f1a4b1ce22815b7b110394",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6db6ce1f-ef76-4501-abd3-be1bef36ec99",
+      "id": "EROS-MK-2815",
+      "title": "The Detective�s Confession",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/prison_1920x1080_1.png",
+      "file": "https://mistresscalia.com/audioprotectsample/2815/the-detectives-confession.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4ac38b80-cf85-4e96-b3f1-580d1c55c3f1",
+      "id": "EROS-MK-3330",
+      "title": "Good Cop, Bad Cop ft. Loops",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cop.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/good-cop-bad-cythnytbop-WITH-PANNING.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "57c83cdb-de93-40a2-b82f-52b6830ccdcd",
+      "id": "EROS-MK-4091",
+      "title": "Cheer Squad Confidential ft. Sammys and Gigi!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/Cheersquadv1.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4091/cheer-squad-confidential-ft-sammys-and-gigi.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "prejac",
   "label": "PREJAC",
-  "count": 8,
+  "count": 11,
   "records": [
     {
       "uuid": "c72e1515-9556-4df7-923d-47735ef02fad",
@@ -105,6 +105,45 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/1046db2a-21de-4e87-9c4e-65ae0d9fafb8.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/f97527a5-34d9-4bc9-89f9-a518633d0cfc.mp3",
       "hash": "1deab61c2ab91881d5af7348f8a802c780ada0d2b1322fd435026de1bc733f4b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d9af8485-1f7c-4b52-b866-5d2febb743e2",
+      "id": "EROS-LB-1616",
+      "title": "Lamb’s Prejac Brainwashing",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/d9af8485-1f7c-4b52-b866-5d2febb743e2.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/d9af8485-1f7c-4b52-b866-5d2febb743e2.mp3",
+      "hash": "6dd6f1cf0926ebd2448af7c22d3f988c0e90b7093369a04684b776edd34b57a6",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "597d0bb4-bccb-4f9e-bcaf-c148a4dfe71c",
+      "id": "EROS-LB-1664",
+      "title": "Caught Between Us",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/597d0bb4-bccb-4f9e-bcaf-c148a4dfe71c.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/597d0bb4-bccb-4f9e-bcaf-c148a4dfe71c.wav",
+      "hash": "6ea1dd3576718f88547bbfdd5ec0b7bc084b9ab09f8563865e492fe0f75b122c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "28ab2bd6-f1c1-4b9f-b00b-8d31949c0995",
+      "id": "EROS-MK-4900",
+      "title": "Campfire Girls Hypnotize You Collab",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Campfire-Girls.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4900/campfire-girls-hypnotize-you-collab.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

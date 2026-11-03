@@ -1,7 +1,7 @@
 {
   "slug": "joe",
   "label": "JOE",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "b09a9870-ddcd-4bad-a795-9e99d5df9a4f",
@@ -14,6 +14,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b09a9870-ddcd-4bad-a795-9e99d5df9a4f.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b09a9870-ddcd-4bad-a795-9e99d5df9a4f.mp3",
       "hash": "41ad0b11eacce4b898d162a2adba9e1af26461ce4601b06c4a1faffce298e911",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90bf5eac-67c8-4545-aece-4e2d64e4233a",
+      "id": "EROS-LB-954",
+      "title": "Let�s Pretend.. Horny and Hypnotized",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/90bf5eac-67c8-4545-aece-4e2d64e4233a.jpg",
+      "file": "",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

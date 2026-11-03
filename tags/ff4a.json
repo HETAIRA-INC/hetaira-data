@@ -1,7 +1,7 @@
 {
   "slug": "ff4a",
   "label": "FF4A",
-  "count": 1,
+  "count": 4,
   "records": [
     {
       "uuid": "10140583-4dbc-40e1-aa49-b5d81bc1afcd",
@@ -14,6 +14,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/10140583-4dbc-40e1-aa49-b5d81bc1afcd.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/10140583-4dbc-40e1-aa49-b5d81bc1afcd.mp3",
       "hash": "7ac0d1703addf4766d84df90945de60d40fe85a835f9d9bd7e126041fed187b1",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "47030867-74f0-45e7-b108-bc8524f99157",
+      "id": "EROS-MK-1824",
+      "title": "Double Trouble w/ Mistress Tess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/47030867-74f0-45e7-b108-bc8524f99157.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/47030867-74f0-45e7-b108-bc8524f99157.mp3",
+      "hash": "2345ddc1e36bb31fc28a84f6f03acd6f6a783571c6ea1e5d579d18c7296a0643",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "932f3e72-d04c-440a-a837-b950d0a75962",
+      "id": "EROS-MK-2250",
+      "title": "Mega Fractionation Hypnosis Collab",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/932f3e72-d04c-440a-a837-b950d0a75962.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/04/Collab-SFW-Final.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7ed1b0df-4fd5-4f15-b1f5-acd33482897f",
+      "id": "EROS-MK-2278",
+      "title": "Mind Games with Smutty",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/05/mindgamesnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/04/Commentatar-Collab.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

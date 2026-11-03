@@ -1,8 +1,21 @@
 {
   "slug": "transformation",
   "label": "TRANSFORMATION",
-  "count": 1,
+  "count": 9,
   "records": [
+    {
+      "uuid": "a8b32d8e-131e-4308-91b8-d4afbc546c7c",
+      "id": "EROS-LB-1033",
+      "title": "Meditations: Fenrir",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/a8b32d8e-131e-4308-91b8-d4afbc546c7c.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
     {
       "uuid": "fb84c602-c4ba-4d71-885f-66943d5dec23",
       "id": "EROS-MK-1549",
@@ -14,6 +27,97 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fb84c602-c4ba-4d71-885f-66943d5dec23.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fb84c602-c4ba-4d71-885f-66943d5dec23.mp3",
       "hash": "2f47ee43d70557e1c5a55593a0e0e97ab7c433ad0ece2a27100ec0a5b4b3d1ab",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "69ee5f2c-e1b9-4559-9641-c8307adde1e5",
+      "id": "EROS-MK-2216",
+      "title": "The Witch�s Potion (Binaural)",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/69ee5f2c-e1b9-4559-9641-c8307adde1e5.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/69ee5f2c-e1b9-4559-9641-c8307adde1e5.mp3",
+      "hash": "319359a2e8a2f2993262466519f36986a428f680ec447ddc167719f9f5ecf278",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "abf171f0-4558-4025-8861-209434c6fc48",
+      "id": "EROS-MK-2806",
+      "title": "Transformed by the Sorceress",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/sorceress.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2806/transformed-by-the-sorceress.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d6c705ce-888a-4ed8-af8e-fd6faa5d2dba",
+      "id": "EROS-MK-3772",
+      "title": "Puppy Obedience Part 3",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/puppy3.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3772/puppy-obedience-part-3.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4f1fc349-7d2f-461f-8aa9-8556bc0bb1db",
+      "id": "EROS-MK-3777",
+      "title": "Hucow Transformation Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/04/hucow_1920x1080-1024x576.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3777/hucow-transformation-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "22b51401-e680-4f9d-958b-d14e840860da",
+      "id": "EROS-MK-4736",
+      "title": "Latex Slave Transformation",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/latex.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4736/latex-slave-transformation.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "9b901b1c-556d-4f94-9c73-78c8ff2cd67d",
+      "id": "EROS-MK-4740",
+      "title": "Your Crush is a Good Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/goodbunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Good-Bunny_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "60ea09a9-beb3-415c-b4b5-368233c3c8c9",
+      "id": "EROS-MK-4909",
+      "title": "Become My Body Pillow Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/pillow.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4909/become-my-body-pillow-hypnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

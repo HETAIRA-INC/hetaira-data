@@ -1,7 +1,7 @@
 {
   "slug": "energy-draining",
   "label": "ENERGY DRAINING",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "555fd7db-4bdc-4933-bb46-baa4686870c4",
@@ -14,6 +14,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/555fd7db-4bdc-4933-bb46-baa4686870c4.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/555fd7db-4bdc-4933-bb46-baa4686870c4.mp3",
       "hash": "9e6e5a2b601cb16872c2a932ff3ff409b6e5cd4cab76fbec0bec29bd2468c035",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "839687c5-5038-41ec-979e-43ada261b4cc",
+      "id": "EROS-MK-2981",
+      "title": "Beware the Energy Vampire",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/energy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2981/beware-the-energy-vampire.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "89db8674-352e-4bae-8af5-cbab96564e33",
+      "id": "EROS-MK-3087",
+      "title": "The Voice Inside Your Mind",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/10/inyourhead_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3087/the-voice-inside-your-mind.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

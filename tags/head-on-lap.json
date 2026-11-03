@@ -1,7 +1,7 @@
 {
   "slug": "head-on-lap",
   "label": "HEAD ON LAP",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "19c3fac5-c1c3-4d08-80a1-961ff60238f1",
@@ -14,6 +14,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/19c3fac5-c1c3-4d08-80a1-961ff60238f1.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/19c3fac5-c1c3-4d08-80a1-961ff60238f1.mp3",
       "hash": "4f31ff94d06bfa4e366f23d3e4781affddb27fb7965057c66a5c31ab81187f2c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d79a4eb6-6c1e-4572-ab8b-b6fa41fbae2c",
+      "id": "EROS-MK-2982",
+      "title": "Hotel Room Hypnoslave",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/hotel.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2982/hotel-room-hypnoslave.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "mindbreak",
   "label": "MINDBREAK",
-  "count": 3,
+  "count": 7,
   "records": [
     {
       "uuid": "cb62bb07-e50f-4c9a-8ec1-a41ffe8b7013",
@@ -30,16 +30,68 @@
       "status": "ACTIVE"
     },
     {
-      "uuid": "d2e7e370-f9ba-4682-bc02-cb2568d20f75",
-      "id": "EROS-LB-001",
+      "uuid": "c1224af2-8b89-41cb-90ea-781293e11998",
+      "id": "EROS-LB-1216",
+      "title": "HFO Training: Pleasure Mapping",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/c1224af2-8b89-41cb-90ea-781293e11998.png",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a3450f64-d326-492e-b26f-ecfc5908a7bb",
+      "id": "EROS-LB-1250",
+      "title": "Obedience Brainwashing",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/a3450f64-d326-492e-b26f-ecfc5908a7bb.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/a3450f64-d326-492e-b26f-ecfc5908a7bb.mp3",
+      "hash": "9ee95f9cd9ba08026f65a687e3b0e1b569ad720b181991f32273af32b146d448",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ab9ff98d-af61-4451-96c8-e95a7878baf7",
+      "id": "EROS-LB-1569",
+      "title": "FORGET",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/ab9ff98d-af61-4451-96c8-e95a7878baf7.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/ab9ff98d-af61-4451-96c8-e95a7878baf7.mp3",
+      "hash": "666b32384e15641a95971665decd8efb6a39cc8deb89a121477392c5f394c6b0",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d9af8485-1f7c-4b52-b866-5d2febb743e2",
+      "id": "EROS-LB-1616",
+      "title": "Lamb’s Prejac Brainwashing",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/d9af8485-1f7c-4b52-b866-5d2febb743e2.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/d9af8485-1f7c-4b52-b866-5d2febb743e2.mp3",
+      "hash": "6dd6f1cf0926ebd2448af7c22d3f988c0e90b7093369a04684b776edd34b57a6",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb",
+      "id": "EROS-LB-1798",
       "title": "No Touch Challenge",
       "variant": "ORIGINAL",
       "tier": "FREE",
       "artist": "Lambellina",
-      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d2e7e370-f9ba-4682-bc02-cb2568d20f75.png",
-      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d2e7e370-f9ba-4682-bc02-cb2568d20f75.mp3",
-      "hash": "",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb.mp3",
+      "hash": "cdabcd6c6415b9344c482abd2cced492fdc18c703cb4298641660c6b0d0d13a6",
       "status": "ACTIVE"
     }
   ]

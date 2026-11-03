@@ -1,7 +1,7 @@
 {
   "slug": "asmr",
   "label": "ASMR",
-  "count": 30,
+  "count": 34,
   "records": [
     {
       "uuid": "1e4d2b97-d705-40c5-acea-b061166f6ee6",
@@ -391,6 +391,58 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/1046db2a-21de-4e87-9c4e-65ae0d9fafb8.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/f97527a5-34d9-4bc9-89f9-a518633d0cfc.mp3",
       "hash": "1deab61c2ab91881d5af7348f8a802c780ada0d2b1322fd435026de1bc733f4b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4632802d-2a01-4400-8f2d-61c1ceca182c",
+      "id": "EROS-LB-209",
+      "title": "Deity Worship � Sleep",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/4632802d-2a01-4400-8f2d-61c1ceca182c.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/4632802d-2a01-4400-8f2d-61c1ceca182c.mp3",
+      "hash": "299063069480ce984e1d37814dd61268c5b1effed29807a9c486c24e148d4f09",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4d860ae9-34d9-4a88-9939-c94fbf22feea",
+      "id": "EROS-LB-254",
+      "title": "Bimbo Daydreams",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/4d860ae9-34d9-4a88-9939-c94fbf22feea.jpg",
+      "file": "https://lambhypno.com/wp-content/uploads/2024/09/bimboday.m4a",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1821322c-d0fb-489f-8b21-b25ea50a04b0",
+      "id": "EROS-LB-784",
+      "title": "Pleasure Loops",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/1821322c-d0fb-489f-8b21-b25ea50a04b0.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "313618bd-edb2-484c-8ae6-c981fcfc7295",
+      "id": "EROS-MK-3510",
+      "title": "Your Medicine Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/medicine_1920x1080.png",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/01/Medicine_mixdown2.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

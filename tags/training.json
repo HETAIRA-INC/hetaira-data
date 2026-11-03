@@ -1,7 +1,7 @@
 {
   "slug": "training",
   "label": "TRAINING",
-  "count": 4,
+  "count": 7,
   "records": [
     {
       "uuid": "efa6e6d7-9f2c-4686-99b0-a6244823f65f",
@@ -53,6 +53,45 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/a2273830-2529-439e-8e6c-c9c94016f91b.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/a2273830-2529-439e-8e6c-c9c94016f91b.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c1224af2-8b89-41cb-90ea-781293e11998",
+      "id": "EROS-LB-1216",
+      "title": "HFO Training: Pleasure Mapping",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/c1224af2-8b89-41cb-90ea-781293e11998.png",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a3450f64-d326-492e-b26f-ecfc5908a7bb",
+      "id": "EROS-LB-1250",
+      "title": "Obedience Brainwashing",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/a3450f64-d326-492e-b26f-ecfc5908a7bb.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/a3450f64-d326-492e-b26f-ecfc5908a7bb.mp3",
+      "hash": "9ee95f9cd9ba08026f65a687e3b0e1b569ad720b181991f32273af32b146d448",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f3d92cea-aaf1-4b63-bbb7-ae5b8c9dfe94",
+      "id": "EROS-LB-1440",
+      "title": "Focus Training",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/f3d92cea-aaf1-4b63-bbb7-ae5b8c9dfe94.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/f3d92cea-aaf1-4b63-bbb7-ae5b8c9dfe94.mp3",
+      "hash": "56b47f53070c832f66f33b63f4fe62de396128801405f86d127ae48a3775a7b1",
       "status": "ACTIVE"
     }
   ]

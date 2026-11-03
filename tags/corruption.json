@@ -1,7 +1,7 @@
 {
   "slug": "corruption",
   "label": "CORRUPTION",
-  "count": 6,
+  "count": 17,
   "records": [
     {
       "uuid": "c72e1515-9556-4df7-923d-47735ef02fad",
@@ -69,6 +69,19 @@
       "status": "ACTIVE"
     },
     {
+      "uuid": "689b9b12-bcc9-4ad8-9480-622ce9aa7fca",
+      "id": "EROS-LB-1754",
+      "title": "Yes, Lamb. i’ll Goon for You.",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/689b9b12-bcc9-4ad8-9480-622ce9aa7fca.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/689b9b12-bcc9-4ad8-9480-622ce9aa7fca.mp3",
+      "hash": "0870d15591684fdca355af2b6c03c99f8dbac85e1337a75e32d1ebff4051c037",
+      "status": "ACTIVE"
+    },
+    {
       "uuid": "2107de22-e960-478f-87ea-45fdbac98d40",
       "id": "EROS-MK-1429",
       "title": "Princess Charming Hypnosis",
@@ -79,6 +92,136 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2107de22-e960-478f-87ea-45fdbac98d40.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2107de22-e960-478f-87ea-45fdbac98d40.mp3",
       "hash": "4d6365b4cdcb85a732b85edce414e0fc90ab354e4b4e1fc61c4959fcd4ca6de4",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7ae8a94b-55f8-4137-b432-232722b3f9b5",
+      "id": "EROS-MK-2817",
+      "title": "Calia AI Challenge � Level 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/ai2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2817/calia-ai-challenge-level-2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "52a8fdee-e1f6-4b49-8052-6ced1b496fff",
+      "id": "EROS-MK-2824",
+      "title": "The Collective Virus: Warning",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/virus.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2824/the-collective-virus-warning.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "793dafa0-86bf-438f-b79c-27e86b76a5f5",
+      "id": "EROS-MK-3183",
+      "title": "Cult of Calia pt. 4: Ascension",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cult4.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3183/cult-of-calia-pt-4-ascension.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f5649677-7e5a-41c8-b629-d4aa3f682719",
+      "id": "EROS-MK-3525",
+      "title": "The Queen Bee Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/queenbee_1920x1080.png",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/01/QueenBee_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "525da51f-fba6-4502-9d9f-c14f3017cd35",
+      "id": "EROS-MK-3734",
+      "title": "Symbiote Partner Cuckolds You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/symbcuck.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3734/symbiote-partner-cuckolds-you.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32a34592-fb91-448e-accc-566f12c0727b",
+      "id": "EROS-MK-4712",
+      "title": "Clicker Trained by a Goth",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Gothclick.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4712/clicker-trained-by-a-goth.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d189f92c-d04e-4634-9a3d-4983981f2c82",
+      "id": "EROS-MK-4714",
+      "title": "Gentle Hypno4*$$^%^43b",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Glitch.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4714/gentle-hypno443b.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "9b901b1c-556d-4f94-9c73-78c8ff2cd67d",
+      "id": "EROS-MK-4740",
+      "title": "Your Crush is a Good Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/goodbunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Good-Bunny_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "28ab2bd6-f1c1-4b9f-b00b-8d31949c0995",
+      "id": "EROS-MK-4900",
+      "title": "Campfire Girls Hypnotize You Collab",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Campfire-Girls.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4900/campfire-girls-hypnotize-you-collab.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "56679e33-0c31-4c82-b3bd-10e598f975c4",
+      "id": "EROS-MK-4915",
+      "title": "Ivy�s Hypnotic Hands Free Orgasm",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Ivy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4915/ivys-hypnotic-hands-free-orgasm.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

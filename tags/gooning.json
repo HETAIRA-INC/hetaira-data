@@ -1,7 +1,7 @@
 {
   "slug": "gooning",
   "label": "GOONING",
-  "count": 4,
+  "count": 7,
   "records": [
     {
       "uuid": "61ca138d-ceb5-4278-99b5-b547aa90e60d",
@@ -53,6 +53,45 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/dc134322-e425-4ea7-8484-4d397dca8bb6.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/dc134322-e425-4ea7-8484-4d397dca8bb6.mp3",
       "hash": "07fa0a08b25b7bf97f83e386ff551187fab32ce07da82ae99145b171bfdfef63",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "689b9b12-bcc9-4ad8-9480-622ce9aa7fca",
+      "id": "EROS-LB-1754",
+      "title": "Yes, Lamb. i’ll Goon for You.",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/689b9b12-bcc9-4ad8-9480-622ce9aa7fca.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/689b9b12-bcc9-4ad8-9480-622ce9aa7fca.mp3",
+      "hash": "0870d15591684fdca355af2b6c03c99f8dbac85e1337a75e32d1ebff4051c037",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "3eccd6cd-75c5-4502-9f18-6901379fc3c8",
+      "id": "EROS-MK-2080",
+      "title": "Doomed to Goon",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/3eccd6cd-75c5-4502-9f18-6901379fc3c8.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/3eccd6cd-75c5-4502-9f18-6901379fc3c8.mp3",
+      "hash": "09adac2cb86a4d6f46160c51a2ded085e2203eb83983d1a0c55367a540f3082d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "525da51f-fba6-4502-9d9f-c14f3017cd35",
+      "id": "EROS-MK-3734",
+      "title": "Symbiote Partner Cuckolds You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/symbcuck.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3734/symbiote-partner-cuckolds-you.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

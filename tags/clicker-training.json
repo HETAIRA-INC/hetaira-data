@@ -1,7 +1,7 @@
 {
   "slug": "clicker-training",
   "label": "CLICKER TRAINING",
-  "count": 1,
+  "count": 6,
   "records": [
     {
       "uuid": "d946e072-a825-4dd3-8aa8-b8ccf6ba1cab",
@@ -13,6 +13,71 @@
       "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d946e072-a825-4dd3-8aa8-b8ccf6ba1cab.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d946e072-a825-4dd3-8aa8-b8ccf6ba1cab.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6bb62bec-bbfb-4bf6-a341-8f6b29d11b14",
+      "id": "EROS-LB-1414",
+      "title": "Clicker Training for Puppies",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/6bb62bec-bbfb-4bf6-a341-8f6b29d11b14.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/6bb62bec-bbfb-4bf6-a341-8f6b29d11b14.mp3",
+      "hash": "d7e27e47c0b1a5bf350ce6978be863712b86a6aede26dcd40403ab77b8cfb291",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ef4c4ce7-14f6-4015-80e8-d47ece1a5ebd",
+      "id": "EROS-MK-2108",
+      "title": "Puppy Obedience Part 1",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ef4c4ce7-14f6-4015-80e8-d47ece1a5ebd.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ef4c4ce7-14f6-4015-80e8-d47ece1a5ebd.mp3",
+      "hash": "9a20e8f8feb7c02477f51fb7328c7643d16a4a2052637e5e313b1d9b0c3e5e2f",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c9849c76-2463-4663-9b25-6492fe1d2e27",
+      "id": "EROS-MK-2632",
+      "title": "Puppy Obedience Part 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/puppy2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2632/puppy-obedience-part-2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d6c705ce-888a-4ed8-af8e-fd6faa5d2dba",
+      "id": "EROS-MK-3772",
+      "title": "Puppy Obedience Part 3",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/puppy3.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3772/puppy-obedience-part-3.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32a34592-fb91-448e-accc-566f12c0727b",
+      "id": "EROS-MK-4712",
+      "title": "Clicker Trained by a Goth",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Gothclick.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4712/clicker-trained-by-a-goth.mp3",
       "hash": "",
       "status": "ACTIVE"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "pegging",
   "label": "PEGGING",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "391baf35-2f8f-402b-b644-0c042cd77d49",
@@ -14,6 +14,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/391baf35-2f8f-402b-b644-0c042cd77d49.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/391baf35-2f8f-402b-b644-0c042cd77d49.mp3",
       "hash": "db6fc456bdafb9feef01f87b83b3f82b44018afcc26f2d04a7bc474433a96ec9",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4ac38b80-cf85-4e96-b3f1-580d1c55c3f1",
+      "id": "EROS-MK-3330",
+      "title": "Good Cop, Bad Cop ft. Loops",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cop.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/good-cop-bad-cythnytbop-WITH-PANNING.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32a34592-fb91-448e-accc-566f12c0727b",
+      "id": "EROS-MK-4712",
+      "title": "Clicker Trained by a Goth",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Gothclick.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4712/clicker-trained-by-a-goth.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,8 +1,21 @@
 {
   "slug": "sex",
   "label": "SEX",
-  "count": 1,
+  "count": 9,
   "records": [
+    {
+      "uuid": "b791f890-4124-4d6d-a085-4ee2288d1b3f",
+      "id": "EROS-LB-1087",
+      "title": "Let Me Erase Everything but Need",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/b791f890-4124-4d6d-a085-4ee2288d1b3f.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/b791f890-4124-4d6d-a085-4ee2288d1b3f.mp3",
+      "hash": "6b83ec0d4d60023be539e7388e8f8f963185e9a5a2332dfc4bf867ac398ced9c",
+      "status": "ACTIVE"
+    },
     {
       "uuid": "01ac77bc-52df-4b66-89b6-fb9b01e7020c",
       "id": "EROS-MK-1553",
@@ -14,6 +27,97 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/01ac77bc-52df-4b66-89b6-fb9b01e7020c.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/01ac77bc-52df-4b66-89b6-fb9b01e7020c.mp3",
       "hash": "4b5a6ed80b32e63f6d7e50bb5f15a660f34efdd71f870d9edee101ad628308ec",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "be2ae51a-cb12-4839-95f3-4ee1c1ea8a74",
+      "id": "EROS-MK-3159",
+      "title": "Cult of Calia pt 2: The Ritual of Bliss",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cult2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3159/cult-of-calia-pt-2-the-ritual-of-bliss.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bfad2874-19a5-44d3-9b74-8f7ccb580547",
+      "id": "EROS-MK-3427",
+      "title": "Drained by the Slimegirl",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/slimenew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/SLIME97898l_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f08be26c-bfb0-4c30-9dd3-4507959524a1",
+      "id": "EROS-MK-3435",
+      "title": "Seduced by the Bridesmaid",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/brides.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3435/seduced-by-the-bridesmaid.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d1ed755f-6428-4226-8d5f-8e508868f39a",
+      "id": "EROS-MK-3549",
+      "title": "The Girl of Your Dreams is a Demon!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/sleepdemon_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3549/the-girl-of-your-dreams-is-a-demon.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "525da51f-fba6-4502-9d9f-c14f3017cd35",
+      "id": "EROS-MK-3734",
+      "title": "Symbiote Partner Cuckolds You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/symbcuck.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3734/symbiote-partner-cuckolds-you.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a29bf752-f8a7-4d08-a0e4-ce5435e06ba0",
+      "id": "EROS-MK-4362",
+      "title": "The Girl in Hypnosis Class",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/05/classroom_1920x1080.png",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/05/Hypnosis-65y65hClass-Girl_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "56679e33-0c31-4c82-b3bd-10e598f975c4",
+      "id": "EROS-MK-4915",
+      "title": "Ivy�s Hypnotic Hands Free Orgasm",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Ivy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4915/ivys-hypnotic-hands-free-orgasm.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

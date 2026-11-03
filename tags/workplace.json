@@ -1,7 +1,7 @@
 {
   "slug": "workplace",
   "label": "WORKPLACE",
-  "count": 6,
+  "count": 13,
   "records": [
     {
       "uuid": "a42120ff-13ee-47c0-8359-216bf928deb9",
@@ -79,6 +79,97 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/d3035d8d-45fc-4a9a-80f4-eac8bde81631.png",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/d3035d8d-45fc-4a9a-80f4-eac8bde81631.mp3",
       "hash": "14bff73b7bd9540c7d33ad4813d65fa243607246fa8bec2ef86d6a1da86373dc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c151ff00-1cdc-4c0c-8c8a-9b187c6fff2f",
+      "id": "EROS-MK-2784",
+      "title": "CaliaCorp: Mindfulness Meditation",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/mindful.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2784/caliacorp-mindfulness-meditation.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1f6e03c6-2a97-41c6-adda-9fdd682fe2aa",
+      "id": "EROS-MK-2787",
+      "title": "CaliaCorp: Your New Assistant",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/assistant.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2787/caliacorp-your-new-assistant.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0c1dd6d-3278-4fa0-8144-438065393707",
+      "id": "EROS-MK-2791",
+      "title": "Your Creativity Belongs to CaliaCorp",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/creativity.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2791/your-creativity-belongs-to-caliacorp.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e4efe4dd-0857-44f2-941a-bf7de3fa9dfa",
+      "id": "EROS-MK-2793",
+      "title": "Your New Role at CaliaCorp",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/newrole.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2793/your-new-role-at-caliacorp.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "50eddd9c-8a12-46c0-ba80-8072ae1d9e62",
+      "id": "EROS-MK-4516",
+      "title": "Bullied by Your Co-Worker",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/coworker_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4516/bullied-by-your-co-worker.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

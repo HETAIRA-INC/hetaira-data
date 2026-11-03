@@ -1,7 +1,7 @@
 {
   "slug": "succubus",
   "label": "SUCCUBUS",
-  "count": 4,
+  "count": 6,
   "records": [
     {
       "uuid": "0f280944-50bd-436e-b27b-27c762d9b7c5",
@@ -30,6 +30,19 @@
       "status": "ACTIVE"
     },
     {
+      "uuid": "860b6e87-8fd1-45ea-9e61-4ab41345622c",
+      "id": "EROS-LB-1313",
+      "title": "Visit From The Succubus",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/860b6e87-8fd1-45ea-9e61-4ab41345622c.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
       "uuid": "555fd7db-4bdc-4933-bb46-baa4686870c4",
       "id": "EROS-MK-1539",
       "title": "Succubus Summoning Ritual",
@@ -53,6 +66,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/01ac77bc-52df-4b66-89b6-fb9b01e7020c.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/01ac77bc-52df-4b66-89b6-fb9b01e7020c.mp3",
       "hash": "4b5a6ed80b32e63f6d7e50bb5f15a660f34efdd71f870d9edee101ad628308ec",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "19571d5e-fab2-4b64-8632-00e8d54b26de",
+      "id": "EROS-MK-4725",
+      "title": "Lamia Girlfriend and the Succubus",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/10/lamiasucc.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4725/lamia-girlfriend-and-the-succubus.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

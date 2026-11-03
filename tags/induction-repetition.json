@@ -1,7 +1,7 @@
 {
   "slug": "induction-repetition",
   "label": "INDUCTION: REPETITION",
-  "count": 3,
+  "count": 7,
   "records": [
     {
       "uuid": "aa8d256b-0aa3-4721-9858-3cf8742650c0",
@@ -40,6 +40,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.mp3",
       "hash": "f26f66d9b7aaedc6c65243a52834cb4b0fdf52eb232eb5a2da19576bc3a9375e",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "69ee5f2c-e1b9-4559-9641-c8307adde1e5",
+      "id": "EROS-MK-2216",
+      "title": "The Witch�s Potion (Binaural)",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/69ee5f2c-e1b9-4559-9641-c8307adde1e5.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/69ee5f2c-e1b9-4559-9641-c8307adde1e5.mp3",
+      "hash": "319359a2e8a2f2993262466519f36986a428f680ec447ddc167719f9f5ecf278",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b0c4a0db-a8d0-41c9-861e-c7dbf38a0f3c",
+      "id": "EROS-MK-2273",
+      "title": "You Want Me Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/b0c4a0db-a8d0-41c9-861e-c7dbf38a0f3c.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2273/you-want-me-erotic-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6db6ce1f-ef76-4501-abd3-be1bef36ec99",
+      "id": "EROS-MK-2815",
+      "title": "The Detective�s Confession",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/prison_1920x1080_1.png",
+      "file": "https://mistresscalia.com/audioprotectsample/2815/the-detectives-confession.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ab7e3f1f-f37c-48df-8c19-5caee29ed591",
+      "id": "EROS-MK-3264",
+      "title": "Bloody Calia Fearnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/10/bloodcalia2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3264/bloody-calia-fearnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

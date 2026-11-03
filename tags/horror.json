@@ -1,8 +1,34 @@
 {
   "slug": "horror",
   "label": "HORROR",
-  "count": 6,
+  "count": 14,
   "records": [
+    {
+      "uuid": "4dbb7a59-1d27-46cf-98e8-ec5b69b18383",
+      "id": "EROS-LB-1047",
+      "title": "Possession Obsession",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/4dbb7a59-1d27-46cf-98e8-ec5b69b18383.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/4dbb7a59-1d27-46cf-98e8-ec5b69b18383.mp3",
+      "hash": "7aae9efe93fdbe3cc92cb5a57a39fa44024b87bc7189260133a934bb9a855489",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7",
+      "id": "EROS-LB-1654",
+      "title": "Lamb Bluebeard",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7.mp3",
+      "hash": "12a2a3b4ae69bf43cff35e78746469bf7f8d74128d522e215741de93d53e5da9",
+      "status": "ACTIVE"
+    },
     {
       "uuid": "555fd7db-4bdc-4933-bb46-baa4686870c4",
       "id": "EROS-MK-1539",
@@ -79,6 +105,84 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/01ac77bc-52df-4b66-89b6-fb9b01e7020c.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/01ac77bc-52df-4b66-89b6-fb9b01e7020c.mp3",
       "hash": "4b5a6ed80b32e63f6d7e50bb5f15a660f34efdd71f870d9edee101ad628308ec",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "69ee5f2c-e1b9-4559-9641-c8307adde1e5",
+      "id": "EROS-MK-2216",
+      "title": "The Witch�s Potion (Binaural)",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/69ee5f2c-e1b9-4559-9641-c8307adde1e5.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/69ee5f2c-e1b9-4559-9641-c8307adde1e5.mp3",
+      "hash": "319359a2e8a2f2993262466519f36986a428f680ec447ddc167719f9f5ecf278",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "da38f89d-9ae2-4852-bf73-09e96191d490",
+      "id": "EROS-MK-2654",
+      "title": "Ghost Haunts Your Mind",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/ghost.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2654/ghost-haunts-your-mind.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "89db8674-352e-4bae-8af5-cbab96564e33",
+      "id": "EROS-MK-3087",
+      "title": "The Voice Inside Your Mind",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/10/inyourhead_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3087/the-voice-inside-your-mind.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "036d09d1-0025-4bb2-9bc1-46aeff7fad74",
+      "id": "EROS-MK-3091",
+      "title": "Wrapped in My Tentacles",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/tentacles.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3091/wrapped-in-my-tentacles.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "793dafa0-86bf-438f-b79c-27e86b76a5f5",
+      "id": "EROS-MK-3183",
+      "title": "Cult of Calia pt. 4: Ascension",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cult4.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3183/cult-of-calia-pt-4-ascension.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ab7e3f1f-f37c-48df-8c19-5caee29ed591",
+      "id": "EROS-MK-3264",
+      "title": "Bloody Calia Fearnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/10/bloodcalia2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3264/bloody-calia-fearnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

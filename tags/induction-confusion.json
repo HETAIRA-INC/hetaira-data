@@ -1,7 +1,7 @@
 {
   "slug": "induction-confusion",
   "label": "INDUCTION: CONFUSION",
-  "count": 2,
+  "count": 11,
   "records": [
     {
       "uuid": "3321795b-026b-4b02-bebc-a972762c98c1",
@@ -27,6 +27,123 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ebba0818-acde-443f-9306-5ce612167587.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ebba0818-acde-443f-9306-5ce612167587.mp3",
       "hash": "5711e629d3064271af0e3d1e2c25188ce4bf9c28946fa08cd1dfa71751ad7f46",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7ed1b0df-4fd5-4f15-b1f5-acd33482897f",
+      "id": "EROS-MK-2278",
+      "title": "Mind Games with Smutty",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/05/mindgamesnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/04/Commentatar-Collab.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1f6e03c6-2a97-41c6-adda-9fdd682fe2aa",
+      "id": "EROS-MK-2787",
+      "title": "CaliaCorp: Your New Assistant",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/assistant.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2787/caliacorp-your-new-assistant.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ecc7f726-121a-4ca8-9951-8901aaaf1088",
+      "id": "EROS-MK-2804",
+      "title": "Worship Her Image",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/worship.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2804/worship-her-image.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90a4747d-a52a-4e9b-a5cc-616d8a00018f",
+      "id": "EROS-MK-3001",
+      "title": "Calia�s Manifesto",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/vote2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3001/calias-manifesto.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "89db8674-352e-4bae-8af5-cbab96564e33",
+      "id": "EROS-MK-3087",
+      "title": "The Voice Inside Your Mind",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/10/inyourhead_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3087/the-voice-inside-your-mind.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d2f9c646-45f4-4889-ba74-115911fb77da",
+      "id": "EROS-MK-3273",
+      "title": "Dumb Girl Tries Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/dumb.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3273/dumb-girl-tries-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4ac38b80-cf85-4e96-b3f1-580d1c55c3f1",
+      "id": "EROS-MK-3330",
+      "title": "Good Cop, Bad Cop ft. Loops",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cop.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/good-cop-bad-cythnytbop-WITH-PANNING.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f1f959e2-f0d5-406e-a822-6f736c093f16",
+      "id": "EROS-MK-3431",
+      "title": "The Trance Trap",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/01/trancetrapnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/Trance-Trap_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "83b9a55f-d6e2-4cdb-be31-3d5c348f1d56",
+      "id": "EROS-MK-4565",
+      "title": "Confusion Countdown Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/confusionc.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/06/confusion-count_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "school",
   "label": "SCHOOL",
-  "count": 5,
+  "count": 10,
   "records": [
     {
       "uuid": "a21247a0-7685-4cfc-a801-2c77a960d248",
@@ -66,6 +66,71 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.mp3",
       "hash": "789ced78fd1d328a75adf6e41c4432cd41b44d9be73b074e06005985b132a67d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "57c83cdb-de93-40a2-b82f-52b6830ccdcd",
+      "id": "EROS-MK-4091",
+      "title": "Cheer Squad Confidential ft. Sammys and Gigi!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/Cheersquadv1.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4091/cheer-squad-confidential-ft-sammys-and-gigi.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a29bf752-f8a7-4d08-a0e4-ce5435e06ba0",
+      "id": "EROS-MK-4362",
+      "title": "The Girl in Hypnosis Class",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/05/classroom_1920x1080.png",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/05/Hypnosis-65y65hClass-Girl_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bdcf9e45-c0e1-47e0-a6a9-54f66ca88da6",
+      "id": "EROS-MK-4511",
+      "title": "Your Academic Rival Gives you a HFO",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/exam.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4511/your-academic-rival-gives-you-a-hfo.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "8c9529c8-1006-4dd8-bafb-c9669bd828c3",
+      "id": "EROS-MK-4635",
+      "title": "Yandere Hypnotist Wants Your Girl",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/yandere.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/06/Yandere_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6bdf8162-5035-47e2-9aba-4c4a2a5cb090",
+      "id": "EROS-MK-4738",
+      "title": "Tsundere�s Hypnotic Help",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/tsundere.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Tsundere_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

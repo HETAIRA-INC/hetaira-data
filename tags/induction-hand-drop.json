@@ -1,7 +1,7 @@
 {
   "slug": "induction-hand-drop",
   "label": "INDUCTION: HAND DROP",
-  "count": 2,
+  "count": 3,
   "records": [
     {
       "uuid": "1db677fc-2d3e-433d-8745-bf590ad1d115",
@@ -27,6 +27,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/e8210e23-1522-4e4f-a247-280f2649b44d.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/e8210e23-1522-4e4f-a247-280f2649b44d.mp3",
       "hash": "c013b427898819524cd2159c2e96b237bf879235e3f5f4d99544bb39a54d29e3",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32f394c1-72ec-4032-8896-aabf1ee30de7",
+      "id": "EROS-MK-3052",
+      "title": "The Picture of Trance",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/selfie.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/10/Selfie_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

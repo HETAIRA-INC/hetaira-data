@@ -1,7 +1,7 @@
 {
   "slug": "begging",
   "label": "BEGGING",
-  "count": 5,
+  "count": 10,
   "records": [
     {
       "uuid": "b511a3b2-e7e0-494e-99c8-767fe3ecbbd9",
@@ -66,6 +66,71 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.mp3",
       "hash": "f26f66d9b7aaedc6c65243a52834cb4b0fdf52eb232eb5a2da19576bc3a9375e",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e14e62c4-6f57-43ba-aabf-1d863826a09c",
+      "id": "EROS-MK-2402",
+      "title": "Hypnosis on the Bus Binaural",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/bus.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2402/hypnosis-on-the-bus-binaural.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2f93ff10-450f-4997-9261-929a2db7d950",
+      "id": "EROS-MK-2980",
+      "title": "Home for Wayward Subs",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/wayward.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2980/home-for-wayward-subs.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4d083773-da9b-4689-aa98-e952beb8d9d0",
+      "id": "EROS-MK-3283",
+      "title": "Never Have I Ever",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Neverhave.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3283/never-have-i-ever.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d6c705ce-888a-4ed8-af8e-fd6faa5d2dba",
+      "id": "EROS-MK-3772",
+      "title": "Puppy Obedience Part 3",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/puppy3.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3772/puppy-obedience-part-3.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

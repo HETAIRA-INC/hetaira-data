@@ -1,7 +1,7 @@
 {
   "slug": "pheromones",
   "label": "PHEROMONES",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "f976581d-b6b1-4551-9efb-434420f0020d",
@@ -14,6 +14,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/f976581d-b6b1-4551-9efb-434420f0020d.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/f976581d-b6b1-4551-9efb-434420f0020d.mp3",
       "hash": "20bd68e8fdb6948337f2dbe7d9d6d48dfa661907e8f86a363fc7eb516e7c25d1",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f655489b-ae79-43f5-937e-59bcea3d9f7e",
+      "id": "EROS-MK-2809",
+      "title": "Battle with a Villainess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/villainess.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2809/battle-with-a-villainess.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "56679e33-0c31-4c82-b3bd-10e598f975c4",
+      "id": "EROS-MK-4915",
+      "title": "Ivy�s Hypnotic Hands Free Orgasm",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Ivy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4915/ivys-hypnotic-hands-free-orgasm.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

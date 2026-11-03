@@ -1,7 +1,7 @@
 {
   "slug": "narrator",
   "label": "NARRATOR",
-  "count": 1,
+  "count": 6,
   "records": [
     {
       "uuid": "f976581d-b6b1-4551-9efb-434420f0020d",
@@ -14,6 +14,71 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/f976581d-b6b1-4551-9efb-434420f0020d.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/f976581d-b6b1-4551-9efb-434420f0020d.mp3",
       "hash": "20bd68e8fdb6948337f2dbe7d9d6d48dfa661907e8f86a363fc7eb516e7c25d1",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fe40258e-8c05-4c3e-8c70-87e9662c5ff0",
+      "id": "EROS-MK-1818",
+      "title": "Song of the Siren",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fe40258e-8c05-4c3e-8c70-87e9662c5ff0.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fe40258e-8c05-4c3e-8c70-87e9662c5ff0.mp3",
+      "hash": "5919603cce7db75b2bb3e6a9973b6c3d5948c7497ab1d62542e5dd124f5e0302",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4c01c80a-ba3c-4ea1-af09-6cc48af4d63c",
+      "id": "EROS-MK-3736",
+      "title": "The Irish Queen Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/Irish-1.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/02/irish-Goddesss_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90f6b4dc-02b4-474c-9423-532e30376458",
+      "id": "EROS-MK-3781",
+      "title": "Medusa Turns You To Stone",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/medusa.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3781/medusa-turns-you-to-stone.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "9b901b1c-556d-4f94-9c73-78c8ff2cd67d",
+      "id": "EROS-MK-4740",
+      "title": "Your Crush is a Good Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/goodbunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Good-Bunny_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

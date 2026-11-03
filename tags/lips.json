@@ -1,7 +1,7 @@
 {
   "slug": "lips",
   "label": "LIPS",
-  "count": 2,
+  "count": 7,
   "records": [
     {
       "uuid": "a21247a0-7685-4cfc-a801-2c77a960d248",
@@ -27,6 +27,71 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.mp3",
       "hash": "f26f66d9b7aaedc6c65243a52834cb4b0fdf52eb232eb5a2da19576bc3a9375e",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2705120f-c0f9-4922-af0d-31122c5a5f6e",
+      "id": "EROS-MK-1822",
+      "title": "Game Over = Pleasure",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2705120f-c0f9-4922-af0d-31122c5a5f6e.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2705120f-c0f9-4922-af0d-31122c5a5f6e.mp3",
+      "hash": "032e07346bad67d8a2cf4b5fbdaf6665787237db9af20494edb9dfa632404dbd",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d62d8605-ce2f-4979-a70b-4c6dc26da322",
+      "id": "EROS-MK-2669",
+      "title": "Trapped by the Black Widow",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/widow.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2669/trapped-by-the-black-widow.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "7ae8a94b-55f8-4137-b432-232722b3f9b5",
+      "id": "EROS-MK-2817",
+      "title": "Calia AI Challenge � Level 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/ai2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2817/calia-ai-challenge-level-2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "675adb2e-b28f-40fa-9859-2aad60f28f9f",
+      "id": "EROS-MK-4004",
+      "title": "Background Leaker Brainwash",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/leaker.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4004/background-leaker-brainwash.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

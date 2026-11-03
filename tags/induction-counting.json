@@ -1,7 +1,7 @@
 {
   "slug": "induction-counting",
   "label": "INDUCTION: COUNTING",
-  "count": 3,
+  "count": 9,
   "records": [
     {
       "uuid": "e8210e23-1522-4e4f-a247-280f2649b44d",
@@ -40,6 +40,84 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9e618fab-cf25-4af7-a5a7-ce2352e5ff69.mp3",
       "hash": "f26f66d9b7aaedc6c65243a52834cb4b0fdf52eb232eb5a2da19576bc3a9375e",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "0504f097-3106-4943-bf8b-172af3653b37",
+      "id": "EROS-MK-1813",
+      "title": "Goddess Hera�s Lesson",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/0504f097-3106-4943-bf8b-172af3653b37.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/0504f097-3106-4943-bf8b-172af3653b37.mp3",
+      "hash": "e7b20fbffc13eeb0e02fed0922ee0a020ba83146c065654e592a4f61f4914261",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f655489b-ae79-43f5-937e-59bcea3d9f7e",
+      "id": "EROS-MK-2809",
+      "title": "Battle with a Villainess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/villainess.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2809/battle-with-a-villainess.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "01a66f2f-94ad-4cf7-8544-edd1253f6f30",
+      "id": "EROS-MK-3267",
+      "title": "Calia Says Hypnotic Trigger",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/caliasays.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3267/calia-says-hypnotic-trigger.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4d083773-da9b-4689-aa98-e952beb8d9d0",
+      "id": "EROS-MK-3283",
+      "title": "Never Have I Ever",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Neverhave.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3283/never-have-i-ever.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "89a5b950-9bd9-4737-b9a7-842a861c23e1",
+      "id": "EROS-MK-3770",
+      "title": "Drone Mode Part 1: Installation",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/drone1.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/02/Drone-Series-1_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

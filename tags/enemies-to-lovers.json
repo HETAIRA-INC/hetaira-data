@@ -1,7 +1,7 @@
 {
   "slug": "enemies-to-lovers",
   "label": "ENEMIES TO LOVERS",
-  "count": 3,
+  "count": 7,
   "records": [
     {
       "uuid": "2107de22-e960-478f-87ea-45fdbac98d40",
@@ -40,6 +40,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/7107fc82-f76e-4a76-911e-9e9c229e5597.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/7107fc82-f76e-4a76-911e-9e9c229e5597.mp3",
       "hash": "05bdbcf4816b40edd51b53a8cb2ca92a920569e3c893d0a6e86f9c6238d71b0d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ea743c2a-f8bc-4422-a2af-caf9c8cc79f5",
+      "id": "EROS-MK-3454",
+      "title": "The Wand of Domination � Short Story",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/01/Thumb-v5.jpg",
+      "file": "",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bdcf9e45-c0e1-47e0-a6a9-54f66ca88da6",
+      "id": "EROS-MK-4511",
+      "title": "Your Academic Rival Gives you a HFO",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/exam.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4511/your-academic-rival-gives-you-a-hfo.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "389f371a-ae54-4695-b632-be6f021268fe",
+      "id": "EROS-MK-4710",
+      "title": "Cat Burglar Mesmerizes You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/07/catburglar.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4710/cat-burglar-mesmerizes-you.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6bdf8162-5035-47e2-9aba-4c4a2a5cb090",
+      "id": "EROS-MK-4738",
+      "title": "Tsundere�s Hypnotic Help",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/tsundere.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Tsundere_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

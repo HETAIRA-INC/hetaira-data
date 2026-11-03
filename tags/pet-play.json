@@ -1,7 +1,7 @@
 {
   "slug": "pet-play",
   "label": "PET PLAY",
-  "count": 4,
+  "count": 13,
   "records": [
     {
       "uuid": "060d671d-0335-46a1-abf5-8bfa6dcfc872",
@@ -30,6 +30,19 @@
       "status": "ACTIVE"
     },
     {
+      "uuid": "6bb62bec-bbfb-4bf6-a341-8f6b29d11b14",
+      "id": "EROS-LB-1414",
+      "title": "Clicker Training for Puppies",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/6bb62bec-bbfb-4bf6-a341-8f6b29d11b14.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/6bb62bec-bbfb-4bf6-a341-8f6b29d11b14.mp3",
+      "hash": "d7e27e47c0b1a5bf350ce6978be863712b86a6aede26dcd40403ab77b8cfb291",
+      "status": "ACTIVE"
+    },
+    {
       "uuid": "a21247a0-7685-4cfc-a801-2c77a960d248",
       "id": "EROS-MK-1258",
       "title": "Teacher�s Pet Erotic Hypnosis",
@@ -53,6 +66,110 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2107de22-e960-478f-87ea-45fdbac98d40.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2107de22-e960-478f-87ea-45fdbac98d40.mp3",
       "hash": "4d6365b4cdcb85a732b85edce414e0fc90ab354e4b4e1fc61c4959fcd4ca6de4",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ef4c4ce7-14f6-4015-80e8-d47ece1a5ebd",
+      "id": "EROS-MK-2108",
+      "title": "Puppy Obedience Part 1",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/ef4c4ce7-14f6-4015-80e8-d47ece1a5ebd.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/ef4c4ce7-14f6-4015-80e8-d47ece1a5ebd.mp3",
+      "hash": "9a20e8f8feb7c02477f51fb7328c7643d16a4a2052637e5e313b1d9b0c3e5e2f",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c9849c76-2463-4663-9b25-6492fe1d2e27",
+      "id": "EROS-MK-2632",
+      "title": "Puppy Obedience Part 2",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/puppy2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2632/puppy-obedience-part-2.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "89db8674-352e-4bae-8af5-cbab96564e33",
+      "id": "EROS-MK-3087",
+      "title": "The Voice Inside Your Mind",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/10/inyourhead_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3087/the-voice-inside-your-mind.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2f3f85ef-512a-427b-b3ad-896988d552a2",
+      "id": "EROS-MK-3214",
+      "title": "Anything for Your Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/bunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/11/Bunny_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d6c705ce-888a-4ed8-af8e-fd6faa5d2dba",
+      "id": "EROS-MK-3772",
+      "title": "Puppy Obedience Part 3",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/puppy3.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3772/puppy-obedience-part-3.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "57c83cdb-de93-40a2-b82f-52b6830ccdcd",
+      "id": "EROS-MK-4091",
+      "title": "Cheer Squad Confidential ft. Sammys and Gigi!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/Cheersquadv1.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4091/cheer-squad-confidential-ft-sammys-and-gigi.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32a34592-fb91-448e-accc-566f12c0727b",
+      "id": "EROS-MK-4712",
+      "title": "Clicker Trained by a Goth",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Gothclick.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4712/clicker-trained-by-a-goth.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "df38df33-962f-4095-8513-dd75c6766803",
+      "id": "EROS-LL-0001",
+      "title": "Goon Encouragement",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Loops The Trickster Goddess",
+      "artistUuid": "f015e18c-928f-4b8f-bdbd-27cdba3b7f60",
+      "cover": "f015e18c-928f-4b8f-bdbd-27cdba3b7f60/cover/df38df33-962f-4095-8513-dd75c6766803.png",
+      "file": "",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

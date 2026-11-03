@@ -1,7 +1,7 @@
 {
   "slug": "freeze",
   "label": "FREEZE",
-  "count": 1,
+  "count": 7,
   "records": [
     {
       "uuid": "8ca0eb47-dbda-4513-a7bc-51bedf849dd6",
@@ -14,6 +14,84 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.mp3",
       "hash": "af19f1e754a3e37154abdce285fab6ffe61d98115b502e2d03245c9739f22c38",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f655489b-ae79-43f5-937e-59bcea3d9f7e",
+      "id": "EROS-MK-2809",
+      "title": "Battle with a Villainess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/villainess.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2809/battle-with-a-villainess.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ab0e6a31-ba72-404e-950e-1dd3f19c4625",
+      "id": "EROS-MK-2862",
+      "title": "Remote Control Pleasure Trigger",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/remote.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2862/remote-control-pleasure-trigger.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "06b193b5-83c4-41d0-a25c-22e9f7cd5f39",
+      "id": "EROS-MK-3081",
+      "title": "The Outfit Haul � Hypnotic Tease",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/outifthaul.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3081/the-outfit-haul-hypnotic-tease.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "c84e86f4-d1c9-46db-8cb7-281d5045a17f",
+      "id": "EROS-MK-3281",
+      "title": "Seduced by the Ice Queen",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/ice-queen.jpg",
+      "file": "https://mistresscalia.com/audioprotect/3281/seduced-by-the-ice-queen.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90f6b4dc-02b4-474c-9423-532e30376458",
+      "id": "EROS-MK-3781",
+      "title": "Medusa Turns You To Stone",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/medusa.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3781/medusa-turns-you-to-stone.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "60ea09a9-beb3-415c-b4b5-368233c3c8c9",
+      "id": "EROS-MK-4909",
+      "title": "Become My Body Pillow Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/pillow.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4909/become-my-body-pillow-hypnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

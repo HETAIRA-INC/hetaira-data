@@ -1,7 +1,7 @@
 {
   "slug": "puppy-play",
   "label": "PUPPY PLAY",
-  "count": 24,
+  "count": 26,
   "records": [
     {
       "uuid": "f083bcea-936a-401b-a65e-f8fe9f7a024c",
@@ -313,6 +313,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/8a7e7e97-acb1-46fd-8440-af00b9f8c58a.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/8a7e7e97-acb1-46fd-8440-af00b9f8c58a.mp3",
       "hash": "797ec4a3e0e43fa86dc6916e92febde353117147fcde89c4536e68cb74e27ee7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6bb62bec-bbfb-4bf6-a341-8f6b29d11b14",
+      "id": "EROS-LB-1414",
+      "title": "Clicker Training for Puppies",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/6bb62bec-bbfb-4bf6-a341-8f6b29d11b14.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/6bb62bec-bbfb-4bf6-a341-8f6b29d11b14.mp3",
+      "hash": "d7e27e47c0b1a5bf350ce6978be863712b86a6aede26dcd40403ab77b8cfb291",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "df38df33-962f-4095-8513-dd75c6766803",
+      "id": "EROS-LL-0001",
+      "title": "Goon Encouragement",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Loops The Trickster Goddess",
+      "artistUuid": "f015e18c-928f-4b8f-bdbd-27cdba3b7f60",
+      "cover": "f015e18c-928f-4b8f-bdbd-27cdba3b7f60/cover/df38df33-962f-4095-8513-dd75c6766803.png",
+      "file": "",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

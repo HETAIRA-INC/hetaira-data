@@ -1,7 +1,7 @@
 {
   "slug": "lamiasnake",
   "label": "LAMIA/SNAKE",
-  "count": 1,
+  "count": 5,
   "records": [
     {
       "uuid": "8ca0eb47-dbda-4513-a7bc-51bedf849dd6",
@@ -14,6 +14,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.mp3",
       "hash": "af19f1e754a3e37154abdce285fab6ffe61d98115b502e2d03245c9739f22c38",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5f577120-f0e0-40f8-9e6d-7b6875de3736",
+      "id": "EROS-MK-2974",
+      "title": "Sleep for Your Lamia Girlfriend",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/04/lamiasleepnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/Lamia-Sleep-CST.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90f6b4dc-02b4-474c-9423-532e30376458",
+      "id": "EROS-MK-3781",
+      "title": "Medusa Turns You To Stone",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/medusa.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3781/medusa-turns-you-to-stone.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f1019096-732b-4cad-9359-07aa94ca9b42",
+      "id": "EROS-MK-4514",
+      "title": "Lamia Hypnosis 2: After Work",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/04/lamia2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4514/lamia-hypnosis-2-after-work.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "19571d5e-fab2-4b64-8632-00e8d54b26de",
+      "id": "EROS-MK-4725",
+      "title": "Lamia Girlfriend and the Succubus",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/10/lamiasucc.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4725/lamia-girlfriend-and-the-succubus.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

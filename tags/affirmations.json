@@ -1,8 +1,21 @@
 {
   "slug": "affirmations",
   "label": "AFFIRMATIONS",
-  "count": 5,
+  "count": 6,
   "records": [
+    {
+      "uuid": "520d2137-dfe5-4a93-be59-7aa83bc4f657",
+      "id": "EROS-LB-926",
+      "title": "Work Hard",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/520d2137-dfe5-4a93-be59-7aa83bc4f657.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/520d2137-dfe5-4a93-be59-7aa83bc4f657.mp3",
+      "hash": "33819725f507025932e043f6ce574c0ba22388f65d6e1a0d9b39c0f531f459f3",
+      "status": "ACTIVE"
+    },
     {
       "uuid": "b677e45f-4e0a-48db-9682-b030145bd59a",
       "id": "EROS-MK-1471",

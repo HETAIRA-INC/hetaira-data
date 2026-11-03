@@ -1,7 +1,7 @@
 {
   "slug": "uniform",
   "label": "UNIFORM",
-  "count": 1,
+  "count": 5,
   "records": [
     {
       "uuid": "6f5f3f7f-0afe-49b2-a339-7cb34969ee3a",
@@ -14,6 +14,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/6f5f3f7f-0afe-49b2-a339-7cb34969ee3a.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/6f5f3f7f-0afe-49b2-a339-7cb34969ee3a.mp3",
       "hash": "01401cb2063f4b6cc90ee73b235e25174423734b043d8bc9fa7dfa6cb34b63c7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4ac38b80-cf85-4e96-b3f1-580d1c55c3f1",
+      "id": "EROS-MK-3330",
+      "title": "Good Cop, Bad Cop ft. Loops",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cop.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/good-cop-bad-cythnytbop-WITH-PANNING.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "525da51f-fba6-4502-9d9f-c14f3017cd35",
+      "id": "EROS-MK-3734",
+      "title": "Symbiote Partner Cuckolds You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/symbcuck.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3734/symbiote-partner-cuckolds-you.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "57c83cdb-de93-40a2-b82f-52b6830ccdcd",
+      "id": "EROS-MK-4091",
+      "title": "Cheer Squad Confidential ft. Sammys and Gigi!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/Cheersquadv1.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4091/cheer-squad-confidential-ft-sammys-and-gigi.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bdcf9e45-c0e1-47e0-a6a9-54f66ca88da6",
+      "id": "EROS-MK-4511",
+      "title": "Your Academic Rival Gives you a HFO",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/exam.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4511/your-academic-rival-gives-you-a-hfo.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

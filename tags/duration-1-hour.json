@@ -1,7 +1,7 @@
 {
   "slug": "duration-1-hour",
   "label": "DURATION: 1 HOUR+",
-  "count": 2,
+  "count": 3,
   "records": [
     {
       "uuid": "f6133206-3ff3-4f42-a081-a986ba4cce26",
@@ -27,6 +27,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/fc087969-de38-498a-91c1-5316df07f996.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/fc087969-de38-498a-91c1-5316df07f996.mp3",
       "hash": "f28c681fde6f1323d728dfc67fac0334c7bfd809ae62dd7fad1f4fd7f13e7aab",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "8a2ba523-7aea-4c94-97b3-2d339a575372",
+      "id": "EROS-MK-3462",
+      "title": "The Edge of Sanity",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/01/edgenew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/01/The-Edge-of-Sanity.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

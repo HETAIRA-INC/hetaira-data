@@ -1,7 +1,7 @@
 {
   "slug": "deepeners",
   "label": "DEEPENERS",
-  "count": 1,
+  "count": 4,
   "records": [
     {
       "uuid": "6645f8db-8b53-4d43-a341-9038df2d4ada",
@@ -14,6 +14,45 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/6645f8db-8b53-4d43-a341-9038df2d4ada.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/6645f8db-8b53-4d43-a341-9038df2d4ada.mp3",
       "hash": "c6d35b3cf516c1f91ca3c8723ecd25d0a134977f2430f07783f8017be24e3174",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "43fb2dd2-1b8f-42c9-a993-635a9bd5658f",
+      "id": "EROS-LB-1074",
+      "title": "How far can you go? Exploring deepener with Professor Lamb",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/43fb2dd2-1b8f-42c9-a993-635a9bd5658f.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/43fb2dd2-1b8f-42c9-a993-635a9bd5658f.mp3",
+      "hash": "d5074d7441c7bf9f565db6f76482ee656c1de508c9b1acb34268b58774b29534",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a3450f64-d326-492e-b26f-ecfc5908a7bb",
+      "id": "EROS-LB-1250",
+      "title": "Obedience Brainwashing",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/a3450f64-d326-492e-b26f-ecfc5908a7bb.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/a3450f64-d326-492e-b26f-ecfc5908a7bb.mp3",
+      "hash": "9ee95f9cd9ba08026f65a687e3b0e1b569ad720b181991f32273af32b146d448",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ac09d4c2-f88b-4351-87f7-38899b7ed5c6",
+      "id": "EROS-LB-1074",
+      "title": "How far can you go? Exploring deepener with Professor Lamb",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/ac09d4c2-f88b-4351-87f7-38899b7ed5c6.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/ac09d4c2-f88b-4351-87f7-38899b7ed5c6.mp3",
+      "hash": "d5074d7441c7bf9f565db6f76482ee656c1de508c9b1acb34268b58774b29534",
       "status": "ACTIVE"
     }
   ]

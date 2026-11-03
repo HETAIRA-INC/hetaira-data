@@ -1,7 +1,7 @@
 {
   "slug": "trigger-serve",
   "label": "TRIGGER: SERVE",
-  "count": 3,
+  "count": 5,
   "records": [
     {
       "uuid": "2f1dcfe7-0b93-49b1-88ea-6d5d6cf606bb",
@@ -40,6 +40,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.mp3",
       "hash": "789ced78fd1d328a75adf6e41c4432cd41b44d9be73b074e06005985b132a67d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6db6ce1f-ef76-4501-abd3-be1bef36ec99",
+      "id": "EROS-MK-2815",
+      "title": "The Detective�s Confession",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/prison_1920x1080_1.png",
+      "file": "https://mistresscalia.com/audioprotectsample/2815/the-detectives-confession.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d79a4eb6-6c1e-4572-ab8b-b6fa41fbae2c",
+      "id": "EROS-MK-2982",
+      "title": "Hotel Room Hypnoslave",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/hotel.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2982/hotel-room-hypnoslave.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

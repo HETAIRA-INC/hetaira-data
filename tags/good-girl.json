@@ -1,7 +1,7 @@
 {
   "slug": "good-girl",
   "label": "GOOD GIRL",
-  "count": 8,
+  "count": 10,
   "records": [
     {
       "uuid": "3f6f96f8-96ed-4b3a-8797-c448b7cbf91b",
@@ -105,6 +105,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/b1a9c334-59e6-463a-ab3f-69104dbe9f38.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b1a9c334-59e6-463a-ab3f-69104dbe9f38.mp3",
       "hash": "b0c8bb4438f4e066a8cf91098c79283fbc300f4ed1d99497dfc1d4ba6412c8f4",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "aa3fafb2-d7ad-45df-99c0-7339776ec698",
+      "id": "EROS-LB-1457",
+      "title": "Worship your Goddess � Loops",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/aa3fafb2-d7ad-45df-99c0-7339776ec698.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/aa3fafb2-d7ad-45df-99c0-7339776ec698.mp3",
+      "hash": "56b47f53070c832f66f33b63f4fe62de396128801405f86d127ae48a3775a7b1",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "975a2b90-b6cd-46f5-97bd-100e047ad43f",
+      "id": "EROS-LB-1849",
+      "title": "Locked for Lamb.",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/975a2b90-b6cd-46f5-97bd-100e047ad43f.jpg",
+      "file": "",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

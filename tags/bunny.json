@@ -1,7 +1,7 @@
 {
   "slug": "bunny",
   "label": "BUNNY",
-  "count": 1,
+  "count": 5,
   "records": [
     {
       "uuid": "848c196a-2fe0-44b0-a3fa-4ab7ccfec167",
@@ -14,6 +14,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/848c196a-2fe0-44b0-a3fa-4ab7ccfec167.png",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/848c196a-2fe0-44b0-a3fa-4ab7ccfec167.mp3",
       "hash": "f7724ca2c9d41dddbb5393fc8986682afeb7edd454bcc2d2d3ae616c266097ce",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "793dafa0-86bf-438f-b79c-27e86b76a5f5",
+      "id": "EROS-MK-3183",
+      "title": "Cult of Calia pt. 4: Ascension",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cult4.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3183/cult-of-calia-pt-4-ascension.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "2f3f85ef-512a-427b-b3ad-896988d552a2",
+      "id": "EROS-MK-3214",
+      "title": "Anything for Your Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/bunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/11/Bunny_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f47ef821-01cc-46ce-aeee-3d29a0b168c2",
+      "id": "EROS-MK-3383",
+      "title": "The Bunny Breeding Program",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/12/FB4C1C2C-C8D1-46CD-8DFF-FCA023318839.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/Bunny-Breeding_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "9b901b1c-556d-4f94-9c73-78c8ff2cd67d",
+      "id": "EROS-MK-4740",
+      "title": "Your Crush is a Good Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/goodbunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Good-Bunny_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

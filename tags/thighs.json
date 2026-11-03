@@ -1,18 +1,44 @@
 {
   "slug": "thighs",
   "label": "THIGHS",
-  "count": 1,
+  "count": 3,
   "records": [
     {
-      "uuid": "d2e7e370-f9ba-4682-bc02-cb2568d20f75",
-      "id": "EROS-LB-001",
+      "uuid": "1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb",
+      "id": "EROS-LB-1798",
       "title": "No Touch Challenge",
       "variant": "ORIGINAL",
       "tier": "FREE",
       "artist": "Lambellina",
-      "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
-      "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d2e7e370-f9ba-4682-bc02-cb2568d20f75.png",
-      "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d2e7e370-f9ba-4682-bc02-cb2568d20f75.mp3",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/1e9f9bc8-fde4-4c06-bcd5-f3a8255339fb.mp3",
+      "hash": "cdabcd6c6415b9344c482abd2cced492fdc18c703cb4298641660c6b0d0d13a6",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "93ce778c-ee3d-4239-ad11-1082c478099d",
+      "id": "EROS-MK-3287",
+      "title": "Dominated in the Ring",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/07/wrestling_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3287/dominated-in-the-ring.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "60ea09a9-beb3-415c-b4b5-368233c3c8c9",
+      "id": "EROS-MK-4909",
+      "title": "Become My Body Pillow Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/pillow.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4909/become-my-body-pillow-hypnosis.mp3",
       "hash": "",
       "status": "ACTIVE"
     }

@@ -1,7 +1,7 @@
 {
   "slug": "surrender",
   "label": "SURRENDER",
-  "count": 2,
+  "count": 3,
   "records": [
     {
       "uuid": "a6bd8075-b768-4f56-b3e4-1300ee8bb767",
@@ -27,6 +27,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d774a559-19f5-46aa-9ba6-093d188c4e71.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d774a559-19f5-46aa-9ba6-093d188c4e71.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a3450f64-d326-492e-b26f-ecfc5908a7bb",
+      "id": "EROS-LB-1250",
+      "title": "Obedience Brainwashing",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/a3450f64-d326-492e-b26f-ecfc5908a7bb.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/a3450f64-d326-492e-b26f-ecfc5908a7bb.mp3",
+      "hash": "9ee95f9cd9ba08026f65a687e3b0e1b569ad720b181991f32273af32b146d448",
       "status": "ACTIVE"
     }
   ]

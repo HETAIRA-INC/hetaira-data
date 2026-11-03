@@ -1,7 +1,7 @@
 {
   "slug": "iq-reduction",
   "label": "IQ REDUCTION",
-  "count": 2,
+  "count": 6,
   "records": [
     {
       "uuid": "6645f8db-8b53-4d43-a341-9038df2d4ada",
@@ -27,6 +27,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/2f1dcfe7-0b93-49b1-88ea-6d5d6cf606bb.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/2f1dcfe7-0b93-49b1-88ea-6d5d6cf606bb.mp3",
       "hash": "fb2c31170a898b6701433e5179c092049ab27d12b6579183af376a064381e541",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "47030867-74f0-45e7-b108-bc8524f99157",
+      "id": "EROS-MK-1824",
+      "title": "Double Trouble w/ Mistress Tess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/47030867-74f0-45e7-b108-bc8524f99157.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/47030867-74f0-45e7-b108-bc8524f99157.mp3",
+      "hash": "2345ddc1e36bb31fc28a84f6f03acd6f6a783571c6ea1e5d579d18c7296a0643",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b65b15cc-ff63-4cdb-88dd-10961d8f00d8",
+      "id": "EROS-MK-2670",
+      "title": "Too Dumb to Cum",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/toodumb.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2670/too-dumb-to-cum.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d2f9c646-45f4-4889-ba74-115911fb77da",
+      "id": "EROS-MK-3273",
+      "title": "Dumb Girl Tries Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/dumb.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3273/dumb-girl-tries-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4f1fc349-7d2f-461f-8aa9-8556bc0bb1db",
+      "id": "EROS-MK-3777",
+      "title": "Hucow Transformation Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/04/hucow_1920x1080-1024x576.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3777/hucow-transformation-hypnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "cleavage",
   "label": "CLEAVAGE",
-  "count": 1,
+  "count": 8,
   "records": [
     {
       "uuid": "a21247a0-7685-4cfc-a801-2c77a960d248",
@@ -14,6 +14,97 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/a21247a0-7685-4cfc-a801-2c77a960d248.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/a21247a0-7685-4cfc-a801-2c77a960d248.mp3",
       "hash": "10ec19aebc82c4659c25bcaa451ea15c66702382052a53871a1779a002cb78c4",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1f6e03c6-2a97-41c6-adda-9fdd682fe2aa",
+      "id": "EROS-MK-2787",
+      "title": "CaliaCorp: Your New Assistant",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/assistant.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2787/caliacorp-your-new-assistant.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "06b193b5-83c4-41d0-a25c-22e9f7cd5f39",
+      "id": "EROS-MK-3081",
+      "title": "The Outfit Haul � Hypnotic Tease",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/outifthaul.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3081/the-outfit-haul-hypnotic-tease.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ea05d0e4-f0ea-40d3-9cee-e157e159164b",
+      "id": "EROS-MK-3275",
+      "title": "Seducing the Powerful Genie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/09/genienew.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3275/seducing-the-powerful-genie.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bdcf9e45-c0e1-47e0-a6a9-54f66ca88da6",
+      "id": "EROS-MK-4511",
+      "title": "Your Academic Rival Gives you a HFO",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/exam.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4511/your-academic-rival-gives-you-a-hfo.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "389f371a-ae54-4695-b632-be6f021268fe",
+      "id": "EROS-MK-4710",
+      "title": "Cat Burglar Mesmerizes You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/07/catburglar.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4710/cat-burglar-mesmerizes-you.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32a34592-fb91-448e-accc-566f12c0727b",
+      "id": "EROS-MK-4712",
+      "title": "Clicker Trained by a Goth",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Gothclick.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4712/clicker-trained-by-a-goth.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

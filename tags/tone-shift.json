@@ -1,7 +1,7 @@
 {
   "slug": "tone-shift",
   "label": "TONE SHIFT",
-  "count": 2,
+  "count": 11,
   "records": [
     {
       "uuid": "fbfbd842-af00-4a64-8904-54c7b265f69c",
@@ -27,6 +27,123 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/0f1fbf26-882a-440f-b19e-374ff4c2f501.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/0f1fbf26-882a-440f-b19e-374ff4c2f501.mp3",
       "hash": "2aa236ee97ce85e5ce6c073465b3a981592921239a96f3d2c33c06d48647ff11",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "47030867-74f0-45e7-b108-bc8524f99157",
+      "id": "EROS-MK-1824",
+      "title": "Double Trouble w/ Mistress Tess",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/47030867-74f0-45e7-b108-bc8524f99157.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/47030867-74f0-45e7-b108-bc8524f99157.mp3",
+      "hash": "2345ddc1e36bb31fc28a84f6f03acd6f6a783571c6ea1e5d579d18c7296a0643",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e6e95790-80b5-4b36-8a58-74f0bf344d3d",
+      "id": "EROS-MK-2662",
+      "title": "You Can�t Be Hypnotized",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/Cantbe.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/05/You-Cant_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d2f9c646-45f4-4889-ba74-115911fb77da",
+      "id": "EROS-MK-3273",
+      "title": "Dumb Girl Tries Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/dumb.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3273/dumb-girl-tries-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f1f959e2-f0d5-406e-a822-6f736c093f16",
+      "id": "EROS-MK-3431",
+      "title": "The Trance Trap",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/01/trancetrapnew.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/Trance-Trap_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d1ed755f-6428-4226-8d5f-8e508868f39a",
+      "id": "EROS-MK-3549",
+      "title": "The Girl of Your Dreams is a Demon!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/sleepdemon_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3549/the-girl-of-your-dreams-is-a-demon.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "32a34592-fb91-448e-accc-566f12c0727b",
+      "id": "EROS-MK-4712",
+      "title": "Clicker Trained by a Goth",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Gothclick.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4712/clicker-trained-by-a-goth.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6bdf8162-5035-47e2-9aba-4c4a2a5cb090",
+      "id": "EROS-MK-4738",
+      "title": "Tsundere�s Hypnotic Help",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/tsundere.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Tsundere_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

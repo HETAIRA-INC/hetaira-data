@@ -1,7 +1,7 @@
 {
   "slug": "angry",
   "label": "ANGRY",
-  "count": 4,
+  "count": 12,
   "records": [
     {
       "uuid": "fbfbd842-af00-4a64-8904-54c7b265f69c",
@@ -53,6 +53,110 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/7107fc82-f76e-4a76-911e-9e9c229e5597.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/7107fc82-f76e-4a76-911e-9e9c229e5597.mp3",
       "hash": "05bdbcf4816b40edd51b53a8cb2ca92a920569e3c893d0a6e86f9c6238d71b0d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ebbf63b3-77fe-4e8e-b1a6-d5768daa0aa2",
+      "id": "EROS-MK-2822",
+      "title": "Enslaved by the Goddess of War",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/goddessofwarwide.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2822/enslaved-by-the-goddess-of-war.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "df6c625c-dac6-4ef0-bfec-8782d2593301",
+      "id": "EROS-MK-2978",
+      "title": "Dominated by the Lawyer",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/lawyer.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/TheLawyer.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "ae070d6d-3cb1-46bc-8593-1c8430cb9206",
+      "id": "EROS-MK-3279",
+      "title": "Humiliation Brainwash Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/12/humiliation_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/3279/humiliation-brainwash-loop.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4ac38b80-cf85-4e96-b3f1-580d1c55c3f1",
+      "id": "EROS-MK-3330",
+      "title": "Good Cop, Bad Cop ft. Loops",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cop.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/12/good-cop-bad-cythnytbop-WITH-PANNING.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "35fd9b5e-542f-4dcb-8455-d7befbccbaf7",
+      "id": "EROS-MK-3544",
+      "title": "Fucking Hypnosis, Right?",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/03/fucking.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/01/Fucking-Hypnosis_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "35dc6ffa-30c7-4d38-8762-718730fcb48e",
+      "id": "EROS-MK-3779",
+      "title": "Femdom Masturbation Addict",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/01/addict.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3779/femdom-masturbation-addict.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bd3b00b8-be32-42de-8408-7a1be00c6282",
+      "id": "EROS-MK-4002",
+      "title": "The Librarian�s Hypnoslut Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/04/library_1920x1080-1024x576.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4002/the-librarians-hypnoslut-quickie.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

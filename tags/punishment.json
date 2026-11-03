@@ -1,7 +1,7 @@
 {
   "slug": "punishment",
   "label": "PUNISHMENT",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "8cb08c24-b4fa-4607-b3d2-a407a7e1550d",
@@ -14,6 +14,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8cb08c24-b4fa-4607-b3d2-a407a7e1550d.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8cb08c24-b4fa-4607-b3d2-a407a7e1550d.mp3",
       "hash": "02666abc0a5a7027125c6c5a1f23ca461d5d73a7216422e0eed81ad37b8e2c1b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "086cf556-9430-4659-842d-0c85ec25a093",
+      "id": "EROS-MK-3768",
+      "title": "Femdom Obsession Part 9",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/femobs9.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/02/femobs9_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

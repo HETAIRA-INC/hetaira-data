@@ -1,7 +1,7 @@
 {
   "slug": "blackmail",
   "label": "BLACKMAIL",
-  "count": 2,
+  "count": 3,
   "records": [
     {
       "uuid": "c72e1515-9556-4df7-923d-47735ef02fad",
@@ -27,6 +27,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/332cf7c5-9e73-4243-bcef-c2e572a3696f.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/332cf7c5-9e73-4243-bcef-c2e572a3696f.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "db6b4188-36f3-4220-964d-c11d26c7390b",
+      "id": "EROS-LB-1708",
+      "title": "Manager Catches You Listening to Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/db6b4188-36f3-4220-964d-c11d26c7390b.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/db6b4188-36f3-4220-964d-c11d26c7390b.wav",
+      "hash": "1c2aef620ea677f65e4dc58343c24f7462414741ed9ec6a2bf62df39a7cfc234",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "trigger-deeper",
   "label": "TRIGGER: DEEPER",
-  "count": 7,
+  "count": 11,
   "records": [
     {
       "uuid": "44fd12a2-1166-4c68-be89-5ffbe44a8b53",
@@ -92,6 +92,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5387cbf7-40b2-4fb2-bd98-80756e2701d3.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5387cbf7-40b2-4fb2-bd98-80756e2701d3.mp3",
       "hash": "1c084829a3450ea8a4fe662dc21fbebfe664b1633d484c903936704f67ed40dc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0c1dd6d-3278-4fa0-8144-438065393707",
+      "id": "EROS-MK-2791",
+      "title": "Your Creativity Belongs to CaliaCorp",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/creativity.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2791/your-creativity-belongs-to-caliacorp.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f1019096-732b-4cad-9359-07aa94ca9b42",
+      "id": "EROS-MK-4514",
+      "title": "Lamia Hypnosis 2: After Work",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/04/lamia2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4514/lamia-hypnosis-2-after-work.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d189f92c-d04e-4634-9a3d-4983981f2c82",
+      "id": "EROS-MK-4714",
+      "title": "Gentle Hypno4*$$^%^43b",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Glitch.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4714/gentle-hypno443b.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "60ea09a9-beb3-415c-b4b5-368233c3c8c9",
+      "id": "EROS-MK-4909",
+      "title": "Become My Body Pillow Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/pillow.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4909/become-my-body-pillow-hypnosis.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

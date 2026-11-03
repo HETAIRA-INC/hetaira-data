@@ -1,7 +1,7 @@
 {
   "slug": "f4f",
   "label": "F4F",
-  "count": 13,
+  "count": 15,
   "records": [
     {
       "uuid": "ad0854d6-8534-4fdc-a084-85f14e699319",
@@ -170,6 +170,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/0b2cf59b-a892-4922-9660-8add7d57134e.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/0b2cf59b-a892-4922-9660-8add7d57134e.mp3",
       "hash": "da846e78a5da748f6dcda2aaeaaa15a8bf31631627f139a0ade6a77ce443093c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "036d09d1-0025-4bb2-9bc1-46aeff7fad74",
+      "id": "EROS-MK-3091",
+      "title": "Wrapped in My Tentacles",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/tentacles.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3091/wrapped-in-my-tentacles.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "9b901b1c-556d-4f94-9c73-78c8ff2cd67d",
+      "id": "EROS-MK-4740",
+      "title": "Your Crush is a Good Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/goodbunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Good-Bunny_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "dirty-talk",
   "label": "DIRTY TALK",
-  "count": 2,
+  "count": 6,
   "records": [
     {
       "uuid": "060d671d-0335-46a1-abf5-8bfa6dcfc872",
@@ -27,6 +27,58 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/060d671d-0335-46a1-abf5-8bfa6dcfc872.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/b59e9445-4bb9-4f65-946c-52e14d7cf133.mp3",
       "hash": "437fd914c679ac58768be977a6258a1eac80e8d96cc3acc1cc4e843e015cb2b8",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "034e5d3b-b157-4e09-93af-f6502f547441",
+      "id": "EROS-LB-1",
+      "title": "Hypnotherapist bullies you into submission",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/034e5d3b-b157-4e09-93af-f6502f547441.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/034e5d3b-b157-4e09-93af-f6502f547441.mp3",
+      "hash": "f676597609a19f917dc49c66b1c02a5ef11fc0aa32ee0cc6f5dc5c35f4766900",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "10481edb-3c4c-4230-ad14-c5ab151b528d",
+      "id": "EROS-LB-598",
+      "title": "HFO Training Part 2: Mindgasm",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/10481edb-3c4c-4230-ad14-c5ab151b528d.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/10481edb-3c4c-4230-ad14-c5ab151b528d.mp3",
+      "hash": "b3652576b3193857043bc8942d181ca90f0e12682ff6782a9d90fd91a01d2b87",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4dbb7a59-1d27-46cf-98e8-ec5b69b18383",
+      "id": "EROS-LB-1047",
+      "title": "Possession Obsession",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/4dbb7a59-1d27-46cf-98e8-ec5b69b18383.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/4dbb7a59-1d27-46cf-98e8-ec5b69b18383.mp3",
+      "hash": "7aae9efe93fdbe3cc92cb5a57a39fa44024b87bc7189260133a934bb9a855489",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "77d166c7-1c60-4564-a602-ad2fb8ec9982",
+      "id": "EROS-LB-1112",
+      "title": "Circus Erotic",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/77d166c7-1c60-4564-a602-ad2fb8ec9982.jpg",
+      "file": "",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

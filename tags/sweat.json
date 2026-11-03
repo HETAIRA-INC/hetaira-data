@@ -1,7 +1,7 @@
 {
   "slug": "sweat",
   "label": "SWEAT",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "bc62e92f-c16a-47f5-b7fb-4ebfac0306e8",
@@ -14,6 +14,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/bc62e92f-c16a-47f5-b7fb-4ebfac0306e8.png",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/bc62e92f-c16a-47f5-b7fb-4ebfac0306e8.mp3",
       "hash": "387490e4b0144f27cdd69f042787776239c23891dbe895bfcb4d52e9f128e328",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "50eddd9c-8a12-46c0-ba80-8072ae1d9e62",
+      "id": "EROS-MK-4516",
+      "title": "Bullied by Your Co-Worker",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/coworker_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4516/bullied-by-your-co-worker.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e56fcd38-bbfd-4862-96d8-ab1804a56aa2",
+      "id": "EROS-MK-4627",
+      "title": "The Girl Next Door�s Secret",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/girlnextdoor.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4627/the-girl-next-doors-secret.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

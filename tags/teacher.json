@@ -1,7 +1,7 @@
 {
   "slug": "teacher",
   "label": "TEACHER",
-  "count": 4,
+  "count": 7,
   "records": [
     {
       "uuid": "a21247a0-7685-4cfc-a801-2c77a960d248",
@@ -53,6 +53,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/274b9256-e8eb-4fbe-b4ea-a055a55a70c3.mp3",
       "hash": "789ced78fd1d328a75adf6e41c4432cd41b44d9be73b074e06005985b132a67d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "18844e37-9a14-4967-9174-61defcfefac6",
+      "id": "EROS-MK-3270",
+      "title": "Conversational Erotic Hypnosis Class",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/convclass.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/11/Class-Conversational-v2mp3.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "50eddd9c-8a12-46c0-ba80-8072ae1d9e62",
+      "id": "EROS-MK-4516",
+      "title": "Bullied by Your Co-Worker",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/coworker_1920x1080.png",
+      "file": "https://mistresscalia.com/audioprotectsample/4516/bullied-by-your-co-worker.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

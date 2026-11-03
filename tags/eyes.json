@@ -1,7 +1,7 @@
 {
   "slug": "eyes",
   "label": "EYES",
-  "count": 2,
+  "count": 5,
   "records": [
     {
       "uuid": "a21247a0-7685-4cfc-a801-2c77a960d248",
@@ -27,6 +27,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8ca0eb47-dbda-4513-a7bc-51bedf849dd6.mp3",
       "hash": "af19f1e754a3e37154abdce285fab6ffe61d98115b502e2d03245c9739f22c38",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d35a0c1e-6730-4029-860e-41516ae38702",
+      "id": "EROS-MK-2850",
+      "title": "VTuber Hypnotizes You",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/08/vtuber.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3991/look-into-my-eyes-vtuber-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "90a4747d-a52a-4e9b-a5cc-616d8a00018f",
+      "id": "EROS-MK-3001",
+      "title": "Calia�s Manifesto",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/vote2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3001/calias-manifesto.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f1019096-732b-4cad-9359-07aa94ca9b42",
+      "id": "EROS-MK-4514",
+      "title": "Lamia Hypnosis 2: After Work",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/04/lamia2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4514/lamia-hypnosis-2-after-work.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

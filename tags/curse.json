@@ -1,7 +1,7 @@
 {
   "slug": "curse",
   "label": "CURSE",
-  "count": 1,
+  "count": 6,
   "records": [
     {
       "uuid": "da3e4dec-6929-4538-8dbc-d8ce914640a4",
@@ -13,6 +13,71 @@
       "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/da3e4dec-6929-4538-8dbc-d8ce914640a4.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/da3e4dec-6929-4538-8dbc-d8ce914640a4.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d2b9f845-9f5f-4bee-86d9-4a1f19ee6fc1",
+      "id": "EROS-LB-1127",
+      "title": "The Curse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/d2b9f845-9f5f-4bee-86d9-4a1f19ee6fc1.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/d2b9f845-9f5f-4bee-86d9-4a1f19ee6fc1.mp3",
+      "hash": "22857fba8256a3b18c1c768db7d9f2295632ebe8d6084b54a9172a3f36fadbe6",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "3eccd6cd-75c5-4502-9f18-6901379fc3c8",
+      "id": "EROS-MK-2080",
+      "title": "Doomed to Goon",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/3eccd6cd-75c5-4502-9f18-6901379fc3c8.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/3eccd6cd-75c5-4502-9f18-6901379fc3c8.mp3",
+      "hash": "09adac2cb86a4d6f46160c51a2ded085e2203eb83983d1a0c55367a540f3082d",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fcd2784a-3eb4-4a1b-8aed-21712d947f3d",
+      "id": "EROS-MK-2942",
+      "title": "True Love�s Curse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/truelove.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/True-Loves-Curse.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5a4b7728-c2c1-44bf-9f9e-4108af87ba33",
+      "id": "EROS-MK-3546",
+      "title": "Forever Locked Chastity Curse Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/foreverwide.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/01/Chastity65j7-Curse_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0a0c2b7-db46-4bd1-8fde-7c53174df1d2",
+      "id": "EROS-MK-4631",
+      "title": "Curse of Constant Pleasure",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/cursepleasure.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/06/curse-of-constant-pleasure_mixdown.mp3",
       "hash": "",
       "status": "ACTIVE"
     }

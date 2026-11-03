@@ -1,7 +1,7 @@
 {
   "slug": "hypnotherapist",
   "label": "HYPNOTHERAPIST",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "0f1fbf26-882a-440f-b19e-374ff4c2f501",
@@ -14,6 +14,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/0f1fbf26-882a-440f-b19e-374ff4c2f501.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/0f1fbf26-882a-440f-b19e-374ff4c2f501.mp3",
       "hash": "2aa236ee97ce85e5ce6c073465b3a981592921239a96f3d2c33c06d48647ff11",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "bd9b0e7e-1d24-4243-a440-528dbfb922a8",
+      "id": "EROS-MK-1828",
+      "title": "Help With Your Sock Fetish",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/bd9b0e7e-1d24-4243-a440-528dbfb922a8.jpg",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/bd9b0e7e-1d24-4243-a440-528dbfb922a8.mp3",
+      "hash": "f4a9360dfa1b853f693382fd81751db163b75f57f3301939a4a91585d457f9fa",
       "status": "ACTIVE"
     }
   ]

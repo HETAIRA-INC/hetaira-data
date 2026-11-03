@@ -1,7 +1,7 @@
 {
   "slug": "manipulation",
   "label": "MANIPULATION",
-  "count": 5,
+  "count": 9,
   "records": [
     {
       "uuid": "816b4b86-ae43-4ae3-adb3-e52f2c0ec4cc",
@@ -65,6 +65,58 @@
       "artistUuid": "7ce7929c-7574-4a8e-8405-5422ff1f16dc",
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/d946e072-a825-4dd3-8aa8-b8ccf6ba1cab.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/d946e072-a825-4dd3-8aa8-b8ccf6ba1cab.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f8e9e765-3db2-4514-a6f7-a9fa0b156b52",
+      "id": "EROS-LB-1642",
+      "title": "Focus: Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/f8e9e765-3db2-4514-a6f7-a9fa0b156b52.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/f8e9e765-3db2-4514-a6f7-a9fa0b156b52.mp3",
+      "hash": "a1b04d0d83243a96954104740bbb2f0d93351e4dce8264b0485d762efed49e03",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7",
+      "id": "EROS-LB-1654",
+      "title": "Lamb Bluebeard",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7.mp3",
+      "hash": "12a2a3b4ae69bf43cff35e78746469bf7f8d74128d522e215741de93d53e5da9",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "db6b4188-36f3-4220-964d-c11d26c7390b",
+      "id": "EROS-LB-1708",
+      "title": "Manager Catches You Listening to Erotic Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/db6b4188-36f3-4220-964d-c11d26c7390b.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/db6b4188-36f3-4220-964d-c11d26c7390b.wav",
+      "hash": "1c2aef620ea677f65e4dc58343c24f7462414741ed9ec6a2bf62df39a7cfc234",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "975a2b90-b6cd-46f5-97bd-100e047ad43f",
+      "id": "EROS-LB-1849",
+      "title": "Locked for Lamb.",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/975a2b90-b6cd-46f5-97bd-100e047ad43f.jpg",
+      "file": "",
       "hash": "",
       "status": "ACTIVE"
     }

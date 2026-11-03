@@ -1,7 +1,7 @@
 {
   "slug": "induction-shock",
   "label": "INDUCTION: SHOCK",
-  "count": 2,
+  "count": 6,
   "records": [
     {
       "uuid": "2d53749c-70ba-44a8-826f-f52134bb353b",
@@ -27,6 +27,58 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/f49cc7fe-d7e2-4c62-9a1f-191d4d86cbdd.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/f49cc7fe-d7e2-4c62-9a1f-191d4d86cbdd.mp3",
       "hash": "d255181c7032c1df54bbadf04ff8c9c0023fe90a9e4d2d428b12d75fcbf68eff",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "75179e1f-4c18-4f42-830a-183d937069c1",
+      "id": "EROS-MK-2244",
+      "title": "The Infinite Caliaverse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/75179e1f-4c18-4f42-830a-183d937069c1.png",
+      "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/75179e1f-4c18-4f42-830a-183d937069c1.mp3",
+      "hash": "37490c9d619db24b3153f5d51320f83b2903aee19f34ca9cd7ea9d95d327b48c",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e4f28440-a4c2-44a7-9e04-145c1afab340",
+      "id": "EROS-MK-2979",
+      "title": "Let Me Fuck Your Mind Quickie",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/lickwide.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2979/let-me-fuck-your-mind-quickie.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "db4f25d8-2ef6-4ee2-9787-7e42f9e5fdd5",
+      "id": "EROS-MK-3433",
+      "title": "Scream if you Wanna Go Faster",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/screan.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3433/scream-if-you-wanna-go-faster.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e7b15e48-17b7-465c-a875-f97c7b222711",
+      "id": "EROS-MK-4913",
+      "title": "I�m SO Sorry for Hypnotizing You!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/sosorry.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4913/im-so-sorry-for-hypnotizing-you.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

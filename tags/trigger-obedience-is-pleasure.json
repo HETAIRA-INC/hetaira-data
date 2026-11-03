@@ -1,7 +1,7 @@
 {
   "slug": "trigger-obedience-is-pleasure",
   "label": "TRIGGER: OBEDIENCE IS PLEASURE",
-  "count": 6,
+  "count": 9,
   "records": [
     {
       "uuid": "81e6cc08-247d-491f-a494-75772edfaf21",
@@ -79,6 +79,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/8cb08c24-b4fa-4607-b3d2-a407a7e1550d.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/8cb08c24-b4fa-4607-b3d2-a407a7e1550d.mp3",
       "hash": "02666abc0a5a7027125c6c5a1f23ca461d5d73a7216422e0eed81ad37b8e2c1b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "937dc35c-f7fc-462a-b11f-f5e4bd4669ea",
+      "id": "EROS-MK-2651",
+      "title": "Neat Freak Makes You Clean",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/05/neatfreak_1920x1080_wm-1024x576.png",
+      "file": "https://mistresscalia.com/audioprotectsample/2651/neat-freak-makes-you-clean.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "4d083773-da9b-4689-aa98-e952beb8d9d0",
+      "id": "EROS-MK-3283",
+      "title": "Never Have I Ever",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Neverhave.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3283/never-have-i-ever.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "5fc673af-a730-4f99-b648-a57f9dd2bebc",
+      "id": "EROS-MK-4519",
+      "title": "Drone Mode Part 4: Erasure",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/drone4.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/06/Drone-Series-4_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

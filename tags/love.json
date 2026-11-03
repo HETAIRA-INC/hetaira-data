@@ -1,8 +1,21 @@
 {
   "slug": "love",
   "label": "LOVE",
-  "count": 3,
+  "count": 10,
   "records": [
+    {
+      "uuid": "98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7",
+      "id": "EROS-LB-1654",
+      "title": "Lamb Bluebeard",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7.mp3",
+      "hash": "12a2a3b4ae69bf43cff35e78746469bf7f8d74128d522e215741de93d53e5da9",
+      "status": "ACTIVE"
+    },
     {
       "uuid": "7c78933f-3332-4366-9126-9b3bb9e5203e",
       "id": "EROS-MK-1165",
@@ -40,6 +53,84 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/5387cbf7-40b2-4fb2-bd98-80756e2701d3.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/5387cbf7-40b2-4fb2-bd98-80756e2701d3.mp3",
       "hash": "1c084829a3450ea8a4fe662dc21fbebfe664b1633d484c903936704f67ed40dc",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "fcd2784a-3eb4-4a1b-8aed-21712d947f3d",
+      "id": "EROS-MK-2942",
+      "title": "True Love�s Curse",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/truelove.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2024/08/True-Loves-Curse.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "be2ae51a-cb12-4839-95f3-4ee1c1ea8a74",
+      "id": "EROS-MK-3159",
+      "title": "Cult of Calia pt 2: The Ritual of Bliss",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/cult2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3159/cult-of-calia-pt-2-the-ritual-of-bliss.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6d74fcb8-bdf6-4b46-8cf3-3f3ae3436cf8",
+      "id": "EROS-MK-4366",
+      "title": "The Flower Girl�s Hypnosis",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/Flowergirl.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4366/the-flower-girls-hypnosis.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "f1019096-732b-4cad-9359-07aa94ca9b42",
+      "id": "EROS-MK-4514",
+      "title": "Lamia Hypnosis 2: After Work",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/04/lamia2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4514/lamia-hypnosis-2-after-work.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6bdf8162-5035-47e2-9aba-4c4a2a5cb090",
+      "id": "EROS-MK-4738",
+      "title": "Tsundere�s Hypnotic Help",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/tsundere.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Tsundere_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "56679e33-0c31-4c82-b3bd-10e598f975c4",
+      "id": "EROS-MK-4915",
+      "title": "Ivy�s Hypnotic Hands Free Orgasm",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Ivy.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4915/ivys-hypnotic-hands-free-orgasm.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

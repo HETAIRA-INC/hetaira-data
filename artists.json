@@ -50,6 +50,37 @@
     "site": "https://mistresscalia.com/",
     "defaultTag": "HYPNOSIS & AUDIO",
     "status": "ACTIVE",
+<<<<<<< Updated upstream
     "recordCount": 86
+=======
+    "recordCount": 239
+  },
+  {
+    "uuid": "f015e18c-928f-4b8f-bdbd-27cdba3b7f60",
+    "slug": "loops-the-trickster-goddess",
+    "name": "Loops The Trickster Goddess",
+    "aliases": [
+      "loopyloops"
+    ],
+    "idPrefix": "EROS-LL-",
+    "site": "https://loopshypnosis.com/",
+    "defaultTag": "HYPNOSIS & AUDIO",
+    "status": "ACTIVE",
+    "recordCount": 1
+  },
+  {
+    "uuid": "6cc33dd3-585e-435f-97d5-b57342a43925",
+    "slug": "sammystique",
+    "name": "Sammystique",
+    "aliases": [
+      "sammy",
+      "sam mystique"
+    ],
+    "idPrefix": "EROS-SM-",
+    "site": "https://hypnohellven.com/",
+    "defaultTag": "HYPNOSIS & AUDIO",
+    "status": "ACTIVE",
+    "recordCount": 0
+>>>>>>> Stashed changes
   }
 ]

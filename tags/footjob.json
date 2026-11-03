@@ -1,7 +1,7 @@
 {
   "slug": "footjob",
   "label": "FOOTJOB",
-  "count": 3,
+  "count": 5,
   "records": [
     {
       "uuid": "a6bd8075-b768-4f56-b3e4-1300ee8bb767",
@@ -40,6 +40,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/6972fc7b-541f-40ef-b8fb-a4b30bf17c23.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/6972fc7b-541f-40ef-b8fb-a4b30bf17c23.mp3",
       "hash": "0b367802434ae7ec27ae811c37338643ef27db7c596fe43a74de19817e263e3b",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "a0a0c2b7-db46-4bd1-8fde-7c53174df1d2",
+      "id": "EROS-MK-4631",
+      "title": "Curse of Constant Pleasure",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/cursepleasure.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/06/curse-of-constant-pleasure_mixdown.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "28ab2bd6-f1c1-4b9f-b00b-8d31949c0995",
+      "id": "EROS-MK-4900",
+      "title": "Campfire Girls Hypnotize You Collab",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Campfire-Girls.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4900/campfire-girls-hypnotize-you-collab.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "brat",
   "label": "BRAT",
-  "count": 1,
+  "count": 3,
   "records": [
     {
       "uuid": "9a9c46eb-7dfd-41aa-99b0-3b1772e893c0",
@@ -14,6 +14,32 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/9a9c46eb-7dfd-41aa-99b0-3b1772e893c0.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/9a9c46eb-7dfd-41aa-99b0-3b1772e893c0.mp3",
       "hash": "2f9f814d5d47791ee63e97997a37f39bf68fc60e09b294be58eb86ddcdea6ce0",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "28ab2bd6-f1c1-4b9f-b00b-8d31949c0995",
+      "id": "EROS-MK-4900",
+      "title": "Campfire Girls Hypnotize You Collab",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/Campfire-Girls.jpg",
+      "file": "https://mistresscalia.com/audioprotect/4900/campfire-girls-hypnotize-you-collab.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "e7b15e48-17b7-465c-a875-f97c7b222711",
+      "id": "EROS-MK-4913",
+      "title": "I�m SO Sorry for Hypnotizing You!",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/sosorry.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4913/im-so-sorry-for-hypnotizing-you.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

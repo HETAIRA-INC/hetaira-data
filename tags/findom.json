@@ -1,7 +1,7 @@
 {
   "slug": "findom",
   "label": "FINDOM",
-  "count": 6,
+  "count": 9,
   "records": [
     {
       "uuid": "c72e1515-9556-4df7-923d-47735ef02fad",
@@ -79,6 +79,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/204e501b-3ad8-481a-8272-15c2ff146a88.jpg",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/204e501b-3ad8-481a-8272-15c2ff146a88.mp3",
       "hash": "a8dbc12fcad5041ad23a8e93d5e4a829c46e3e385b8dacdf9419cd879f951fa7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "b6fd9171-782c-48ca-86f4-f36579437caa",
+      "id": "EROS-MK-2329",
+      "title": "Yoga Instructor Takes Control",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2024/03/yoga.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/2329/yoga-instructor-takes-control.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "249a985f-d466-4854-a625-6c061542abbf",
+      "id": "EROS-MK-2811",
+      "title": "Findom Brainwashing Loop",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/findomb.jpg",
+      "file": "https://mistresscalia.com/audioprotect/2811/findom-brainwashing-loop.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "af4c2e52-f24f-48dc-ba0a-4f9e9c652c41",
+      "id": "EROS-MK-4007",
+      "title": "Dopamine Release Experiment",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/findomlab.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4007/dopamine-release-experiment.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "emotional-manipulation",
   "label": "EMOTIONAL MANIPULATION",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "266eb33c-3e93-46e5-8d8f-6eb95c84dfb8",
@@ -14,6 +14,19 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/266eb33c-3e93-46e5-8d8f-6eb95c84dfb8.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/266eb33c-3e93-46e5-8d8f-6eb95c84dfb8.mp3",
       "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7",
+      "id": "EROS-LB-1654",
+      "title": "Lamb Bluebeard",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7.jpg",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/98d00e9b-20f8-4e7d-b1dc-9beda7ce89a7.mp3",
+      "hash": "12a2a3b4ae69bf43cff35e78746469bf7f8d74128d522e215741de93d53e5da9",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "heat",
   "label": "HEAT",
-  "count": 1,
+  "count": 2,
   "records": [
     {
       "uuid": "bc62e92f-c16a-47f5-b7fb-4ebfac0306e8",
@@ -14,6 +14,19 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/bc62e92f-c16a-47f5-b7fb-4ebfac0306e8.png",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/bc62e92f-c16a-47f5-b7fb-4ebfac0306e8.mp3",
       "hash": "387490e4b0144f27cdd69f042787776239c23891dbe895bfcb4d52e9f128e328",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "9b901b1c-556d-4f94-9c73-78c8ff2cd67d",
+      "id": "EROS-MK-4740",
+      "title": "Your Crush is a Good Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/goodbunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Good-Bunny_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "slug": "stripping",
   "label": "STRIPPING",
-  "count": 1,
+  "count": 4,
   "records": [
     {
       "uuid": "bc62e92f-c16a-47f5-b7fb-4ebfac0306e8",
@@ -14,6 +14,45 @@
       "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/bc62e92f-c16a-47f5-b7fb-4ebfac0306e8.png",
       "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/bc62e92f-c16a-47f5-b7fb-4ebfac0306e8.mp3",
       "hash": "387490e4b0144f27cdd69f042787776239c23891dbe895bfcb4d52e9f128e328",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "692fb1d7-47ad-4f7d-ad16-e7affd9acfe0",
+      "id": "EROS-MK-3774",
+      "title": "Hypnosis in the Elevator",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/11/thelift.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3774/hypnosis-in-the-elevator.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "1a632572-06c6-4374-8730-c39f321c72e6",
+      "id": "EROS-MK-4398",
+      "title": "The Ice Queen�s Sister",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/icequeen2.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/4398/the-ice-queens-sister.mp3",
+      "hash": "",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "9b901b1c-556d-4f94-9c73-78c8ff2cd67d",
+      "id": "EROS-MK-4740",
+      "title": "Your Crush is a Good Bunny",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/goodbunny.jpg",
+      "file": "https://mistresscalia.com/wp-content/uploads/2025/08/Good-Bunny_mixdown.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]

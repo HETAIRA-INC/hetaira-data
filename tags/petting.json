@@ -1,7 +1,7 @@
 {
   "slug": "petting",
   "label": "PETTING",
-  "count": 3,
+  "count": 5,
   "records": [
     {
       "uuid": "17ca123f-24e5-4e05-80a8-8c780b0e399a",
@@ -40,6 +40,32 @@
       "cover": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/covers/8a7e7e97-acb1-46fd-8440-af00b9f8c58a.png",
       "file": "7ce7929c-7574-4a8e-8405-5422ff1f16dc/audio/8a7e7e97-acb1-46fd-8440-af00b9f8c58a.mp3",
       "hash": "797ec4a3e0e43fa86dc6916e92febde353117147fcde89c4536e68cb74e27ee7",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "6bb62bec-bbfb-4bf6-a341-8f6b29d11b14",
+      "id": "EROS-LB-1414",
+      "title": "Clicker Training for Puppies",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Lambellina",
+      "artistUuid": "f2303e86-9708-40c5-91ee-e375a04ebcae",
+      "cover": "f2303e86-9708-40c5-91ee-e375a04ebcae/cover/6bb62bec-bbfb-4bf6-a341-8f6b29d11b14.png",
+      "file": "f2303e86-9708-40c5-91ee-e375a04ebcae/audio/6bb62bec-bbfb-4bf6-a341-8f6b29d11b14.mp3",
+      "hash": "d7e27e47c0b1a5bf350ce6978be863712b86a6aede26dcd40403ab77b8cfb291",
+      "status": "ACTIVE"
+    },
+    {
+      "uuid": "d6c705ce-888a-4ed8-af8e-fd6faa5d2dba",
+      "id": "EROS-MK-3772",
+      "title": "Puppy Obedience Part 3",
+      "variant": "ORIGINAL",
+      "tier": "FREE",
+      "artist": "Mistress Calia",
+      "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+      "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/puppy3.jpg",
+      "file": "https://mistresscalia.com/audioprotectsample/3772/puppy-obedience-part-3.mp3",
+      "hash": "",
       "status": "ACTIVE"
     }
   ]
