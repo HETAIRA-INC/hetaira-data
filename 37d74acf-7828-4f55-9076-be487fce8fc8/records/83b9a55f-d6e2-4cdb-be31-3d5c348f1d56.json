@@ -1,0 +1,58 @@
+{
+  "uuid": "83b9a55f-d6e2-4cdb-be31-3d5c348f1d56",
+  "status": "ACTIVE",
+  "id": "EROS-MK-4565",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "AMNESIA",
+    "COUNTDOWN",
+    "DEEPENER",
+    "DURATION: 20-30",
+    "F4A",
+    "GASLIGHTING",
+    "HISTORY",
+    "INDUCTION: CONFUSION",
+    "NON-DOMINANT",
+    "NON-SEXUAL",
+    "POST-HYPNOTIC SUGGESTION",
+    "SCIENCE",
+    "SPACE",
+    "TRIGGER: GO BLANK"
+  ],
+  "title": "Confusion Countdown Hypnosis",
+  "description": "Numbers are so confusing, aren�t they? All you want is to reach the number zero and fall deep into a hypnotic trance, but how the heck do we get there? Zero hasn�t been a number forever you know. The concept of it is relatively new, on a galactic scale.\n\nNumbers are something we created, as humans. But are they inherently hypnotic? Are they something that can take you into trance? Can you be hypnotized by them, or just confused? Travel through time and space with me, and let�s find out how numbers can be used for confusion hypnosis!",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2025-06-27",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2025/06/confusionc.jpg",
+  "file": "https://mistresscalia.com/wp-content/uploads/2025/06/confusion-count_mixdown.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/confusion-countdown-hypnosis/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:52",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/confusion-countdown-hypnosis/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:44",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

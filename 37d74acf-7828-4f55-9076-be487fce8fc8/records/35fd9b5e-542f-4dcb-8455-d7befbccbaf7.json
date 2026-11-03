@@ -1,0 +1,55 @@
+{
+  "uuid": "35fd9b5e-542f-4dcb-8455-d7befbccbaf7",
+  "status": "ACTIVE",
+  "id": "EROS-MK-3544",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "ANGRY",
+    "COVERT HYPNOSIS",
+    "DURATION: 10-20",
+    "F4A",
+    "INDUCTION: CONVERSATIONAL",
+    "INDUCTION: ERICKSONIAN",
+    "META",
+    "MUSIC",
+    "NON-DOMINANT",
+    "NON-SEXUAL",
+    "TRIGGER: SWEARING"
+  ],
+  "title": "Fucking Hypnosis, Right?",
+  "description": "You think hypnosis is about relaxing and closing your eyes. But you�re so wrong. You, and pretty much everybody else, have the wrong idea about hypnosis, and what it is. So I�m going to explain it to you, very simply. Ok? Because I�m sick of having to repeat myself. So listen closely, no matter what.",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2025-02-26",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2024/03/fucking.jpg",
+  "file": "https://mistresscalia.com/wp-content/uploads/2025/01/Fucking-Hypnosis_mixdown.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/fucking-hypnosis-right/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:51",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/fucking-hypnosis-right/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:43",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

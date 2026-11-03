@@ -1,0 +1,55 @@
+{
+  "uuid": "7da6be9a-9aad-48cd-a50c-0c23899e66fc",
+  "status": "ACTIVE",
+  "id": "EROS-MK-3568",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "COLLAB",
+    "COSY",
+    "DURATION: 10-20",
+    "F4A",
+    "INDUCTION: FIXATION",
+    "NON-DOMINANT",
+    "NON-SEXUAL",
+    "RADIO SHOW",
+    "RELAXATION",
+    "SCIENCE",
+    "SPACE"
+  ],
+  "title": "Eight Minutes Twenty Seconds",
+  "description": "Welcome to Longwave, on 93.21 SINK FM, a science show for lovers of the world, the stars, and everything about life.\n\nThis file is about the time it takes for the light of the sun to reach us here on Earth, about enough time for me to put you into a light, lovely trance, and show you the importance of letting your mind go now and then, and appreciating the wonder of the universe.\n\nThis is part of the Radio collab at The Hypno Collective! Find more free content there now from amazing hypnosis creators!",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2025-03-27",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/longwave_1920x1080.png",
+  "file": "https://mistresscalia.com/wp-content/uploads/2024/12/Eight-Minutes-Twenty-Seconds.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/eight-minutes-twenty-seconds/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:51",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/eight-minutes-twenty-seconds/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:43",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

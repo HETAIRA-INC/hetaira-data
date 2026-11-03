@@ -5,23 +5,25 @@
   "variant": "ORIGINAL",
   "tag": "HYPNOSIS & AUDIO",
   "tags": [
-    "AUDIO AVAILABLE",
-    "HYPNOSIS",
     "AMNESIA",
     "DIRECT DOMINANCE",
+    "DURATION: 20-30",
     "ENSLAVEMENT",
     "F4A",
     "FEMDOM",
     "GASLIGHTING",
-    "BETTY ERICKSON",
+    "INDUCTION: BETTY ERICKSON",
     "PHYSICAL INTERACTION",
     "RESISTANCE PLAY",
     "SUBLIMINALS",
     "SUBMISSION",
-    "TASK"
+    "TASK",
+    "TRIGGER: DROP",
+    "TRIGGER: RUSH",
+    "WAKING TRANCE"
   ],
   "title": "Branding My Slave Hypnosis",
-  "description": "Let me take you deep into a trance. A happy, mindless trance where I remind you that you belong to me. That you are my slave. That I am in control, and what I say, you do.\n\nAnd there is no resisting that. If I want to brand you like cattle, I will. In fact, that’s what this hypnosis file is all about. Branding you, my slave. Claiming you as mine, all mine to use as I see fit. And good slaves obey. And good slaves accept their brand with pride.\n\nCW: Includes a command to write on your body.",
+  "description": "Let me take you deep into a trance. A happy, mindless trance where I remind you that you belong to me. That you are my slave. That I am in control, and what I say, you do.\n\nAnd there is no resisting that. If I want to brand you like cattle, I will. In fact, that's what this hypnosis file is all about. Branding you, my slave. Claiming you as mine, all mine to use as I see fit. And good slaves obey. And good slaves accept their brand with pride.\n\nCW: Includes a command to write on your body.",
   "triggers": [
     "DROP",
     "RUSH",
@@ -32,7 +34,7 @@
   "author": "Mistress Calia",
   "artist": "Mistress Calia",
   "collaborators": [],
-  "releaseDate": "2026-10-31",
+  "releaseDate": "2025-06-20",
   "tone": [],
   "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/325c9f2f-2ac5-455d-a2c9-d1dd1829bdc0.png",
   "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/325c9f2f-2ac5-455d-a2c9-d1dd1829bdc0.mp3",
@@ -43,6 +45,21 @@
       "date": "2026-10-31 13:47:25",
       "variant": "ORIGINAL",
       "note": "Protocol created"
+    },
+    {
+      "date": "2026-11-03 09:18:52",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:44",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
     }
   ],
   "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",

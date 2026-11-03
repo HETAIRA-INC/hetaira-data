@@ -1,0 +1,59 @@
+{
+  "uuid": "89a5b950-9bd9-4737-b9a7-842a861c23e1",
+  "status": "ACTIVE",
+  "id": "EROS-MK-3770",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "CONDITIONING",
+    "DEHUMANISATION",
+    "DRONE",
+    "DURATION: 10-20",
+    "F4A",
+    "INDUCTION: COUNTING",
+    "PROGRAMMING",
+    "ROBOT",
+    "SHAREABLE TRIGGERS",
+    "SUBLIMINALS",
+    "THE DRONIFICATION PROGRAM",
+    "TIME DILATION",
+    "TRIGGER INSTALL",
+    "TRIGGER: DRONE MODE END",
+    "TRIGGER: DRONE MODE NOW"
+  ],
+  "title": "Drone Mode Part 1: Installation",
+  "description": "In this opening part of the drone hypnosis series, you�ll be hypnotized as a program is installed in your mind. This program will brainwash you into having a new drone mode, one that will be activated by a trigger word.\n\nIn drone mode you will feel blank, empty, and devoid of thought. A mindless automaton who obeys without question.\n\nNow doesn�t that sound good, drone?\n\nListen to the full series now.",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2025-03-19",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/drone1.jpg",
+  "file": "https://mistresscalia.com/wp-content/uploads/2025/02/Drone-Series-1_mixdown.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/drone-mode-part-1-installation/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:51",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/drone-mode-part-1-installation/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:43",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "uuid": "52a8fdee-e1f6-4b49-8052-6ced1b496fff",
+  "status": "ACTIVE",
+  "id": "EROS-MK-2824",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "AMNESIA",
+    "COLLAB",
+    "CORRUPTION",
+    "DURATION: 10-20",
+    "F4A",
+    "GASLIGHTING",
+    "INDUCTION: CONVERSATIONAL",
+    "NON-SEXUAL",
+    "SCIENCE FICTION",
+    "TRIGGER: DROP",
+    "TRIGGER: FALL",
+    "TRIGGER: RUSH",
+    "VIRUS"
+  ],
+  "title": "The Collective Virus: Warning",
+  "description": "Warning: The Hypno Collective Virus is highly infectious. Please listen.\n\nWarning: The Hypno Collective Virus is highly infectious. Please listen.\n\nThe Hypno Collective are spreading a virus through the world, via audio. Protect yourself from this menace by listening to this antivirus installation file. It will ensure you are fully safe from any negative feelings about the virus. In fact, you�ll come to truly appreciate and want to share the virus once you listen. You�ll go to the Hypno Collective site and find more programming to further the virus.\n\nBut remember, you�re completely safe�\n\nCW: Virus theme, infection, some gaslighting, some reverse psychology, brainwashing.\n\nArt by Kayriko.",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2024-09-19",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/virus.jpg",
+  "file": "https://mistresscalia.com/audioprotect/2824/the-collective-virus-warning.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/the-collective-virus-warning/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:50",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/the-collective-virus-warning/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:42",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

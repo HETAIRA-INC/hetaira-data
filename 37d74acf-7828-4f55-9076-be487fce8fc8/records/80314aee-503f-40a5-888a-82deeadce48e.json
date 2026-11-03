@@ -1,0 +1,52 @@
+{
+  "uuid": "80314aee-503f-40a5-888a-82deeadce48e",
+  "status": "ACTIVE",
+  "id": "EROS-MK-2983",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "DURATION: 10-20",
+    "F4A",
+    "FEMDOM",
+    "GASLIGHTING",
+    "INDUCTION: ERICKSONIAN",
+    "POLITICS",
+    "TRIGGER INSTALL",
+    "TRIGGER: VOTE"
+  ],
+  "title": "Announcing My Candidacy",
+  "description": "The Calia 2024 campaign starts here! In this file I�ll introduce you to the reasons why you should choose me over any other political candidate this election season. You�ll understand exactly why I�m the right choice� because I fulfil all of your needs.\n\nUsing an induction based around the hierarchy of needs, you�ll soon find yourself agreeing that yes, you do want to vote for me.\n\nCW: This file has a political theme.",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2024-09-06",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2026/03/vote1.jpg",
+  "file": "https://mistresscalia.com/audioprotect/2983/announcing-my-candidacy.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/announcing-my-candidacy/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:50",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/announcing-my-candidacy/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:42",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

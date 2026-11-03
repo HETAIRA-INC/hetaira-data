@@ -1,0 +1,58 @@
+{
+  "uuid": "29fd15cd-1912-484b-83de-e937839ebe1e",
+  "status": "ACTIVE",
+  "id": "EROS-MK-2976",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "COUNTDOWN",
+    "DEEPENER",
+    "DURATION: 20-30",
+    "F4A",
+    "FALLING",
+    "INDUCTION: ERICKSONIAN",
+    "NO WAKENER",
+    "NON-DOMINANT",
+    "NON-SEXUAL",
+    "QUICKSAND",
+    "RELAXATION",
+    "SLEEP",
+    "UNDERWATER",
+    "WHOLESOME"
+  ],
+  "title": "Cosy Sleep Hypnosis",
+  "description": "This file has one, simple goal; to get you to go to sleep.\n\nThere is nothing sexual, only gentle, calming words from me, lulling you down to rest and relax, and feel so wonderful and sleepy that you can�t help but drift off to dreamland. It�s a pure, cosy sleep hypnosis.\n\nSo if you want to sleep, this simple hypnosis file will help you get there.\n\nArt by Celyn.",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2024-08-23",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2025/02/sleep.jpg",
+  "file": "https://mistresscalia.com/wp-content/uploads/2024/08/Cosy-Sleep.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/cosy-sleep-hypnosis/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:50",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/cosy-sleep-hypnosis/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:42",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

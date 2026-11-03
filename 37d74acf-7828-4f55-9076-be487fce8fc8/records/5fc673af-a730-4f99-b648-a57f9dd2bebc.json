@@ -1,0 +1,63 @@
+{
+  "uuid": "5fc673af-a730-4f99-b648-a57f9dd2bebc",
+  "status": "ACTIVE",
+  "id": "EROS-MK-4519",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "BRAINWASH",
+    "DEHUMANISATION",
+    "DRONE",
+    "DURATION: 10-20",
+    "F4A",
+    "INDUCTION: FIXATION",
+    "OBJECTIFICATION",
+    "PHYSICAL INTERACTION",
+    "SHAREABLE TRIGGERS",
+    "SUBLIMINALS",
+    "THE DRONIFICATION PROGRAM",
+    "TRIGGER INSTALL",
+    "TRIGGER: ACTIVATE DRONE",
+    "TRIGGER: CLICK AND DELETE",
+    "TRIGGER: DRONE MODE END",
+    "TRIGGER: DRONE MODE NOW",
+    "TRIGGER: DRONE STANDBY",
+    "TRIGGER: OBEDIENCE IS PLEASURE",
+    "TRIGGER: RUSH"
+  ],
+  "title": "Drone Mode Part 4: Erasure",
+  "description": "Hello again drone. You�ve come quite far in your training, but it seems you retain many of the human thoughts, worries, and stresses that hamper your ability to be the best and most mindless drone you can be.\n\nThat�s why this latest patch will simply run some optimization tools upon your mind. Making sure your drone software and hardware are clear of any unnecessary distractions while you are in drone mode. We don�t want you to have anything else on your mind when you are required to work for your operator, isn�t that right, drone?\n\nArt by Kayriko.\n\nListen to the full series now.",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2025-06-04",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2025/03/drone4.jpg",
+  "file": "https://mistresscalia.com/wp-content/uploads/2025/06/Drone-Series-4_mixdown.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/drone-mode-part-4-erasure/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:52",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/drone-mode-part-4-erasure/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:44",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "uuid": "791acfa6-0eba-407e-add0-fb766eac21de",
+  "status": "ACTIVE",
+  "id": "EROS-MK-4917",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "DURATION: 10-20",
+    "EXPERIMENT",
+    "F4A",
+    "GASLIGHTING",
+    "INDUCTION: CONVERSATIONAL",
+    "META",
+    "POST-HYPNOTIC SUGGESTION",
+    "SCIENCE",
+    "TRIGGER: AUTOMATICALLY",
+    "TRIGGER: PRETTY PLEASE"
+  ],
+  "title": "My Willing Lab Rat Hypnosis",
+  "description": "A simple experiment in hypnosis. All you have to do is listen. All you have to do is follow my commands. You�ll find that hypnosis is quite easy really, when you do that. You might even enjoy this experiment.\n\nIt will, however, leave you with a short-term effect, post-hypnosis. If you have 30 minutes to spare after this file, then have a listen. Otherwise� wait until you can fully participate in this experiment.\n\nArt by Ref",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2025-09-12",
+  "tone": [],
+  "cover": "https://mistresscalia.com/wp-content/uploads/2025/08/labrat.jpg",
+  "file": "https://mistresscalia.com/audioprotect/4917/my-willing-lab-rat-hypnosis.mp3",
+  "hash": "",
+  "url": "https://mistresscalia.com/my-willing-lab-rat-hypnosis/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:53",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/my-willing-lab-rat-hypnosis/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:31:45",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}

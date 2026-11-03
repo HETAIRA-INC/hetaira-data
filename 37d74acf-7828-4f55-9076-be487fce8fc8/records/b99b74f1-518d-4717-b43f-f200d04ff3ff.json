@@ -1,0 +1,56 @@
+{
+  "uuid": "b99b74f1-518d-4717-b43f-f200d04ff3ff",
+  "status": "ACTIVE",
+  "id": "EROS-MK-2222",
+  "variant": "ORIGINAL",
+  "tag": "HYPNOSIS & AUDIO",
+  "tags": [
+    "COUNTDOWN",
+    "DEEPENER",
+    "DURATION: 10-20",
+    "F4A",
+    "FOOD",
+    "INDUCTION: 7+/-2",
+    "NON-DOMINANT",
+    "SLICE OF LIFE",
+    "TEASING",
+    "TRIGGER INSTALL",
+    "TRIGGER: DROP",
+    "TRIGGER: SWEET TREAT"
+  ],
+  "title": "Pavlova Conditioning Hypnosis",
+  "description": "Come bake with me in this delicious delicacy of hypnotic nonsense!\n\nCome bake with me in this delicious delicacy of hypnotic nonsense!\n\nYou�ve heard of Pavlovian conditioning, but have you heard of Pavlova conditioning? It�s where we bake together and I whisk your mind into a frothy, creamy mess until you�re totally hooked on my sweet treats!\n\nA binaural ASMR style file with lots of moving between your ears, whispers and very, very naughty double entendres. This one really takes the cake!",
+  "triggers": [],
+  "tier": "FREE",
+  "audience": "F4A",
+  "author": "Mistress Calia",
+  "artist": "Mistress Calia",
+  "releaseDate": "2024-04-01",
+  "tone": [],
+  "cover": "37d74acf-7828-4f55-9076-be487fce8fc8/cover/b99b74f1-518d-4717-b43f-f200d04ff3ff.png",
+  "file": "37d74acf-7828-4f55-9076-be487fce8fc8/audio/b99b74f1-518d-4717-b43f-f200d04ff3ff.mp3",
+  "hash": "90052d59f53fa50114d2f95bd911b0889a341fbadda69e7e7115df3965d877e8",
+  "url": "https://mistresscalia.com/pavlova-conditioning-hypnosis/",
+  "changelog": [
+    {
+      "date": "2026-11-03 09:18:49",
+      "variant": "ORIGINAL",
+      "note": "Imported from https://mistresscalia.com/pavlova-conditioning-hypnosis/"
+    },
+    {
+      "date": "2026-11-03 09:19:15",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    },
+    {
+      "date": "2026-11-03 09:24:17",
+      "variant": "ORIGINAL",
+      "note": "Re-synchronized via batch importer"
+    }
+  ],
+  "artistUuid": "37d74acf-7828-4f55-9076-be487fce8fc8",
+  "collaborators": [],
+  "artistUuids": [
+    "37d74acf-7828-4f55-9076-be487fce8fc8"
+  ]
+}
